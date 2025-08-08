@@ -1,1 +1,18 @@
-{}
+{
+    "current_season": 12,
+    "season_data_url": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/s{gacha_season}/{gacha_image}.png?raw=true",
+    "12": [
+        {
+            "start": "2025-08-06 13:00:00 (JST)",
+            "expired": "2025-09-24 12:59:59 (JST)",
+            "image": "T_ui_Notice_Image_120405",
+            "costumes": [
+                "Endeavor Cyber Hero Costume",
+                "All Might Cyber Hero Costume"
+            ],
+            "quirk_skill_set": [
+                "Endeavor Inferno Fist"
+            ]
+        }
+    ]
+}
