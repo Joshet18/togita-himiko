@@ -3,9 +3,69 @@
     "season_data_url": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/s{gacha_season}/{gacha_image}.png?raw=true",
     "12": [
         {
+            "start": "2025-08-20 13:00:00 (JST)",
+            "expired": "2025-09-24 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2512008",
+            "color": "#4dd2ff",
+            "type": "costumes",
+            "costumes": [
+                "Dabi Disguise: Hoodie",
+                "Dabi Villain Costume (White Hair ver.)",
+                "Dabi Cyberpunk"
+            ],
+            "character": [],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-08-20 13:00:00 (JST)",
+            "expired": "2025-09-14 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2512004",
+            "color": "#ffff4d",
+            "type": "skill",
+            "costumes": [
+                "Ochaco Uraraka Summer Leisure",
+                "Ochaco Uraraka Festival Yukata"
+            ],
+            "character": [],
+            "quirk_skill_set": [
+                "Ochaco Uraraka Zero Satellites"
+            ]
+        },
+        {
+            "start": "2025-09-03 13:00:00 (JST)",
+            "expired": "2025-09-24 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2512002",
+            "color": "#66ff66",
+            "type": "character",
+            "costumes": [
+                "Kurogiri Cyberpunk",
+                "Kurogiri Commander of Dark Clouds"
+            ],
+            "character": [
+                "Kurogiri"
+            ],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-09-03 13:00:00 (JST)",
+            "expired": "2025-09-24 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2512006",
+            "color": "#d24dff",
+            "type": "skill",
+            "costumes": [
+                "All Might Festival Happi",
+                "Tenya Iida Festival Happi",
+                "Mirio Togata Casual Wear"
+            ],
+            "character": [],
+            "quirk_skill_set": [
+                "Mirio Togata (Sheer Counter)"
+            ]
+        },
+        {
             "start": "2025-08-06 13:00:00 (JST)",
             "expired": "2025-09-24 12:59:59 (JST)",
-            "image": "T_ui_Notice_Image_120405",
+            "image": "T_ui_Gasha_Banner_2512005",
             "color": "#ffff4d",
             "type": "skill",
             "costumes": [
@@ -16,6 +76,51 @@
             "quirk_skill_set": [
                 "Endeavor Inferno Fist"
             ]
+        },
+        {
+            "start": "2025-07-23 13:00:00 (JST)",
+            "expired": "2025-08-20 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2512007",
+            "color": "#4dd2ff",
+            "type": "costumes",
+            "costumes": [
+                "Endeavor Undefeatable Costume",
+                "Endeavor Casual Wear Costume",
+                "Endeavor Fierce Fire General Costume"
+            ],
+            "character": [],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-07-23 13:00:00 (JST)",
+            "expired": "2025-08-20 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2512003",
+            "color": "#80dfff",
+            "type": "skill",
+            "costumes": [
+                "Himiko Toga Villain Pirates",
+                "Himiko Toga Cyberpunk"
+            ],
+            "character": [],
+            "quirk_skill_set": [
+                "Himiko Toga Sting Dance"
+            ]
+        },
+        {
+            "start": "2025-07-23 13:00:00 (JST)",
+            "expired": "2025-09-03 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2512001",
+            "color": "#ff3333",
+            "type": "character",
+            "costumes": [
+                "Tamaki Amajiki Festival Outfit",
+                "Nejire Hado Festival Yukata",
+                "Mirio Togata Festival Outfit"
+            ],
+            "character": [
+                "Tamaki Amajiki"
+            ],
+            "quirk_skill_set": []
         }
     ]
 }
