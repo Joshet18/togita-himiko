@@ -1,0 +1,12 @@
+{
+    "resolvers": {
+        "user.tag": "(ctx) => `${ctx.user.username}#${ctx.user.discriminator}`",
+        "user.mention": "(ctx) => `<@${ctx.user.id}>`",
+        "channel.mention": "(ctx) => `<#${ctx.channel.id}>`",
+        "member.nickname": "(ctx) => ctx.member?.nickname || ctx.user.username",
+        "member.tag": "(ctx) => `${ctx.member.user.username}#${ctx.member.user.discriminator}`",
+        "message.short": "(ctx) => ctx.message.content.slice(0,20) + \"...\"",
+        "role.name": "(ctx) => ctx.role?.name || \"Unknown Role\"",
+        "role.mention": "(ctx) => `<@&${ctx.role?.id}>`"
+    }
+}
