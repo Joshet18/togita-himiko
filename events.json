@@ -1,0 +1,20 @@
+{
+    "current_season": 12,
+    "season_data_url": "https://github.com/Joshet18/togita-himiko/blob/main/events/s{season}/{image}.png?raw=true",
+    "12": [
+        {
+            "start": "2025-09-03 13:00:00 (JST)",
+            "expired": "2025-09-24 12:59:59 (JST)",
+            "image": "T_ui_Bg_251204",
+            "color": "#80dfff",
+            "type": "area-control-battle"
+        },
+        {
+            "start": "2025-08-27 13:00:00 (JST)",
+            "expired": "2025-09-24 12:59:59 (JST)",
+            "image": "T_ui_Bg_251203",
+            "color": "#99b3ff",
+            "type": "battle"
+        }
+    ]
+}
