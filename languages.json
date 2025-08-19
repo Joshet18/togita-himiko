@@ -8,5 +8,6 @@
         "message.short": "(ctx) => ctx.message.content.slice(0,20) + \"...\"",
         "role.name": "(ctx) => ctx.role?.name || \"Unknown Role\"",
         "role.mention": "(ctx) => `<@&${ctx.role?.id}>`"
-    }
+    },
+    "test.lang": "user: {user.tag}"
 }
