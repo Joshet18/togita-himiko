@@ -5,6 +5,7 @@
         {
             "start": "2025-09-03 13:00:00 (JST)",
             "expired": "2025-09-24 12:59:59 (JST)",
+            "name": "Area Control Battle Event Vol. 1",
             "image": "T_ui_Bg_251204",
             "color": "#80dfff",
             "type": "area-control-battle"
@@ -12,9 +13,18 @@
         {
             "start": "2025-08-27 13:00:00 (JST)",
             "expired": "2025-09-24 12:59:59 (JST)",
+            "name": "Battle Event Vol. 7",
             "image": "T_ui_Bg_251203",
             "color": "#99b3ff",
             "type": "battle"
+        },
+        {
+            "start": "2025-07-23 13:00:00 (JST)",
+            "name": "Mission Event Vol. 12",
+            "expired": "2025-08-13 12:59:59 (JST)",
+            "image": "T_ui_Bg_251201",
+            "color": "#ff944d",
+            "type": "mision"
         }
     ]
 }
