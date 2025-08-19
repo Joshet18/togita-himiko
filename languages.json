@@ -9,8 +9,8 @@
         "role.name": "(ctx) => ctx.role?.name || \"Unknown Role\"",
         "role.mention": "(ctx) => `<@&${ctx.role?.id}>`"
     },
-    "test.lang": {
-        "en_us": "user: {user.tag}",
-        "en_es": "usuario: {user.tag}"
-    }
+    "languages": [
+        "en_us",
+        "en_es""
+    ]
 }
