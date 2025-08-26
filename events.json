@@ -3,12 +3,20 @@
     "season_data_url": "https://github.com/Joshet18/togita-himiko/blob/main/events/s{season}/{image}.png?raw=true",
     "12": [
         {
-            "start": "2025-09-03 13:00:00 (JST)",
-            "expired": "2025-09-24 12:59:59 (JST)",
-            "name": "Area Control Battle Event Vol. 1",
-            "image": "T_ui_Bg_251204",
-            "color": "#80dfff",
-            "type": "area-control-battle"
+            "start": "2025-07-23 13:00:00 (JST)",
+            "expired": "2025-08-13 12:59:59 (JST)",
+            "name": "Mission Event Vol. 12",
+            "image": "T_ui_Bg_251201",
+            "color": "#ff944d",
+            "type": "mision"
+        },
+        {
+            "start": "2025-08-13 13:00:00 (JST)",
+            "expired": "2025-08-27 12:59:59 (JST)",
+            "name": "Drop Event Vol. 12",
+            "image": "T_ui_Bg_251001",
+            "color": "#ffa366",
+            "type": "drop"
         },
         {
             "start": "2025-08-27 13:00:00 (JST)",
@@ -19,12 +27,298 @@
             "type": "battle"
         },
         {
-            "start": "2025-07-23 13:00:00 (JST)",
-            "name": "Mission Event Vol. 12",
-            "expired": "2025-08-13 12:59:59 (JST)",
-            "image": "T_ui_Bg_251201",
-            "color": "#ff944d",
+            "start": "2025-09-03 13:00:00 (JST)",
+            "expired": "2025-09-24 12:59:59 (JST)",
+            "name": "Area Control Battle Event Vol. 1",
+            "image": "T_ui_Bg_251204",
+            "color": "#80dfff",
+            "type": "area-control-battle"
+        }
+    ],
+    "11": [
+        {
+            "start": "2025-05-21 13:00:00 (JST)",
+            "expired": "2025-06-11 12:59:59 (JST)",
+            "name": "Mission Event Vol. 11",
+            "image": "T_ui_Bg_251101",
+            "color": "#ffff66",
             "type": "mision"
+        },
+        {
+            "start": "2025-06-11 13:00:00 (JST)",
+            "expired": "2025-06-25 12:59:59 (JST)",
+            "name": "Drop Event Vol. 11",
+            "image": "T_ui_Bg_251001",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2025-06-25 13:00:00 (JST)",
+            "expired": "2025-07-23 12:59:59 (JST)",
+            "name": "Agency Event Vol. 5",
+            "image": "T_ui_Bg_251103",
+            "color": "#66ff66",
+            "type": "agency"
+        }
+    ],
+    "10": [
+        {
+            "start": "2025-03-26 13:00:00 (JST)",
+            "expired": "2025-04-09 12:59:59 (JST)",
+            "name": "Drop Event Vol. 10",
+            "image": "T_ui_Bg_251001",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2025-04-09 13:00:00 (JST)",
+            "expired": "2025-04-30 12:59:59 (JST)",
+            "name": "Mission Event Vol. 10",
+            "image": "T_ui_Bg_251002",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2025-04-30 13:00:00 (JST)",
+            "expired": "2025-05-21 12:59:59 (JST)",
+            "name": "Battle Event Vol. 6",
+            "image": "T_ui_Bg_251003",
+            "color": "#66b3ff",
+            "type": "battle"
+        }
+    ],
+    "9": [
+        {
+            "start": "2025-01-22 13:00:00 (JST)",
+            "expired": "2025-02-05 12:59:59 (JST)",
+            "name": "Drop Event Vol. 9",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2025-02-05 13:00:00 (JST)",
+            "expired": "2025-02-26 12:59:59 (JST)",
+            "name": "Mission Event Vol. 9",
+            "image": "T_ui_Bg_250902",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2025-02-26 13:00:00 (JST)",
+            "expired": "2025-03-26 12:59:59 (JST)",
+            "name": "Agency Event Vol. 4",
+            "image": "T_ui_Bg_250903",
+            "color": "#66ff66",
+            "type": "agency"
+        }
+    ],
+    "8": [
+        {
+            "start": "2024-11-20 13:00:00 (JST)",
+            "expired": "2024-12-18 12:59:59 (JST)",
+            "name": "Mission Event Vol. 8",
+            "image": "T_ui_Bg_240801",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2024-12-18 13:00:00 (JST)",
+            "expired": "2025-01-01 12:59:59 (JST)",
+            "name": "Drop Event Vol. 8",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2025-01-01 13:00:00 (JST)",
+            "expired": "2025-01-22 12:59:59 (JST)",
+            "name": "Battle Event Vol. 5",
+            "image": "T_ui_Bg_240803",
+            "color": "#66b3ff",
+            "type": "battle"
+        }
+    ],
+    "7": [
+        {
+            "start": "2024-09-25 13:00:00 (JST)",
+            "expired": "2024-10-09 12:59:59 (JST)",
+            "name": "Drop Event Vol. 7",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2024-10-09 13:00:00 (JST)",
+            "expired": "2024-10-30 12:59:59 (JST)",
+            "name": "Mission Event Vol. 7",
+            "image": "T_ui_Bg_240702",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2024-11-06 13:00:00 (JST)",
+            "expired": "2024-11-20 12:59:59 (JST)",
+            "name": "Agency Event Vol. 3",
+            "image": "T_ui_Bg_240703",
+            "color": "#66ff66",
+            "type": "agency"
+        }
+    ],
+    "6": [
+        {
+            "start": "2024-07-24 13:00:00 (JST)",
+            "expired": "2024-08-07 12:59:59 (JST)",
+            "name": "Drop Event Vol. 6",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2024-08-07 13:00:00 (JST)",
+            "expired": "2024-08-28 12:59:59 (JST)",
+            "name": "Mission Event Vol. 6",
+            "image": "T_ui_Bg_240602",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2024-04-25 00:00:00 (JST)",
+            "expired": "2024-09-25 12:59:59 (JST)",
+            "name": "Battle Event Vol. 4",
+            "image": "T_ui_Bg_240603",
+            "color": "#66b3ff",
+            "type": "battle"
+        }
+    ],
+    "5": [
+        {
+            "start": "2024-05-22 13:00:00 (JST)",
+            "expired": "2024-06-05 12:59:59 (JST)",
+            "name": "Drop Event Vol. 5",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2024-06-05 13:00:00 (JST)",
+            "expired": "2024-06-26 12:59:59 (JST)",
+            "name": "Mission Event Vol. 5",
+            "image": "T_ui_Bg_240502",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2024-07-03 13:00:00 (JST)",
+            "expired": "2024-07-24 12:59:59 (JST)",
+            "name": "Agency Event Vol. 2",
+            "image": "T_ui_Bg_240503",
+            "color": "#66ff66",
+            "type": "agency"
+        }
+    ],
+    "4": [
+        {
+            "start": "2024-03-27 13:00:00 (JST)",
+            "expired": "2024-04-10 12:59:59 (JST)",
+            "name": "Drop Event Vol. 4",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2024-04-10 13:00:00 (JST)",
+            "expired": "2024-05-01 12:59:59 (JST)",
+            "name": "Mission Event Vol. 4",
+            "image": "T_ui_Bg_240402",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2024-05-08 13:00:00 (JST)",
+            "expired": "2024-05-22 12:59:59 (JST)",
+            "name": "Battle Event Vol. 3",
+            "image": "T_ui_Bg_240403",
+            "color": "#66b3ff",
+            "type": "battle"
+        }
+    ],
+    "3": [
+        {
+            "start": "2024-01-25 13:00:00 (JST)",
+            "expired": "2024-02-07 12:59:59 (JST)",
+            "name": "Drop Event Vol. 3",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2024-02-07 13:00:00 (JST)",
+            "expired": "2024-02-28 12:59:59 (JST)",
+            "name": "Mission Event Vol. 3",
+            "image": "event_240302",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2024-03-06 13:00:00 (JST)",
+            "expired": "2024-03-26 12:59:59 (JST)",
+            "name": "Agency Event Vol. 1",
+            "image": "T_ui_Bg_240303",
+            "color": "#66ff66",
+            "type": "agency"
+        }
+    ],
+    "2": [
+        {
+            "start": "2023-11-24 13:00:00 (JST)",
+            "expired": "2023-12-11 12:59:59 (JST)",
+            "name": "Drop Event Vol. 2",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2023-12-11 13:00:00 (JST)",
+            "expired": "2024-01-01 12:59:59 (JST)",
+            "name": "Mission Event Vol. 2",
+            "image": "T_ui_Bg_230202",
+            "color": "#ffff66",
+            "type": "mision"
+        },
+        {
+            "start": "2024-01-09 13:00:00 (JST)",
+            "expired": "2024-01-25 12:59:59 (JST)",
+            "name": "Battle Event Vol. 2",
+            "image": "T_ui_Bg_230203",
+            "color": "#66b3ff",
+            "type": "battle"
+        }
+    ],
+    "1": [
+        {
+            "start": "2023-09-28 13:00:00 (JST)",
+            "expired": "2023-10-17 12:59:59 (JST)",
+            "name": "Mission Event Vol. 1",
+            "image": "T_ui_Bg_230101",
+            "color": "#ffa366",
+            "type": "mision"
+        },
+        {
+            "start": "2023-10-25 13:00:00 (JST)",
+            "expired": "2023-11-10 12:59:59 (JST)",
+            "name": "Drop Event Vol. 1",
+            "image": "T_ui_Bg_230102",
+            "color": "#ffff66",
+            "type": "drop"
+        },
+        {
+            "start": "2023-11-10 13:00:00 (JST)",
+            "expired": "2023-11-24 12:59:59 (JST)",
+            "name": "Battle Event Vol. 1",
+            "image": "T_ui_Bg_230103",
+            "color": "#66b3ff",
+            "type": "battle"
         }
     ]
 }
