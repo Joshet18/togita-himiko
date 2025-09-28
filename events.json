@@ -1,6 +1,64 @@
 {
     "current_season": 12,
     "season_data_url": "https://github.com/Joshet18/togita-himiko/blob/main/events/s{season}/{image}.png?raw=true",
+    "13": [
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2100-01-01 00:00:00 (JST)",
+            "name": "Beginner Mission Event",
+            "image": "T_ui_Notice_Image_10005",
+            "color": "#b3ff66",
+            "type": "others"
+        },
+        {
+            "start": "2025-09-25 17:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "name": "My Hero Ultra Impact Collab Mission Event",
+            "image": "T_ui_Notice_Image_130412",
+            "color": "#ccffe6",
+            "type": "others"
+        },
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2025-10-15 12:59:59 (JST)",
+            "name": "Mission Event Vol. 13",
+            "image": "T_ui_Notice_Image_130201",
+            "color": "#ff944d",
+            "type": "mission"
+        },
+        {
+            "start": "2025-10-15 13:00:00 (JST)",
+            "expired": "2025-10-29 12:59:59 (JST)",
+            "name": "Drop Event Vol. 13",
+            "image": "T_ui_Bg_251001",
+            "color": "#ffa366",
+            "type": "drop"
+        },
+        {
+            "start": "2025-10-15 13:00:00 (JST)",
+            "expired": "2025-10-29 12:59:59 (JST)",
+            "name": "Area Control Battle Event Vol. 2",
+            "image": "T_ui_Notice_Image_130203",
+            "color": "#80dfff",
+            "type": "area-control-battle"
+        },
+        {
+            "start": "2025-10-29 13:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "name": "Agency Event Vol. 6",
+            "image": "T_ui_Notice_Image_130204",
+            "color": "#66ff66",
+            "type": "agency"
+        },
+        {
+            "start": "2025-11-05 13:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "name": "Area Control Battle Event Vol. 3",
+            "image": "T_ui_Notice_Image_130205",
+            "color": "#80dfff",
+            "type": "area-control-battle"
+        }
+    ],
     "12": [
         {
             "start": "2025-07-23 13:00:00 (JST)",
@@ -8,7 +66,7 @@
             "name": "Mission Event Vol. 12",
             "image": "T_ui_Bg_251201",
             "color": "#ff944d",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2025-08-13 13:00:00 (JST)",
@@ -42,7 +100,7 @@
             "name": "Mission Event Vol. 11",
             "image": "T_ui_Bg_251101",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2025-06-11 13:00:00 (JST)",
@@ -76,7 +134,7 @@
             "name": "Mission Event Vol. 10",
             "image": "T_ui_Bg_251002",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2025-04-30 13:00:00 (JST)",
@@ -102,7 +160,7 @@
             "name": "Mission Event Vol. 9",
             "image": "T_ui_Bg_250902",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2025-02-26 13:00:00 (JST)",
@@ -120,7 +178,7 @@
             "name": "Mission Event Vol. 8",
             "image": "T_ui_Bg_240801",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2024-12-18 13:00:00 (JST)",
@@ -154,7 +212,7 @@
             "name": "Mission Event Vol. 7",
             "image": "T_ui_Bg_240702",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2024-11-06 13:00:00 (JST)",
@@ -180,7 +238,7 @@
             "name": "Mission Event Vol. 6",
             "image": "T_ui_Bg_240602",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2024-04-25 00:00:00 (JST)",
@@ -206,7 +264,7 @@
             "name": "Mission Event Vol. 5",
             "image": "T_ui_Bg_240502",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2024-07-03 13:00:00 (JST)",
@@ -232,7 +290,7 @@
             "name": "Mission Event Vol. 4",
             "image": "T_ui_Bg_240402",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2024-05-08 13:00:00 (JST)",
@@ -258,7 +316,7 @@
             "name": "Mission Event Vol. 3",
             "image": "event_240302",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2024-03-06 13:00:00 (JST)",
@@ -284,7 +342,7 @@
             "name": "Mission Event Vol. 2",
             "image": "T_ui_Bg_230202",
             "color": "#ffff66",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2024-01-09 13:00:00 (JST)",
@@ -302,7 +360,7 @@
             "name": "Mission Event Vol. 1",
             "image": "T_ui_Bg_230101",
             "color": "#ffa366",
-            "type": "mision"
+            "type": "mission"
         },
         {
             "start": "2023-10-25 13:00:00 (JST)",

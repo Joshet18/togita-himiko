@@ -1,6 +1,168 @@
 {
     "current_season": 12,
     "season_data_url": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/s{gacha_season}/{gacha_image}.png?raw=true",
+    "13": [
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513001",
+            "color": "#80dfff",
+            "type": "character",
+            "costumes": [
+                "Izuku Midoriya OFA One For All Final Battle Ver.",
+                "Katsuki Bakugo Strafe Panzer",
+                "Ochaco Uraraka Superstar Idol"
+            ],
+            "character": [
+                "Izuku Midoriya OFA"
+            ],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2025-10-22 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513002",
+            "color": "#ff3333",
+            "type": "character",
+            "costumes": [
+                "Hitoshi Shinso Ninja",
+                "Tsuyu Asui Ninja",
+                "Ochaco Uraraka Ninja"
+            ],
+            "character": [
+                "Hitoshi Shinso"
+            ],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2025-10-08 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513004",
+            "color": "#4dd2ff",
+            "type": "skill",
+            "costumes": [
+                "All Might Day Off",
+                "All Might Support Item"
+            ],
+            "character": [],
+            "quirk_skill_set": [
+                "All Might (Gatling)"
+            ]
+        },
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2025-11-05 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513007",
+            "color": "#ff3333",
+            "type": "skill",
+            "costumes": [
+                "Izuku Midoriya Costume ε",
+                "Katsuki Bakugo Quirk Assist Gear"
+            ],
+            "character": [],
+            "quirk_skill_set": [
+                "Izuku Midoriya [Full Bullet]",
+                "Katsuki Bakugo [Machine Gun]"
+            ]
+        },
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513009",
+            "color": "#ffff4d",
+            "type": "character",
+            "costumes": [],
+            "character": [
+                "A special Roll where you are guaranteed to obtain 1 Battle Style from your selected list is now underway!\n*Selectable Battle Styles featured in this Roll are those from before Season 12."
+            ],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513010",
+            "color": "#66ff66",
+            "type": "character",
+            "costumes": [],
+            "character": [
+                "A special Roll where you are guaranteed to obtain 1 Battle Style from your selected list is now underway!\n*Selectable Battle Styles featured in this Roll are those from before Season 12."
+            ],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-09-24 13:00:00 (JST)",
+            "expired": "2100-01-01 00:00:00 (JST)",
+            "image": "T_ui_Gasha_Banner_2513011",
+            "color": "#66ff66",
+            "type": "character",
+            "costumes": [],
+            "character": [],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-10-08 13:00:00 (JST)",
+            "expired": "2025-11-05 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513005",
+            "color": "#ff3333",
+            "type": "skill",
+            "costumes": [
+                "Hawks Formal Suit",
+                "Tsuyu Asui Superstar Idol",
+                "Twice League of Villains Suit"
+            ],
+            "character": [],
+            "quirk_skill_set": [
+                "Hawks [Slicing Wind]"
+            ]
+        },
+        {
+            "start": "2025-10-22 13:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513003",
+            "color": "#ffff4d",
+            "type": "",
+            "costumes": [
+                "All For One Villain Costume Rewind Ver.",
+                "All For One Villain Costume Wearable Ver.",
+                "Nejire Hado Superstar Idol"
+            ],
+            "character": [
+                "All For One [Original]"
+            ],
+            "quirk_skill_set": []
+        },
+        {
+            "start": "2025-10-22 13:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513008",
+            "color": "#ff3333",
+            "type": "skill",
+            "costumes": [
+                "Eijiro Kirishima Shinobi",
+                "Denki Kaminari Undefeatable"
+            ],
+            "character": [],
+            "quirk_skill_set": [
+                "Eijiro Kirishima [Red Drive]",
+                "Denki Kaminari [Lightning]"
+            ]
+        },
+        {
+            "start": "2025-11-05 13:00:00 (JST)",
+            "expired": "2025-11-19 12:59:59 (JST)",
+            "image": "T_ui_Gasha_Banner_2513006",
+            "color": "#ff3333",
+            "type": "skill",
+            "costumes": [
+                "Itsuka Kendo Adventurer",
+                "Momo Yaoyorozu Parallel World"
+            ],
+            "character": [],
+            "quirk_skill_set": [
+                "tsuka Kendo [Twin Palm Strike]"
+            ]
+        }
+    ],
     "12": [
         {
             "start": "2025-08-20 13:00:00 (JST)",
