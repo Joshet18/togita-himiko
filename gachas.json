@@ -1,288 +1,1250 @@
-{
-    "current_season": 13,
-    "season_data_url": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/s{gacha_season}/{gacha_image}.png?raw=true",
-    "13": [
-        {
-            "start": "2025-09-24 13:00:00 (JST)",
-            "expired": "2025-11-19 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513001",
-            "color": "#80dfff",
-            "type": "character",
-            "costumes": [
-                "Izuku Midoriya OFA One For All Final Battle Ver.",
-                "Katsuki Bakugo Strafe Panzer",
-                "Ochaco Uraraka Superstar Idol"
-            ],
-            "character": [
-                "Izuku Midoriya OFA"
-            ],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-09-24 13:00:00 (JST)",
-            "expired": "2025-10-22 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513002",
-            "color": "#ff3333",
-            "type": "character",
-            "costumes": [
-                "Hitoshi Shinso Ninja",
-                "Tsuyu Asui Ninja",
-                "Ochaco Uraraka Ninja"
-            ],
-            "character": [
-                "Hitoshi Shinso"
-            ],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-09-24 13:00:00 (JST)",
-            "expired": "2025-10-08 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513004",
-            "color": "#4dd2ff",
-            "type": "skill",
-            "costumes": [
-                "All Might Day Off",
-                "All Might Support Item"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "All Might (Gatling)"
-            ]
-        },
-        {
-            "start": "2025-09-24 13:00:00 (JST)",
-            "expired": "2025-11-05 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513007",
-            "color": "#ff3333",
-            "type": "skill",
-            "costumes": [
-                "Izuku Midoriya Costume ε",
-                "Katsuki Bakugo Quirk Assist Gear"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "Izuku Midoriya [Full Bullet]",
-                "Katsuki Bakugo [Machine Gun]"
-            ]
-        },
-        {
-            "start": "2025-09-24 13:00:00 (JST)",
-            "expired": "2025-11-19 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513009",
-            "color": "#ffff4d",
-            "type": "character",
-            "costumes": [],
-            "character": [
-                "A special Roll where you are guaranteed to obtain 1 Battle Style from your selected list is now underway!\n*Selectable Battle Styles featured in this Roll are those from before Season 12."
-            ],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-09-24 13:00:00 (JST)",
-            "expired": "2025-11-19 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513010",
-            "color": "#66ff66",
-            "type": "character",
-            "costumes": [],
-            "character": [
-                "A special Roll where you are guaranteed to obtain 1 Battle Style from your selected list is now underway!\n*Selectable Battle Styles featured in this Roll are those from before Season 12."
-            ],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-09-24 13:00:00 (JST)",
-            "expired": "2100-01-01 00:00:00 (JST)",
-            "image": "T_ui_Gasha_Banner_2513011",
-            "color": "#66ff66",
-            "type": "character",
-            "costumes": [],
-            "character": [],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-10-08 13:00:00 (JST)",
-            "expired": "2025-11-05 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513005",
-            "color": "#ff3333",
-            "type": "skill",
-            "costumes": [
-                "Hawks Formal Suit",
-                "Tsuyu Asui Superstar Idol",
-                "Twice League of Villains Suit"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "Hawks [Slicing Wind]"
-            ]
-        },
-        {
-            "start": "2025-10-22 13:00:00 (JST)",
-            "expired": "2025-11-19 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513003",
-            "color": "#ffff4d",
-            "type": "",
-            "costumes": [
-                "All For One Villain Costume Rewind Ver.",
-                "All For One Villain Costume Wearable Ver.",
-                "Nejire Hado Superstar Idol"
-            ],
-            "character": [
-                "All For One [Original]"
-            ],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-10-22 13:00:00 (JST)",
-            "expired": "2025-11-19 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513008",
-            "color": "#ff3333",
-            "type": "skill",
-            "costumes": [
-                "Eijiro Kirishima Shinobi",
-                "Denki Kaminari Undefeatable"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "Eijiro Kirishima [Red Drive]",
-                "Denki Kaminari [Lightning]"
-            ]
-        },
-        {
-            "start": "2025-11-05 13:00:00 (JST)",
-            "expired": "2025-11-19 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2513006",
-            "color": "#ff3333",
-            "type": "skill",
-            "costumes": [
-                "Itsuka Kendo Adventurer",
-                "Momo Yaoyorozu Parallel World"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "tsuka Kendo [Twin Palm Strike]"
-            ]
-        }
-    ],
-    "12": [
-        {
-            "start": "2025-08-20 13:00:00 (JST)",
-            "expired": "2025-09-24 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2512008",
-            "color": "#4dd2ff",
-            "type": "costumes",
-            "costumes": [
-                "Dabi Disguise: Hoodie",
-                "Dabi Villain Costume (White Hair ver.)",
-                "Dabi Cyberpunk"
-            ],
-            "character": [],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-08-20 13:00:00 (JST)",
-            "expired": "2025-09-14 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2512004",
-            "color": "#ffff4d",
-            "type": "skill",
-            "costumes": [
-                "Ochaco Uraraka Summer Leisure",
-                "Ochaco Uraraka Festival Yukata"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "Ochaco Uraraka Zero Satellites"
-            ]
-        },
-        {
-            "start": "2025-09-03 13:00:00 (JST)",
-            "expired": "2025-09-24 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2512002",
-            "color": "#66ff66",
-            "type": "character",
-            "costumes": [
-                "Kurogiri Cyberpunk",
-                "Kurogiri Commander of Dark Clouds"
-            ],
-            "character": [
-                "Kurogiri"
-            ],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-09-03 13:00:00 (JST)",
-            "expired": "2025-09-24 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2512006",
-            "color": "#d24dff",
-            "type": "skill",
-            "costumes": [
-                "All Might Festival Happi",
-                "Tenya Iida Festival Happi",
-                "Mirio Togata Casual Wear"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "Mirio Togata (Sheer Counter)"
-            ]
-        },
-        {
-            "start": "2025-08-06 13:00:00 (JST)",
-            "expired": "2025-09-24 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2512005",
-            "color": "#ffff4d",
-            "type": "skill",
-            "costumes": [
-                "Endeavor Cyber Hero Costume",
-                "All Might Cyber Hero Costume"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "Endeavor Inferno Fist"
-            ]
-        },
-        {
-            "start": "2025-07-23 13:00:00 (JST)",
-            "expired": "2025-08-20 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2512007",
-            "color": "#4dd2ff",
-            "type": "costumes",
-            "costumes": [
-                "Endeavor Undefeatable Costume",
-                "Endeavor Casual Wear Costume",
-                "Endeavor Fierce Fire General Costume"
-            ],
-            "character": [],
-            "quirk_skill_set": []
-        },
-        {
-            "start": "2025-07-23 13:00:00 (JST)",
-            "expired": "2025-08-20 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2512003",
-            "color": "#80dfff",
-            "type": "skill",
-            "costumes": [
-                "Himiko Toga Villain Pirates",
-                "Himiko Toga Cyberpunk"
-            ],
-            "character": [],
-            "quirk_skill_set": [
-                "Himiko Toga Sting Dance"
-            ]
-        },
-        {
-            "start": "2025-07-23 13:00:00 (JST)",
-            "expired": "2025-09-03 12:59:59 (JST)",
-            "image": "T_ui_Gasha_Banner_2512001",
-            "color": "#ff3333",
-            "type": "character",
-            "costumes": [
-                "Tamaki Amajiki Festival Outfit",
-                "Nejire Hado Festival Yukata",
-                "Mirio Togata Festival Outfit"
-            ],
-            "character": [
-                "Tamaki Amajiki"
-            ],
-            "quirk_skill_set": []
-        }
-    ]
-}
+[
+    {
+        "id": "2514002",
+        "name": "Character Roll: Original (S14) Monoma",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2514002.webp?raw=true",
+        "start": "2026-01-07 13:00:00 (JST)",
+        "expired": "2026-01-21 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513011",
+        "name": "Beginner Missions Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513011.webp?raw=true",
+        "start": null,
+        "expired": null,
+        "color": "#d3185c",
+        "type": "others",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2514001",
+        "name": "Character Roll: Original (S14) Armored All Might",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2514001.webp?raw=true",
+        "start": null,
+        "expired": null,
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2514005",
+        "name": "Character Roll: Alternative (S14) Shigaraki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2514005.webp?raw=true",
+        "start": null,
+        "expired": null,
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2514004",
+        "name": "Character Roll: Alternative (S14) Uraraka",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2514004.webp?raw=true",
+        "start": null,
+        "expired": null,
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2514007",
+        "name": "Costume Pick Up Roll (S14) Vol. Toga",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2514007.webp?raw=true",
+        "start": null,
+        "expired": null,
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2514008",
+        "name": "Character Roll: Original (S14) Vol. Lady Nagant",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2514008.webp?raw=true",
+        "start": null,
+        "expired": null,
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2301001",
+        "name": "Service Start Celebration Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2301001.webp?raw=true",
+        "start": "2023-09-28 13:00:00 (JST)",
+        "expired": "2023-10-12 12:59:59 (JST)",
+        "color": "#ebdd00",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2301003",
+        "name": "Iida/Kendo Character Hot Picks Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2301003.webp?raw=true",
+        "start": "2023-10-12 13:00:00 (JST)",
+        "expired": "2023-10-25 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2301006",
+        "name": "Midoriya/Bakugo/Todoroki Plus Ultra Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2301006.webp?raw=true",
+        "start": "2023-10-12 13:00:00 (JST)",
+        "expired": "2023-10-25 12:59:59 (JST)",
+        "color": "#ebdd00",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2301004",
+        "name": "New Character Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2301004.webp?raw=true",
+        "start": "2023-10-25 13:00:00 (JST)",
+        "expired": "2023-11-10 12:59:59 (JST)",
+        "color": "#ebdd00",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2301005",
+        "name": "Midoriya/Bakugo/Todoroki Hot Picks Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2301005.webp?raw=true",
+        "start": "2023-10-25 13:00:00 (JST)",
+        "expired": "2023-11-10 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2301002",
+        "name": "Yaoyorozu/Kirishima Plus Ultra Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2301002.webp?raw=true",
+        "start": "2023-11-10 13:00:00 (JST)",
+        "expired": "2023-11-24 12:59:59 (JST)",
+        "color": "#ebdd00",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2301007",
+        "name": "Kirishima Character Hot Picks Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2301007.webp?raw=true",
+        "start": "2023-11-10 13:00:00 (JST)",
+        "expired": "2023-11-24 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302001",
+        "name": "New Character Roll vol. 2",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302001.webp?raw=true",
+        "start": "2023-11-24 13:00:00 (JST)",
+        "expired": "2023-12-11 12:59:59 (JST)",
+        "color": "#ebdd00",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302002",
+        "name": "Shiozaki/Yaoyorozu Hot Picks Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302002.webp?raw=true",
+        "start": "2023-11-24 13:00:00 (JST)",
+        "expired": "2023-12-11 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302003",
+        "name": "Todoroki/Bakugo Plus Ultra Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302003.webp?raw=true",
+        "start": "2023-12-11 13:00:00 (JST)",
+        "expired": "2023-12-25 12:59:59 (JST)",
+        "color": "#ebdd00",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302004",
+        "name": "Shigaraki/Dabi/Toga Hot Picks Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302004.webp?raw=true",
+        "start": "2023-12-11 13:00:00 (JST)",
+        "expired": "2023-12-25 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302009",
+        "name": "Happy Holidays Hot Picks Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302009.webp?raw=true",
+        "start": "2023-12-20 13:00:00 (JST)",
+        "expired": "2024-01-09 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302005",
+        "name": "Ochaco/Kaminari Plus Ultra Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302005.webp?raw=true",
+        "start": "2023-12-25 13:00:00 (JST)",
+        "expired": "2024-01-09 12:59:59 (JST)",
+        "color": "#ebdd00",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302006",
+        "name": "Kirishima Character Hot Picks Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302006.webp?raw=true",
+        "start": "2023-12-25 13:00:00 (JST)",
+        "expired": "2024-01-09 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302007",
+        "name": "Shiozaki/Kendo/Kirishima Plus Ultra Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302007.webp?raw=true",
+        "start": "2024-01-09 13:00:00 (JST)",
+        "expired": "2024-01-25 12:59:59 (JST)",
+        "color": "#ebdd00",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2302008",
+        "name": "Aizawa/Iida Hot Picks Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2302008.webp?raw=true",
+        "start": "2024-01-09 13:00:00 (JST)",
+        "expired": "2024-01-25 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2403001",
+        "name": "Character Roll (S3) Yaoyorozu",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2403001.webp?raw=true",
+        "start": "2024-01-25 13:00:00 (JST)",
+        "expired": "2024-02-07 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2403002",
+        "name": "Quirk Skill Set Roll (S3) Midoriya",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2403002.webp?raw=true",
+        "start": "2024-01-25 13:00:00 (JST)",
+        "expired": "2024-03-27 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2403003",
+        "name": "Character Roll (S3) Aizawa",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2403003.webp?raw=true",
+        "start": "2024-02-07 13:00:00 (JST)",
+        "expired": "2024-02-21 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2403004",
+        "name": "Character Roll (S3) Twice",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2403004.webp?raw=true",
+        "start": "2024-02-21 13:00:00 (JST)",
+        "expired": "2024-03-06 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2403005",
+        "name": "Character Roll (S3) Kirishima",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2403005.webp?raw=true",
+        "start": "2024-03-06 13:00:00 (JST)",
+        "expired": "2024-03-27 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2404001",
+        "name": "Character Roll (S4) Endeavor",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2404001.webp?raw=true",
+        "start": "2024-03-27 13:00:00 (JST)",
+        "expired": "2024-04-10 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2404002",
+        "name": "Quirk Skill Set Roll (S4) Shigaraki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2404002.webp?raw=true",
+        "start": "2024-03-27 13:00:00 (JST)",
+        "expired": "2024-04-24 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2404003",
+        "name": "Character Roll (S4) All For One",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2404003.webp?raw=true",
+        "start": "2024-04-10 13:00:00 (JST)",
+        "expired": "2024-04-24 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2404004",
+        "name": "Character Guaranteed Roll (S4)",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2404004.webp?raw=true",
+        "start": "2024-04-10 13:00:00 (JST)",
+        "expired": "2024-05-22 12:59:59 (JST)",
+        "color": "#bbbca3",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2404005",
+        "name": "Character Roll (S4) Iida",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2404005.webp?raw=true",
+        "start": "2024-04-24 13:00:00 (JST)",
+        "expired": "2024-05-08 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2404006",
+        "name": "Quirk Skill Set Roll (S4) Bakugo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2404006.webp?raw=true",
+        "start": "2024-04-24 13:00:00 (JST)",
+        "expired": "2024-05-22 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2404007",
+        "name": "Character Roll (S4) Kendo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2404007.webp?raw=true",
+        "start": "2024-05-08 13:00:00 (JST)",
+        "expired": "2024-05-22 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2405001",
+        "name": "Character Roll (S5) Togata",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2405001.webp?raw=true",
+        "start": "2024-05-22 13:00:00 (JST)",
+        "expired": "2024-06-05 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2405005",
+        "name": "Quirk Skill Set Roll (S5) Midoriya",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2405005.webp?raw=true",
+        "start": "2024-05-22 13:00:00 (JST)",
+        "expired": "2024-06-19 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2405002",
+        "name": "Character Roll (S5) Aizawa",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2405002.webp?raw=true",
+        "start": "2024-06-05 13:00:00 (JST)",
+        "expired": "2024-06-19 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2405003",
+        "name": "Character Roll (S5) Endeavor",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2405003.webp?raw=true",
+        "start": "2024-06-19 13:00:00 (JST)",
+        "expired": "2024-07-03 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2405006",
+        "name": "Quirk Skill Set Roll (S5) Dabi",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2405006.webp?raw=true",
+        "start": "2024-06-19 13:00:00 (JST)",
+        "expired": "2024-07-24 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2405004",
+        "name": "Character Roll (S5) Twice",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2405004.webp?raw=true",
+        "start": "2024-07-03 13:00:00 (JST)",
+        "expired": "2024-07-24 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2406001",
+        "name": "Character Roll (S6) Overhaul",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2406001.webp?raw=true",
+        "start": "2024-07-24 13:00:00 (JST)",
+        "expired": "2024-08-21 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2406005",
+        "name": "Quirk Skill Set (S6) Shigaraki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2406005.webp?raw=true",
+        "start": "2024-07-24 13:00:00 (JST)",
+        "expired": "2024-08-21 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2407006",
+        "name": "Anniversary Special Step UP Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2407006.webp?raw=true",
+        "start": "2024-07-31 13:00:00 (JST)",
+        "expired": "2024-11-20 12:59:59 (JST)",
+        "color": "#326ca7",
+        "type": "others",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2407007",
+        "name": "Anniversary Special Step UP Roll B",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2407007.webp?raw=true",
+        "start": "2024-07-31 13:00:00 (JST)",
+        "expired": "2024-11-20 12:59:59 (JST)",
+        "color": "#326ca7",
+        "type": "others",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2406002",
+        "name": "Character Roll (S6) Yaoyorozu",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2406002.webp?raw=true",
+        "start": "2024-08-07 13:00:00 (JST)",
+        "expired": "2024-08-21 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2406003",
+        "name": "Character Roll (S6) Kirishima",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2406003.webp?raw=true",
+        "start": "2024-08-21 13:00:00 (JST)",
+        "expired": "2024-09-04 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2406006",
+        "name": "Quirk Skill Set (S6) Todoroki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2406006.webp?raw=true",
+        "start": "2024-08-21 13:00:00 (JST)",
+        "expired": "2024-09-25 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2406004",
+        "name": "Character Roll (S6) All For One",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2406004.webp?raw=true",
+        "start": "2024-09-04 13:00:00 (JST)",
+        "expired": "2024-09-25 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2407001",
+        "name": "Character Roll (S7) Hawks",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2407001.webp?raw=true",
+        "start": "2024-09-25 13:00:00 (JST)",
+        "expired": "2024-10-23 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2407003",
+        "name": "Quirk Skill Set Roll (S7) Bakugo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2407003.webp?raw=true",
+        "start": "2024-09-25 13:00:00 (JST)",
+        "expired": "2024-10-10 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2407004",
+        "name": "Quirk Skill Set Roll (S7) Toga",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2407004.webp?raw=true",
+        "start": "2024-10-10 13:00:00 (JST)",
+        "expired": "2024-11-07 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2407002",
+        "name": "Character Roll (S7) Present Mic",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2407002.webp?raw=true",
+        "start": "2024-10-23 13:00:00 (JST)",
+        "expired": "2024-11-20 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2407005",
+        "name": "Quirk Skill Set Roll (S7) Dabi Shigaraki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2407005.webp?raw=true",
+        "start": "2024-11-07 13:00:00 (JST)",
+        "expired": "2024-11-20 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2408001",
+        "name": "Character Roll (S8) Hado",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2408001.webp?raw=true",
+        "start": "2024-11-20 13:00:00 (JST)",
+        "expired": "2024-12-18 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2408004",
+        "name": "Quirk Skill Set Roll (S8) Dabi",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2408004.webp?raw=true",
+        "start": "2024-11-20 13:00:00 (JST)",
+        "expired": "2024-12-04 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2408007",
+        "name": "Costume Pick Up Roll Vol. Midoriya",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2408007.webp?raw=true",
+        "start": "2024-11-20 13:00:00 (JST)",
+        "expired": "2024-12-18 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2408005",
+        "name": "Quirk Skill Set Roll (S8) Todoroki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2408005.webp?raw=true",
+        "start": "2024-12-04 13:00:00 (JST)",
+        "expired": "2025-01-01 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2408002",
+        "name": "Character Roll (S8) Aizawa",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2408002.webp?raw=true",
+        "start": "2024-12-18 13:00:00 (JST)",
+        "expired": "2025-01-08 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2408006",
+        "name": "Quirk Skill Set Roll (S8) Kirishima",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2408006.webp?raw=true",
+        "start": "2024-12-18 13:00:00 (JST)",
+        "expired": "2025-01-22 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2408008",
+        "name": "Costume Pick Up Roll Vol. Bakugo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2408008.webp?raw=true",
+        "start": "2024-12-18 13:00:00 (JST)",
+        "expired": "2025-01-22 12:59:59 (JST)",
+        "color": "#ffa85b",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2408003",
+        "name": "Character Roll (S8) Overhaul",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2408003.webp?raw=true",
+        "start": "2025-01-08 13:00:00 (JST)",
+        "expired": "2025-01-22 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2409001",
+        "name": "Character Roll (S9) Kurogiri",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2409001.webp?raw=true",
+        "start": "2025-01-22 13:00:00 (JST)",
+        "expired": "2025-03-05 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2409003",
+        "name": "Quirk Skill Set (S9) Toga",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2409003.webp?raw=true",
+        "start": "2025-01-22 13:00:00 (JST)",
+        "expired": "2025-02-19 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2409005",
+        "name": "Costume Pick Up Roll (S9) Vol. Todoroki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2409005.webp?raw=true",
+        "start": "2025-01-22 13:00:00 (JST)",
+        "expired": "2025-02-19 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2409004",
+        "name": "Quirk Skill Set (S9) Kaminari",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2409004.webp?raw=true",
+        "start": "2025-02-19 13:00:00 (JST)",
+        "expired": "2025-03-26 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2409006",
+        "name": "Costume Pick Up Roll (S9) Vol. Asui",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2409006.webp?raw=true",
+        "start": "2025-02-19 13:00:00 (JST)",
+        "expired": "2025-03-26 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2409002",
+        "name": "Character Roll (S9) Hawks",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2409002.webp?raw=true",
+        "start": "2025-03-05 13:00:00 (JST)",
+        "expired": "2025-03-26 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2510001",
+        "name": "Character Roll (S10) Shinso",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2510001.webp?raw=true",
+        "start": "2025-03-26 13:00:00 (JST)",
+        "expired": "2025-05-07 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2510003",
+        "name": "Quirk Skill Set Roll (S10) Kirishima",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2510003.webp?raw=true",
+        "start": "2025-03-26 13:00:00 (JST)",
+        "expired": "2025-04-23 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2510007",
+        "name": "Costume Pick Up Roll Vol. Aizawa",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2510007.webp?raw=true",
+        "start": "2025-03-26 13:00:00 (JST)",
+        "expired": "2025-04-23 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2510005",
+        "name": "Quirk Skill Set Roll (S10) Dabi",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2510005.webp?raw=true",
+        "start": "2025-04-09 13:00:00 (JST)",
+        "expired": "2025-04-30 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2510004",
+        "name": "Quirk Skill Set Roll (S10) Uraraka",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2510004.webp?raw=true",
+        "start": "2025-04-23 13:00:00 (JST)",
+        "expired": "2025-05-21 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2510006",
+        "name": "Costume Pick Up Roll Vol. Uraraka",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2510006.webp?raw=true",
+        "start": "2025-04-23 13:00:00 (JST)",
+        "expired": "2025-05-21 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2510008",
+        "name": "2 Anniversary Special Step UP Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2510008.webp?raw=true",
+        "start": "2025-04-23 13:00:00 (JST)",
+        "expired": "2025-05-21 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "others",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2510002",
+        "name": "Character Roll (S10) Present Mic",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2510002.webp?raw=true",
+        "start": "2025-05-07 13:00:00 (JST)",
+        "expired": "2025-05-21 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2511001",
+        "name": "Character Roll (S11) Monoma",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2511001.webp?raw=true",
+        "start": "2025-05-21 13:00:00 (JST)",
+        "expired": "2025-07-02 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2511003",
+        "name": "Quirk Skill Set Roll (S11) Todoroki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2511003.webp?raw=true",
+        "start": "2025-05-21 13:00:00 (JST)",
+        "expired": "2025-06-18 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2511007",
+        "name": "Costume Pick Up Roll Vol. Kirishima",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2511007.webp?raw=true",
+        "start": "2025-05-21 13:00:00 (JST)",
+        "expired": "2025-06-18 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2511005",
+        "name": "Quirk Skill Set Roll (S11) All Might",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2511005.webp?raw=true",
+        "start": "2025-06-04 13:00:00 (JST)",
+        "expired": "2025-07-02 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2511004",
+        "name": "Quirk Skill Set Roll (S11) Kaminari",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2511004.webp?raw=true",
+        "start": "2025-06-18 13:00:00 (JST)",
+        "expired": "2025-07-13 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2511008",
+        "name": "Costume Pick Up Roll Vol. Shigaraki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2511008.webp?raw=true",
+        "start": "2025-06-18 13:00:00 (JST)",
+        "expired": "2025-07-23 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2511002",
+        "name": "Character Roll (S11) Hado",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2511002.webp?raw=true",
+        "start": "2025-07-02 13:00:00 (JST)",
+        "expired": "2025-07-23 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2511006",
+        "name": "Quirk Skill Set Roll (S11) Kendo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2511006.webp?raw=true",
+        "start": "2025-07-02 13:00:00 (JST)",
+        "expired": "2025-07-23 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2512001",
+        "name": "Character Roll (S12) Amajiki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2512001.webp?raw=true",
+        "start": "2025-07-23 13:00:00 (JST)",
+        "expired": "2025-09-03 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2512003",
+        "name": "Quirk Skill Set Roll (S12) Toga",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2512003.webp?raw=true",
+        "start": "2025-07-23 13:00:00 (JST)",
+        "expired": "2025-08-20 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2512007",
+        "name": "Costume Pick Up Roll Vol. Endeavor",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2512007.webp?raw=true",
+        "start": "2025-07-23 13:00:00 (JST)",
+        "expired": "2025-08-20 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2512005",
+        "name": "Quirk Skill Set Roll (S12) Endeavor",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2512005.webp?raw=true",
+        "start": "2025-08-06 13:00:00 (JST)",
+        "expired": "2025-09-03 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2512004",
+        "name": "Quirk Skill Set Roll (S12) Uraraka",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2512004.webp?raw=true",
+        "start": "2025-08-20 13:00:00 (JST)",
+        "expired": "2025-09-14 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2512008",
+        "name": "Costume Pick Up Roll (S13) Vol. Dabi",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2512008.webp?raw=true",
+        "start": "2025-08-20 13:00:00 (JST)",
+        "expired": "2025-09-24 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2512002",
+        "name": "Character Roll (S12) Kurogiri",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2512002.webp?raw=true",
+        "start": "2025-09-03 13:00:00 (JST)",
+        "expired": "2025-09-24 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2512006",
+        "name": "Quirk Skill Set Roll (S12) Togata",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2512006.webp?raw=true",
+        "start": "2025-09-03 13:00:00 (JST)",
+        "expired": "2025-09-24 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513001",
+        "name": "Character Roll: Original (S13) Midoriya OFA",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513001.webp?raw=true",
+        "start": "2025-09-24 13:00:00 (JST)",
+        "expired": "2025-11-19 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513002",
+        "name": "Character Roll: Original (S13) Shinso",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513002.webp?raw=true",
+        "start": "2025-09-24 13:00:00 (JST)",
+        "expired": "2025-10-22 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513004",
+        "name": "Character Roll: Alternative (S13) All Might",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513004.webp?raw=true",
+        "start": "2025-09-24 13:00:00 (JST)",
+        "expired": "2025-10-08 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513007",
+        "name": "Character Roll: Alternative (S13) Midoriya and Bakugo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513007.webp?raw=true",
+        "start": "2025-09-24 13:00:00 (JST)",
+        "expired": "2025-11-05 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513009",
+        "name": "Anniversary Special Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513009.webp?raw=true",
+        "start": "2025-09-24 13:00:00 (JST)",
+        "expired": "2025-11-19 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "others",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513010",
+        "name": "Hot Picks Select Roll",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513010.webp?raw=true",
+        "start": "2025-09-24 13:00:00 (JST)",
+        "expired": "2025-11-19 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513005",
+        "name": "Character Roll: Alternative (S13) Hawks",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513005.webp?raw=true",
+        "start": "2025-10-08 13:00:00 (JST)",
+        "expired": "2025-11-05 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513003",
+        "name": "Character Roll: Original (S13) All For One (Youth age)",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513003.webp?raw=true",
+        "start": "2025-10-22 13:00:00 (JST)",
+        "expired": "2025-11-19 12:59:59 (JST)",
+        "color": "#ff5900",
+        "type": "character",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513008",
+        "name": "Character Roll: Alternative (S13) Kirishima and Kaminari",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513008.webp?raw=true",
+        "start": "2025-10-22 13:00:00 (JST)",
+        "expired": "2025-11-19 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2513006",
+        "name": "Character Roll: Alternative (S13) Kendo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2513006.webp?raw=true",
+        "start": "2025-11-05 13:00:00 (JST)",
+        "expired": "2025-11-19 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2514003",
+        "name": "Character Roll: Alternative (S14) Endeavor",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2514003.webp?raw=true",
+        "start": "2025-11-19 13:00:00 (JST)",
+        "expired": "2025-12-17 12:59:59 (JST)",
+        "color": "#d3185c",
+        "type": "skill",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    },
+    {
+        "id": "2514006",
+        "name": "Costume Pick Up Roll (S14) Vol. Kaminari",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/gachas/2514006.webp?raw=true",
+        "start": "2025-11-19 13:00:00 (JST)",
+        "expired": "2025-12-17 12:59:59 (JST)",
+        "color": "#47a6f6",
+        "type": "costumes",
+        "costumes": [],
+        "character": [],
+        "quirk_skill_set": []
+    }
+]
