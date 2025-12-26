@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Izuku Midoriya",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Izuku Midoriya OFA",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Katsuki Bakugo",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Ochaco Uraraka",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Tenya Iida",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Shoto Todoroki",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Tsuyu Asui",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Eijiro Kirishima",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Momo Yaoyorozu",
+        "role": "<:Support:1390975751070810123>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Denki Kaminari",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Neito Monoma",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Itsuka Kendo",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Ibara Shiozaki",
+        "role": "<:Support:1390975751070810123>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Mirio Togata",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Tamaki Amajiki",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Nejire Hado",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Hitoshi Shinso",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "All Might",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Armored All Might",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Shota Aizawa",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Present Mic",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Cementoss",
+        "role": "<:Support:1390975751070810123>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Endeavor",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Hawks",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Mt. Lady",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Tomura Shigaraki",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "All For One",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "All For One (Youth age)",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "Dabi",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "Himiko Toga",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "Twice",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "Mr. Compress",
+        "role": "<:Support:1390975751070810123>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "Kurogiri",
+        "role": "<:Support:1390975751070810123>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "Lady Nagant",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "Overhaul",
+        "role": "<:Support:1390975751070810123>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
+        "name": "Izuku Midoriya (Full Bullet)",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Katsuki Bakugo (Machine Gun)",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Ochaco Uraraka (Zero Satellites)",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Shoto Todoroki (Ice Fang Wind Flame)",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Eijiro Kirishima (Red Drive)",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Denki Kaminari (Lightning)",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Itsuka Kendo (Twin Palm Strike)",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Mirio Togata (Sheer Counter)",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "All Might (Gatling)",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Endeavor (Inferno Fist)",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Hawks (Slicing Wind)",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Tomura Shigaraki (Catastrophe)",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": true,
+        "type": "Villain"
+    },
+    {
+        "name": "Tomura Shigaraki (Thousand-Hand Break)",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": true,
+        "type": "Villain"
+    },
+    {
+        "name": "Dabi (Crazy Torch)",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": true,
+        "type": "Villain"
+    },
+    {
+        "name": "Himiko Toga (Sting Dance)",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": true,
+        "type": "Villain"
+    }
+]
