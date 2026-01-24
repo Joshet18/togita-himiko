@@ -54,6 +54,12 @@
         "type": "Hero"
     },
     {
+        "name": "Fumikage Tokoyami",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
         "name": "Denki Kaminari",
         "role": "<:Strike:1390975762407886921>",
         "skill_set": false,
@@ -258,6 +264,12 @@
         "type": "Hero"
     },
     {
+        "name": "Nejire Hado (Fairy)",
+        "role": "<:Support:1390975751070810123>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
         "name": "All Might (Gatling)",
         "role": "<:Rapid:1390975772730069078>",
         "skill_set": true,
@@ -296,6 +308,12 @@
     {
         "name": "Himiko Toga (Sting Dance)",
         "role": "<:Rapid:1390975772730069078>",
+        "skill_set": true,
+        "type": "Villain"
+    },
+    {
+        "name": "Overhaul (Blighted Precipice)",
+        "role": "<:Assult:1390975784109477918>",
         "skill_set": true,
         "type": "Villain"
     }
