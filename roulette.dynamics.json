@@ -150,6 +150,12 @@
         "type": "Hero"
     },
     {
+        "name": "Star and Stripe",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
         "name": "Mt. Lady",
         "role": "<:Assult:1390975784109477918>",
         "skill_set": false,
@@ -228,6 +234,12 @@
         "type": "Hero"
     },
     {
+        "name": "Katsuki Bakugo (Cluster)",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
         "name": "Ochaco Uraraka (Zero Satellites)",
         "role": "<:Assult:1390975784109477918>",
         "skill_set": true,
@@ -296,6 +308,12 @@
     {
         "name": "Tomura Shigaraki (Thousand-Hand Break)",
         "role": "<:Technical:1390975739444330546>",
+        "skill_set": true,
+        "type": "Villain"
+    },
+    {
+        "name": "All For One (Factor Fusion)",
+        "role": "<:Strike:1390975762407886921>",
         "skill_set": true,
         "type": "Villain"
     },
