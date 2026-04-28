@@ -1,0 +1,541 @@
+[
+    {
+        "id": 1,
+        "name": "Izuku Midoriya",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch001.png?raw=true",
+        "variants": [
+            {
+                "name": "Izuku Midoriya",
+                "role": "Assault",
+                "type": "Hero"
+            },
+            {
+                "name": "Full Bullet",
+                "role": "Strike",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "name": "Izuku Midoriya OFA",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch202.png?raw=true",
+        "variants": [
+            {
+                "name": "Izuku Midoriya OFA",
+                "role": "Rapid",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Katsuki Bakugo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch002.png?raw=true",
+        "variants": [
+            {
+                "name": "Katsuki Bakugo",
+                "role": "Strike",
+                "type": "Hero"
+            },
+            {
+                "name": "Machine Gun",
+                "role": "Rapid",
+                "type": "Hero"
+            },
+            {
+                "name": "Cluster",
+                "role": "Technical",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ochaco Uraraka",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch003.png?raw=true",
+        "variants": [
+            {
+                "name": "Ochaco Uraraka",
+                "role": "Rapid",
+                "type": "Hero"
+            },
+            {
+                "name": "Zero Satellites",
+                "role": "Assault",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Tenya Iida",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch005.png?raw=true",
+        "variants": [
+            {
+                "name": "Tenya Iida",
+                "role": "Rapid",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Shoto Todoroki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch004.png?raw=true",
+        "variants": [
+            {
+                "name": "Shoto Todoroki",
+                "role": "Strike",
+                "type": "Hero"
+            },
+            {
+                "name": "Ice Fang Wind Flame",
+                "role": "Technical",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Tsuyu Asui",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch006.png?raw=true",
+        "variants": [
+            {
+                "name": "Tsuyu Asui",
+                "role": "Rapid",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Eijiro Kirishima",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch008.png?raw=true",
+        "variants": [
+            {
+                "name": "Eijiro Kirishima",
+                "role": "Assault",
+                "type": "Hero"
+            },
+            {
+                "name": "Red Drive",
+                "role": "Strike",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Momo Yaoyorozu",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch010.png?raw=true",
+        "variants": [
+            {
+                "name": "Momo Yaoyorozu",
+                "role": "Support",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Fumikage Tokoyami",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch011.png?raw=true",
+        "variants": [
+            {
+                "name": "Fumikage Tokoyami",
+                "role": "Assault",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Denki Kaminari",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch007.png?raw=true",
+        "variants": [
+            {
+                "name": "Denki Kaminari",
+                "role": "Strike",
+                "type": "Hero"
+            },
+            {
+                "name": "Lightning",
+                "role": "Technical",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Neito Monoma",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch104.png?raw=true",
+        "variants": [
+            {
+                "name": "Neito Monoma",
+                "role": "Technical",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Itsuka Kendo",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch046.png?raw=true",
+        "variants": [
+            {
+                "name": "Itsuka Kendo",
+                "role": "Assault",
+                "type": "Hero"
+            },
+            {
+                "name": "Twin Palm Strike",
+                "role": "Strike",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Ibara Shiozaki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch102.png?raw=true",
+        "variants": [
+            {
+                "name": "Ibara Shiozaki",
+                "role": "Support",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Mirio Togata",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch024.png?raw=true",
+        "variants": [
+            {
+                "name": "Mirio Togata",
+                "role": "Rapid",
+                "type": "Hero"
+            },
+            {
+                "name": "Sheer Counter",
+                "role": "Technical",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Tamaki Amajiki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch026.png?raw=true",
+        "variants": [
+            {
+                "name": "Tamaki Amajiki",
+                "role": "Strike",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Nejire Hado",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch025.png?raw=true",
+        "variants": [
+            {
+                "name": "Nejire Hado",
+                "role": "Technical",
+                "type": "Hero"
+            },
+            {
+                "name": "Fairy",
+                "role": "Support",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Hitoshi Shinso",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch105.png?raw=true",
+        "variants": [
+            {
+                "name": "Hitoshi Shinso",
+                "role": "Strike",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "All Might",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch012.png?raw=true",
+        "variants": [
+            {
+                "name": "All Might",
+                "role": "Assault",
+                "type": "Hero"
+            },
+            {
+                "name": "Gatling",
+                "role": "Rapid",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "name": "Armored All Might",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch200.png?raw=true",
+        "variants": [
+            {
+                "name": "Armored All Might",
+                "role": "Technical",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Shota Aizawa",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch013.png?raw=true",
+        "variants": [
+            {
+                "name": "Shota Aizawa",
+                "role": "Technical",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Present Mic",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch109.png?raw=true",
+        "variants": [
+            {
+                "name": "Present Mic",
+                "role": "Strike",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Cementoss",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch101.png?raw=true",
+        "variants": [
+            {
+                "name": "Cementoss",
+                "role": "Support",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Endeavor",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch023.png?raw=true",
+        "variants": [
+            {
+                "name": "Endeavor",
+                "role": "Strike",
+                "type": "Hero"
+            },
+            {
+                "name": "Inferno Fist",
+                "role": "Assault",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Hawks",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch043.png?raw=true",
+        "variants": [
+            {
+                "name": "Hawks",
+                "role": "Rapid",
+                "type": "Hero"
+            },
+            {
+                "name": "Slicing Wind",
+                "role": "Strike",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Star and Stripe",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch114.png?raw=true",
+        "variants": [
+            {
+                "name": "Star and Stripe",
+                "role": "Strike",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Mt. Lady",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch100.png?raw=true",
+        "variants": [
+            {
+                "name": "Mt. Lady",
+                "role": "Assault",
+                "type": "Hero"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Tomura Shigaraki",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch015.png?raw=true",
+        "variants": [
+            {
+                "name": "Tomura Shigaraki",
+                "role": "Strike",
+                "type": "Villain"
+            },
+            {
+                "name": "Catastrophe",
+                "role": "Assault",
+                "type": "Villain"
+            },
+            {
+                "name": "Thousand-Hand Break",
+                "role": "Technical",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "All For One",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch016.png?raw=true",
+        "variants": [
+            {
+                "name": "All For One",
+                "role": "Technical",
+                "type": "Villain"
+            },
+            {
+                "name": "Factor Fusion",
+                "role": "Strike",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "name": "All For One (Youth age)",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch201.png?raw=true",
+        "variants": [
+            {
+                "name": "All For One (Youth age)",
+                "role": "Assault",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Dabi",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch017.png?raw=true",
+        "variants": [
+            {
+                "name": "Dabi",
+                "role": "Technical",
+                "type": "Villain"
+            },
+            {
+                "name": "Crazy Torch",
+                "role": "Strike",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Himiko Toga",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch018.png?raw=true",
+        "variants": [
+            {
+                "name": "Himiko Toga",
+                "role": "Technical",
+                "type": "Villain"
+            },
+            {
+                "name": "Sting Dance",
+                "role": "Rapid",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Twice",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch037.png?raw=true",
+        "variants": [
+            {
+                "name": "Twice",
+                "role": "Rapid",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Mr. Compress",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch038.png?raw=true",
+        "variants": [
+            {
+                "name": "Mr. Compress",
+                "role": "Support",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Kurogiri",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch103.png?raw=true",
+        "variants": [
+            {
+                "name": "Kurogiri",
+                "role": "Support",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Lady Nagant",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch115.png?raw=true",
+        "variants": [
+            {
+                "name": "Lady Nagant",
+                "role": "Strike",
+                "type": "Villain"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Overhaul",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/characters/Ch034.png?raw=true",
+        "variants": [
+            {
+                "name": "Overhaul",
+                "role": "Support",
+                "type": "Villain"
+            },
+            {
+                "name": "Blighted Precipice",
+                "role": "Assault",
+                "type": "Villain"
+            }
+        ]
+    }
+]
