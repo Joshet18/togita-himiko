@@ -9,6 +9,90 @@
         "role.name": "(ctx) => ctx.role?.name || \"Unknown Role\"",
         "role.mention": "(ctx) => `<@&${ctx.role?.id}>`"
     },
+    "CharacterParam_HP": {
+        "en_us": "Max HP+"
+    },
+    "CharacterParam_GP": {
+        "en_us": "Max GP+"
+    },
+    "CharacterParam_DyingHealth": {
+        "en_us": "Max DOWN HP+"
+    },
+    "ActionParam_Run": {
+        "en_us": "Run Speed+"
+    },
+    "ActionParam_Dash": {
+        "en_us": "Dash Speed+"
+    },
+    "ActionParam_WallDash": {
+        "en_us": "Wall Shuffle Speed+"
+    },
+    "ActionParam_DyingMove": {
+        "en_us": "Downed Crawl Speed+"
+    },
+    "ActionParam_JumpForwardHeight": {
+        "en_us": "Forward Jump HT+"
+    },
+    "ActionParam_JumpVerticalHeight": {
+        "en_us": "Vertical Jump HT+"
+    },
+    "ActionParam_WallJumpHeight": {
+        "en_us": "Wall Jump HT+"
+    },
+    "DamageParam_AttackMelee": {
+        "en_us": "Melee Attack Power+"
+    },
+    "DamageParam_AttackUnique1": {
+        "en_us": "Quirk Skill a Attack Power+"
+    },
+    "DamageParam_AttackUnique2": {
+        "en_us": "Quirk Skill b Attack Power+"
+    },
+    "DamageParam_AttackUnique3": {
+        "en_us": "Quirk Skill y Attack Power+"
+    },
+    "DamageParam_AttackHP": {
+        "en_us": "HP Attack Power+"
+    },
+    "DamageParam_AttackGP": {
+        "en_us": "GP Attack Power+"
+    },
+    "DamageParam_DefenseMelee": {
+        "en_us": "Melee Defense+"
+    },
+    "DamageParam_DefenseUnique1": {
+        "en_us": "Quirk Skill a Defense+"
+    },
+    "DamageParam_DefenseUnique2": {
+        "en_us": "Quirk Skill b Defense+"
+    },
+    "DamageParam_DefenseUnique3": {
+        "en_us": "Quirk Skill y Defense+"
+    },
+    "DamageParam_DefenseHP": {
+        "en_us": "HP Defense+"
+    },
+    "DamageParam_DefenseGP": {
+        "en_us": "GP Defense+"
+    },
+    "MagazineParam_ReloadUnique1": {
+        "en_us": "Quirk Skill a Reload+"
+    },
+    "MagazineParam_ReloadUnique2": {
+        "en_us": "Quirk Skill b Reload+"
+    },
+    "MagazineParam_ReloadUnique3": {
+        "en_us": "Quirk Skill y Reload+"
+    },
+    "MagazineParam_ReloadSpecial": {
+        "en_us": "Special Action Reload+"
+    },
+    "ActionParam_ReloadPlusUltra": {
+        "en_us": "PU/PC Reload+"
+    },
+    "ActionParam_TimePlusUltra": {
+        "en_us": "PU/PC Duration+"
+    },
     "test.lang": {
         "en_us": "user: {user.tag}",
         "en_es": "usuario: {user.tag}"
