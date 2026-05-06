@@ -10,88 +10,116 @@
         "role.mention": "(ctx) => `<@&${ctx.role?.id}>`"
     },
     "CharacterParam_HP": {
-        "en_us": "Max HP+"
+        "en_us": "Max HP+",
+        "en_es": "PS máximos ↑"
     },
     "CharacterParam_GP": {
-        "en_us": "Max GP+"
+        "en_us": "Max GP+",
+        "en_es": "PG máximos ↑"
     },
     "CharacterParam_DyingHealth": {
-        "en_us": "Max DOWN HP+"
+        "en_us": "Max DOWN HP+",
+        "en_es": "PS máximos tumbado ↑"
     },
     "ActionParam_Run": {
-        "en_us": "Run Speed+"
+        "en_us": "Run Speed+",
+        "en_es": "Velocidad de carrera ↑"
     },
     "ActionParam_Dash": {
-        "en_us": "Dash Speed+"
+        "en_us": "Dash Speed+",
+        "en_es": "Velocidad de esprint ↑"
     },
     "ActionParam_WallDash": {
-        "en_us": "Wall Shuffle Speed+"
+        "en_us": "Wall Shuffle Speed+",
+        "en_es": "Velocidad de movimiento en la pared ↑"
     },
     "ActionParam_DyingMove": {
-        "en_us": "Downed Crawl Speed+"
+        "en_us": "Downed Crawl Speed+",
+        "en_es": "Velocidad de movimiento tumbado ↑"
     },
     "ActionParam_JumpForwardHeight": {
-        "en_us": "Forward Jump HT+"
+        "en_us": "Forward Jump HT+",
+        "en_es": "Altura del salto frontal ↑"
     },
     "ActionParam_JumpVerticalHeight": {
-        "en_us": "Vertical Jump HT+"
+        "en_us": "Vertical Jump HT+",
+        "en_es": "Altura del salto vertical ↑"
     },
     "ActionParam_WallJumpHeight": {
-        "en_us": "Wall Jump HT+"
+        "en_us": "Wall Jump HT+",
+        "en_es": "Altura del salto en la pared ↑"
     },
     "DamageParam_AttackMelee": {
-        "en_us": "Melee Attack Power+"
+        "en_us": "Melee Attack Power+",
+        "en_es": "Poder de ataque cuerpo a cuerpo ↑"
     },
     "DamageParam_AttackUnique1": {
-        "en_us": "Quirk Skill a Attack Power+"
+        "en_us": "Quirk Skill a Attack Power+",
+        "en_es": "Poder de ataque del don a ↑"
     },
     "DamageParam_AttackUnique2": {
-        "en_us": "Quirk Skill b Attack Power+"
+        "en_us": "Quirk Skill b Attack Power+",
+        "en_es": "Poder de ataque del don b ↑"
     },
     "DamageParam_AttackUnique3": {
-        "en_us": "Quirk Skill y Attack Power+"
+        "en_us": "Quirk Skill y Attack Power+",
+        "en_es": "Poder de ataque del don y ↑"
     },
     "DamageParam_AttackHP": {
-        "en_us": "HP Attack Power+"
+        "en_us": "HP Attack Power+",
+        "en_es": "Daño a PS ↑"
     },
     "DamageParam_AttackGP": {
-        "en_us": "GP Attack Power+"
+        "en_us": "GP Attack Power+",
+        "en_es": "Daño a PG ↑"
     },
     "DamageParam_DefenseMelee": {
-        "en_us": "Melee Defense+"
+        "en_us": "Melee Defense+",
+        "en_es": "Defensa contra Ataque cuerpo a cuerpo ↑"
     },
     "DamageParam_DefenseUnique1": {
-        "en_us": "Quirk Skill a Defense+"
+        "en_us": "Quirk Skill a Defense+",
+        "en_es": "Defensa contra don a enemigo ↑"
     },
     "DamageParam_DefenseUnique2": {
-        "en_us": "Quirk Skill b Defense+"
+        "en_us": "Quirk Skill b Defense+",
+        "en_es": "Defensa contra don b enemigo ↑"
     },
     "DamageParam_DefenseUnique3": {
-        "en_us": "Quirk Skill y Defense+"
+        "en_us": "Quirk Skill y Defense+",
+        "en_es": "Defensa contra don y enemigo ↑"
     },
     "DamageParam_DefenseHP": {
-        "en_us": "HP Defense+"
+        "en_us": "HP Defense+",
+        "en_es": "Defensa PS↑"
     },
     "DamageParam_DefenseGP": {
-        "en_us": "GP Defense+"
+        "en_us": "GP Defense+",
+        "en_es": "Defensa PG ↑"
     },
     "MagazineParam_ReloadUnique1": {
-        "en_us": "Quirk Skill a Reload+"
+        "en_us": "Quirk Skill a Reload+",
+        "en_es": "Recargar del don a ↑"
     },
     "MagazineParam_ReloadUnique2": {
-        "en_us": "Quirk Skill b Reload+"
+        "en_us": "Quirk Skill b Reload+",
+        "en_es": "Recargar del don b ↑"
     },
     "MagazineParam_ReloadUnique3": {
-        "en_us": "Quirk Skill y Reload+"
+        "en_us": "Quirk Skill y Reload+",
+        "en_es": "Recargar del don y ↑"
     },
     "MagazineParam_ReloadSpecial": {
-        "en_us": "Special Action Reload+"
+        "en_us": "Special Action Reload+",
+        "en_es": "Recargar de Acción especial ↑"
     },
     "ActionParam_ReloadPlusUltra": {
-        "en_us": "PU/PC Reload+"
+        "en_us": "PU/PC Reload+",
+        "en_es": "Recargar de PU/PC ↑"
     },
     "ActionParam_TimePlusUltra": {
-        "en_us": "PU/PC Duration+"
+        "en_us": "PU/PC Duration+",
+        "en_es": "Duracion de PU/PC ↑"
     },
     "test.lang": {
         "en_us": "user: {user.tag}",
