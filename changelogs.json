@@ -1,0 +1,58 @@
+[
+    {
+        "version": "v2.2.0",
+        "date": "25/05/2026",
+        "summary": "Lanzamiento del sistema dashboard y builds de comunidad",
+        "changes": [
+            "Imagen actualizada para previsualizar tunings",
+            "Sistema para previsualizar builds de la comunidad (ChutinRop)",
+            "[Beta] Sistema dashboard para configuraciones",
+            "[Beta] Sistema imagen de perfil por servidores (Pregunta para la activación en servidores)",
+            "[Beta] se agrego el commando /language con soporte para 2 idiomas",
+            "Se cambio el commando /tunings a /tuning builds y tuning tunings",
+            "Se arreglo el bug donde los commandos /roulette y /license no respondían correctamente",
+            "Se arreglo el bug donde el commando /tts join no conectaba al canal de voz correctamente",
+            "Se mejoro el filtro de busqueda para los tunings"
+        ]
+    },
+    {
+        "version": "v2.1.1",
+        "date": "07/03/2026",
+        "summary": "Arreglos de bugs y nuevos sistemas",
+        "changes": [
+            "Sistema para previsualizar tunings",
+            "Sistema para previsualizar gachas",
+            "Sistema para previsualizar eventos",
+            "Arreglos de bugs del sistema tts y agregado de /tts nick"
+        ]
+    },
+    {
+        "version": "v2.0.0",
+        "date": "10/08/2025",
+        "summary": "Actualización de commandos y lisencias",
+        "changes": [
+            "Se agrego el commando /help",
+            "Se agrego el commando /embed",
+            "Se actulizo el commando /license hero",
+            "Se agrego el commando /license villain",
+            "Se agrego el commando /roulette character",
+            "Se agrego el commando /tts voice",
+            "Se agrego el commando /selectmenu list",
+            "Se agrego el commando /selectmenu send",
+            "Se agrego el commando /selectmenu create",
+            "Se agrego el commando /selectmenu delete",
+            "Se agrego el commando /selectmenu add_option",
+            "Se agrego el commando /selectmenu remove_option",
+            "Se agrego variantes de colores para las licencias",
+            "Se agrego el comando /roulette para ruletas",
+            "Ahora la bot se desconecta automaticamente del canal de voz si no hay nadie en el (tts)",
+            "Se mejoro los commandos de slash(/) para tener autocompletado"
+        ]
+    },
+    {
+        "version": "v1.0.0",
+        "date": "16/05/2024",
+        "summary": "Lanzamiento inicial con funcionalidades básicas.",
+        "changes": []
+    }
+]
