@@ -1,0 +1,198 @@
+[
+  {
+    "GroupCode": "CharacterParam_HP",
+    "MainParamLevel1": 1.0,
+    "MainParamLevel2": 2.0,
+    "MainParamLevel3": 3.0,
+    "MainParamLevel4": 4.0
+  },
+  {
+    "GroupCode": "CharacterParam_GP",
+    "MainParamLevel1": 1.0,
+    "MainParamLevel2": 2.0,
+    "MainParamLevel3": 3.0,
+    "MainParamLevel4": 4.0
+  },
+  {
+    "GroupCode": "CharacterParam_DyingHealth",
+    "MainParamLevel1": 5.0,
+    "MainParamLevel2": 10.0,
+    "MainParamLevel3": 15.0,
+    "MainParamLevel4": 20.0
+  },
+  {
+    "GroupCode": "ActionParam_Run",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.02,
+    "MainParamLevel3": 1.03,
+    "MainParamLevel4": 1.04
+  },
+  {
+    "GroupCode": "ActionParam_Dash",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.02,
+    "MainParamLevel3": 1.03,
+    "MainParamLevel4": 1.04
+  },
+  {
+    "GroupCode": "ActionParam_WallDash",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.02,
+    "MainParamLevel3": 1.03,
+    "MainParamLevel4": 1.04
+  },
+  {
+    "GroupCode": "ActionParam_DyingMove",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.02,
+    "MainParamLevel3": 1.03,
+    "MainParamLevel4": 1.04
+  },
+  {
+    "GroupCode": "ActionParam_JumpForwardHeight",
+    "MainParamLevel1": 5.0,
+    "MainParamLevel2": 10.0,
+    "MainParamLevel3": 15.0,
+    "MainParamLevel4": 20.0
+  },
+  {
+    "GroupCode": "ActionParam_JumpVerticalHeight",
+    "MainParamLevel1": 5.0,
+    "MainParamLevel2": 10.0,
+    "MainParamLevel3": 15.0,
+    "MainParamLevel4": 20.0
+  },
+  {
+    "GroupCode": "ActionParam_WallJumpHeight",
+    "MainParamLevel1": 5.0,
+    "MainParamLevel2": 10.0,
+    "MainParamLevel3": 15.0,
+    "MainParamLevel4": 20.0
+  },
+  {
+    "GroupCode": "DamageParam_AttackMelee",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "DamageParam_AttackUnique1",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "DamageParam_AttackUnique2",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "DamageParam_AttackUnique3",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "DamageParam_AttackHP",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "DamageParam_AttackGP",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "DamageParam_DefenseMelee",
+    "MainParamLevel1": 0.99,
+    "MainParamLevel2": 0.985,
+    "MainParamLevel3": 0.98,
+    "MainParamLevel4": 0.975
+  },
+  {
+    "GroupCode": "DamageParam_DefenseUnique1",
+    "MainParamLevel1": 0.99,
+    "MainParamLevel2": 0.985,
+    "MainParamLevel3": 0.98,
+    "MainParamLevel4": 0.975
+  },
+  {
+    "GroupCode": "DamageParam_DefenseUnique2",
+    "MainParamLevel1": 0.99,
+    "MainParamLevel2": 0.985,
+    "MainParamLevel3": 0.98,
+    "MainParamLevel4": 0.975
+  },
+  {
+    "GroupCode": "DamageParam_DefenseUnique3",
+    "MainParamLevel1": 0.99,
+    "MainParamLevel2": 0.985,
+    "MainParamLevel3": 0.98,
+    "MainParamLevel4": 0.975
+  },
+  {
+    "GroupCode": "DamageParam_DefenseHP",
+    "MainParamLevel1": 0.99,
+    "MainParamLevel2": 0.985,
+    "MainParamLevel3": 0.98,
+    "MainParamLevel4": 0.975
+  },
+  {
+    "GroupCode": "DamageParam_DefenseGP",
+    "MainParamLevel1": 0.99,
+    "MainParamLevel2": 0.985,
+    "MainParamLevel3": 0.98,
+    "MainParamLevel4": 0.975
+  },
+  {
+    "GroupCode": "MagazineParam_ReloadUnique1",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "MagazineParam_ReloadUnique2",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "MagazineParam_ReloadUnique3",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "MagazineParam_ReloadSpecial",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "ActionParam_ReloadPlusUltra",
+    "MainParamLevel1": 1.01,
+    "MainParamLevel2": 1.015,
+    "MainParamLevel3": 1.02,
+    "MainParamLevel4": 1.025
+  },
+  {
+    "GroupCode": "ActionParam_TimePlusUltra",
+    "MainParamLevel1": 0.4,
+    "MainParamLevel2": 0.6,
+    "MainParamLevel3": 0.8,
+    "MainParamLevel4": 1.0
+  }
+]

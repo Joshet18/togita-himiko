@@ -150,6 +150,12 @@
         "type": "Hero"
     },
     {
+        "name": "Mirko",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
         "name": "Star and Stripe",
         "role": "<:Strike:1390975762407886921>",
         "skill_set": false,
@@ -284,6 +290,18 @@
     {
         "name": "All Might (Gatling)",
         "role": "<:Rapid:1390975772730069078>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Shota Aizawa (Flow Runner)",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Present Mic (D.J. Board)",
+        "role": "<:Technical:1390975739444330546>",
         "skill_set": true,
         "type": "Hero"
     },

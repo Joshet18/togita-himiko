@@ -9,6 +9,10 @@
         "role.name": "(ctx) => ctx.role?.name || \"Unknown Role\"",
         "role.mention": "(ctx) => `<@&${ctx.role?.id}>`"
     },
+    "extras": [
+        "costumes.json",
+        "skills.json"
+    ],
     "CharacterParam_HP": {
         "en-us": "Max HP+",
         "es-es": "PS máximos ↑"

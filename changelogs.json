@@ -9,7 +9,7 @@
             "[Beta] Sistema dashboard para configuraciones",
             "[Beta] Sistema imagen de perfil por servidores (Pregunta para la activación en servidores)",
             "[Beta] se agrego el commando /language con soporte para 2 idiomas",
-            "Se cambio el commando /tunings a /tuning builds y tuning tunings",
+            "Se cambio el commando /tunings a /tuning builds y /tuning tunings",
             "Se arreglo el bug donde los commandos /roulette y /license no respondían correctamente",
             "Se arreglo el bug donde el commando /tts join no conectaba al canal de voz correctamente",
             "Se mejoro el filtro de busqueda para los tunings"

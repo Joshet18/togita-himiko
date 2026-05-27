@@ -1,0 +1,474 @@
+{
+    "Ch001_Variation0": {
+        "en-us": "Speedy Civilian Rescue",
+        "es-es": "Rescate ciudadano a mayor velocidad"
+    },
+    "Ch001_Variation0_Description": {
+        "en-us": "For a set amount of time after the battle starts, shortens the time required to rescue/threaten a civilian.",
+        "es-es": "Reducirás el tiempo necesario para rescatar o amenazar a los ciudadanos durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch001_Variation1": {
+        "en-us": "Kota Finder",
+        "es-es": "Localización de Kota"
+    },
+    "Ch001_Variation1_Description": {
+        "en-us": "Shows you Kota's location on the Stage and Map.",
+        "es-es": "Mostrar la ubicación de Kota en el escenario o en el mapa."
+    },
+    "Ch002_Variation0": {
+        "en-us": "Crushing PU Charge",
+        "es-es": "Carga explosiva de PU"
+    },
+    "Ch002_Variation0_Description": {
+        "en-us": "Fills up your PU/PC Gauge when you K.O. opponents.",
+        "es-es": "Rellena tu barra de PU/PC si noqueas a un enemigo."
+    },
+    "Ch002_Variation1": {
+        "en-us": "PU Turbo",
+        "es-es": "Turbo PU"
+    },
+    "Ch002_Variation1_Description": {
+        "en-us": "When you make opponents go DOWN, fills up your PU/PC Gauge and allows you to wall run for a set amount of time.",
+        "es-es": "Rellena tu barra de PU/PC y podrás correr durante un cierto período de tiempo por la pared al tumbar a un enemigo."
+    },
+    "Ch002_Variation2": {
+        "en-us": "Explosive Rampage",
+        "es-es": "Bombardeo sin igual"
+    },
+    "Ch002_Variation2_Description": {
+        "en-us": "If you take DOWN an opponent while GP is full, a Team Enhancement Kit appears when that opponent is K.O.'d.",
+        "es-es": "Si tumbas a un enemigo mientras tus PG están al máximo, aparecerá un conjunto de mejora para equipo cuando ese enemigo acabe noqueado."
+    },
+    "Ch003_Variation0": {
+        "en-us": "Revenge Rapid",
+        "es-es": "Velocidad vengadora"
+    },
+    "Ch003_Variation0_Description": {
+        "en-us": "When your Guard breaks, increases your movement speed and allows you to wall run for a set amount of time.",
+        "es-es": "Aumenta la velocidad de movimiento durante un cierto período de tiempo y podrás correr por la pared si te rompen la guardia."
+    },
+    "Ch003_Variation1": {
+        "en-us": "Space Hop",
+        "es-es": "Salto espacial"
+    },
+    "Ch003_Variation1_Description": {
+        "en-us": "For a set amount of time after the battle starts, vertical jumps are enhanced.",
+        "es-es": "El salto vertical será algo más poderoso durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch004_Variation0": {
+        "en-us": "Resist Heat",
+        "es-es": "Resistencia al fuego"
+    },
+    "Ch004_Variation0_Description": {
+        "en-us": "Cancels all burning effects immediately.",
+        "es-es": "Elimina inmediatamente el estado de combustión"
+    },
+    "Ch004_Variation1": {
+        "en-us": "Resist Cold",
+        "es-es": "Resistencia al hielo"
+    },
+    "Ch004_Variation1_Description": {
+        "en-us": "Cancels all freezing effects immediately.",
+        "es-es": "Elimina inmediatamente el estado de congelación"
+    },
+    "Ch005_Variation0": {
+        "en-us": "Wall Runner",
+        "es-es": "Carrera por la pared"
+    },
+    "Ch005_Variation0_Description": {
+        "en-us": "Allows you to wall run for a set amount of time after the battle starts.",
+        "es-es": "Podrás correr por la pared durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch006_Variation0": {
+        "en-us": "Camouflage",
+        "es-es": "Camuflaje"
+    },
+    "Ch006_Variation0_Description": {
+        "en-us": "Makes you invisible for a set amount of time if an ally goes DOWN.",
+        "es-es": "Te volverás invisible durante un cierto período de tiempo si eliminan a un aliado."
+    },
+    "Ch007_Variation0": {
+        "en-us": "Resist Shock",
+        "es-es": "Resistencia a la parálisis"
+    },
+    "Ch007_Variation0_Description": {
+        "en-us": "Cancels all stun effects immediately.",
+        "es-es": "Elimina inmediatamente el estado de parálisis"
+    },
+    "Ch007_Variation1": {
+        "en-us": "Electrification",
+        "es-es": "Electrificación"
+    },
+    "Ch007_Variation1_Description": {
+        "en-us": "Makes enemies electrified for a set amount of time when you break their Guard.",
+        "es-es": "Aplica el efecto de Electrificación durante un cierto período de tiempo si rompes la guardia del enemigo."
+    },
+    "Ch008_Variation0": {
+        "en-us": "Indestructible",
+        "es-es": "Invencible"
+    },
+    "Ch008_Variation0_Description": {
+        "en-us": "When you K.O. opponents, allows you to resist flinching from opponent attacks for a set amount of time.",
+        "es-es": "Los ataques enemigos no te harán daño durante un cierto período de tiempo si noqueas a un enemigo."
+    },
+    "Ch008_Variation1": {
+        "en-us": "Willpower",
+        "es-es": "Fuerza de voluntad"
+    },
+    "Ch008_Variation1_Description": {
+        "en-us": "Leaves you with 1 HP after a fatal attack.",
+        "es-es": "Aguantarás con 1 PS cuando recibas un ataque."
+    },
+    "Ch010_Variation0": {
+        "en-us": "Battlefield Analysis",
+        "es-es": "Análisis del campo de batalla"
+    },
+    "Ch010_Variation0_Description": {
+        "en-us": "Shows you the location of the next Safe Area.",
+        "es-es": "Muestra la ubicación de la próxima zona segura."
+    },
+    "Ch011_Variation0": {
+        "en-us": "Black Arm",
+        "es-es": "Brazo azabache"
+    },
+    "Ch011_Variation0_Description": {
+        "en-us": "Finishing Attacks restore HP, and flinching from opponent attacks is prevented while attacking.",
+        "es-es": "El golpe de gracia restaura PV, y durante el ataque, otorga resistencia al retroceso de los ataques enemigos."
+    },
+    "Ch012_Variation0": {
+        "en-us": "Symbol of Peace",
+        "es-es": "Símbolo de paz"
+    },
+    "Ch012_Variation0_Description": {
+        "en-us": "Increases your PU/PC Gauge at the start of battle.",
+        "es-es": "La barra de PU/PC aumentará al principio del combate."
+    },
+    "Ch012_Variation1": {
+        "en-us": "Muscle Form",
+        "es-es": "Forma muscular"
+    },
+    "Ch012_Variation1_Description": {
+        "en-us": "Activating PU/PC restores HP and grants flinch resistance while active.",
+        "es-es": "La activación de PU/PC restaura PS, y durante su activación, otorga resistencia al retroceso de los ataques enemigos."
+    },
+    "Ch013_Variation0": {
+        "en-us": "High-Speed Replenishment",
+        "es-es": "Provisión rápida"
+    },
+    "Ch013_Variation0_Description": {
+        "en-us": "For a set amount of time after the battle starts, shortens the time required to use GP Recovery Items.",
+        "es-es": "Reduce el tiempo de uso de los objetos de recuperación de PG durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch013_Variation1": {
+        "en-us": "High-Speed HP Replenishment",
+        "es-es": "Provisión rápida de PV"
+    },
+    "Ch013_Variation1_Description": {
+        "en-us": "For a set time after battle starts, shorten the time required to use HP Recovery Items.",
+        "es-es": "Reduce el tiempo de uso de los objetos de recuperación de PGV durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch015_Variation0": {
+        "en-us": "Revenge Strike",
+        "es-es": "Golpe vengador"
+    },
+    "Ch015_Variation0_Description": {
+        "en-us": "Increases your Attack Power for a set amount of time if your Guard breaks.",
+        "es-es": "Aumenta el ataque durante un cierto período de tiempo si te rompen la guardia."
+    },
+    "Ch015_Variation1": {
+        "en-us": "Embrittlement",
+        "es-es": "Vulnerabilidad"
+    },
+    "Ch015_Variation1_Description": {
+        "en-us": "Inflicts Defense DOWN for a set amount of time on opponents you hit with melee attacks.",
+        "es-es": "Reduce el poder defensivo de los enemigos a los que golpeas con ataques cuerpo a cuerpo durante un cierto período de tiempo."
+    },
+    "Ch015_Variation2": {
+        "en-us": "Hyper Regeneration",
+        "es-es": "Superregeneración"
+    },
+    "Ch015_Variation2_Description": {
+        "en-us": "Break an opponent's Guard to gradually recover GP and HP for a limited time.",
+        "es-es": "Recupera PS y PG durante un cierto período de tiempo si se rompe la guardia del enemigo."
+    },
+    "Ch016_Variation0": {
+        "en-us": "Special Attack Reload Boost",
+        "es-es": "Recarga especial potenciada"
+    },
+    "Ch016_Variation0_Description": {
+        "en-us": "Increases your Special Action Reload Speed for a set amount of time after making an opponent go DOWN.",
+        "es-es": "Aumenta la velocidad de recarga de las acciones especiales durante un cierto período de tiempo al tumbar a un enemigo."
+    },
+    "Ch016_Variation1": {
+        "en-us": "Annihilation",
+        "es-es": "Aniquilación total"
+    },
+    "Ch016_Variation1_Description": {
+        "en-us": "When you take DOWN an opponent, the positions of that opponent's allies are revealed for a set time.",
+        "es-es": "Cuando se tumba a un enemigo, la ubicación de sus aliados se mantendrá visible durante un cierto período de tiempo."
+    },
+    "Ch017_Variation0": {
+        "en-us": "Revenge Technical",
+        "es-es": "Técnico vengador"
+    },
+    "Ch017_Variation0_Description": {
+        "en-us": "Increases your Reload Speed for a set amount of time if your Guard breaks.",
+        "es-es": "Aumenta la velocidad de recarga durante un cierto período de tiempo si te rompen la guardia."
+    },
+    "Ch017_Variation1": {
+        "en-us": "Speedy Self-Revive",
+        "es-es": "Autorreanimación veloz"
+    },
+    "Ch017_Variation1_Description": {
+        "en-us": "Shortens the time it takes for you to recover from a DOWN state.",
+        "es-es": "Reduce el tiempo que te encuentras tumbado al borde de ser noqueado."
+    },
+    "Ch018_Variation0": {
+        "en-us": "HP Sucker",
+        "es-es": "Mejora de PS"
+    },
+    "Ch018_Variation0_Description": {
+        "en-us": "Restores your HP when you make an opponent go DOWN.",
+        "es-es": "Recupera PS al tumbar a un enemigo."
+    },
+    "Ch018_Variation1": {
+        "en-us": "GP Sucker",
+        "es-es": "Mejora de PG"
+    },
+    "Ch018_Variation1_Description": {
+        "en-us": "Restores your GP when you make an opponent go DOWN.",
+        "es-es": "Recupera PG al tumbar a un enemigo."
+    },
+    "Ch023_Variation0": {
+        "en-us": "PU Power Intensified",
+        "es-es": "Mejora de potencia PU"
+    },
+    "Ch023_Variation0_Description": {
+        "en-us": "Increases the Attack Power of your PU/PC attack, but makes the PU/PC attack time shorter.",
+        "es-es": "Disminuye el tiempo de activación de la barra de PU/PC, pero aumenta su poder de ataque."
+    },
+    "Ch023_Variation1": {
+        "en-us": "Full Burn",
+        "es-es": "Quema completa"
+    },
+    "Ch023_Variation1_Description": {
+        "en-us": "Increases the active duration of PU/PC.",
+        "es-es": "Aumenta la duración de la barra de PU/PC."
+    },
+    "Ch024_Variation0": {
+        "en-us": "Quasi-Permeation",
+        "es-es": "Semitransparente"
+    },
+    "Ch024_Variation0_Description": {
+        "en-us": "Makes you invincible for a set amount of time after the battle starts. The effect ends if you try to attack.",
+        "es-es": "Te vuelves invencible durante un cierto tiempo desde el comienzo del combate, pero se desvanece cuando realizas un ataque."
+    },
+    "Ch024_Variation1": {
+        "en-us": "Critical Permeation",
+        "es-es": "Permeabilidad crítica"
+    },
+    "Ch024_Variation1_Description": {
+        "en-us": "Gain temporary invincibility if your Guard breaks. The effect ends if you try to attack.",
+        "es-es": "Te vuelves invencible durante un cierto tiempo cuando te rompen la guardia, pero se desvanece cuando realizas un ataque después de activarlo."
+    },
+    "Ch025_Variation0": {
+        "en-us": "Spiraling Leap",
+        "es-es": "Salto espiral"
+    },
+    "Ch025_Variation0_Description": {
+        "en-us": "Gives you Nejire Hado's jump for a set amount of time after the battle starts.",
+        "es-es": "Mejora la habilidad de salto de Nejire Hadô durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch025_Variation1": {
+        "en-us": "Twisted Fortune",
+        "es-es": "Suerte espiral"
+    },
+    "Ch025_Variation1_Description": {
+        "en-us": "When using a team Recovery Item, there is a chance the item will not be consumed.",
+        "es-es": "Al usar un objeto de recuperación para todo el equipo, hay una cierta posibilidad de que el objeto no se consuma."
+    },
+    "Ch026_Variation0": {
+        "en-us": "Ability Manifest",
+        "es-es": "Recreación de habilidades"
+    },
+    "Ch026_Variation0_Description": {
+        "en-us": "Increases the active duration of abilities when using a Quirk Skill Card.",
+        "es-es": "Aumenta el tiempo de duración de las habilidades al utilizar las cartas de dones especiales."
+    },
+    "Ch034_Variation0": {
+        "en-us": "Reinforced Revive",
+        "es-es": "Energía renovada"
+    },
+    "Ch034_Variation0_Description": {
+        "en-us": "Restores the GP of allies that you revive.",
+        "es-es": "Restablece los PG del aliado reanimado."
+    },
+    "Ch034_Variation1": {
+        "en-us": "PU Rejection",
+        "es-es": "Rechazo PU"
+    },
+    "Ch034_Variation1_Description": {
+        "en-us": "When activating PU PC, any launched opponent takes damage.",
+        "es-es": "Cuando se activa el PU/PC, se infligirá daño a los enemigos lanzados por los aires."
+    },
+    "Ch037_Variation0": {
+        "en-us": "Card Duplication",
+        "es-es": "Duplicación de carta"
+    },
+    "Ch037_Variation0_Description": {
+        "en-us": "For a set amount of time after the battle starts, increases the number of Level Up Cards opponents drop when they get K.O.",
+        "es-es": "Aparecen una mayor cantidad de cartas de nivel ↑ durante un cierto período de tiempo desde el comienzo del combate si noqueas a un enemigo."
+    },
+    "Ch038_Variation0": {
+        "en-us": "Compression Magic",
+        "es-es": "Magia de compresión"
+    },
+    "Ch038_Variation0_Description": {
+        "en-us": "Increases the number of Support Drinks you can carry.",
+        "es-es": "Aumenta la cantidad de bebidas de apoyo que puedes tomar."
+    },
+    "Ch043_Variation0": {
+        "en-us": "Perception",
+        "es-es": "Percepción"
+    },
+    "Ch043_Variation0_Description": {
+        "en-us": "Allows you to see the location of opponents you hit with melee attacks for a set amount of time.",
+        "es-es": "Mantiene visible la ubicación del enemigo al que hayas golpeado cuerpo a cuerpo durante un cierto período de tiempo."
+    },
+    "Ch043_Variation1": {
+        "en-us": "Extra Wind",
+        "es-es": "Viento en popa"
+    },
+    "Ch043_Variation1_Description": {
+        "en-us": "When your Quirk Skill Level increases, your PU/PC Gauge fills up.",
+        "es-es": "Rellena tu barra de PU/PC si aumentas de nivel un don especial."
+    },
+    "Ch046_Variation0": {
+        "en-us": "Sisterly Disposition",
+        "es-es": "Hermana mayor"
+    },
+    "Ch046_Variation0_Description": {
+        "en-us": "Increases your Defense for a set amount of time after landing a melee attack on an opponent.",
+        "es-es": "Aumenta tu poder defensivo si recibes un golpe cuerpo a cuerpo."
+    },
+    "Ch046_Variation1": {
+        "en-us": "Iron Fist",
+        "es-es": "Puños rápidos"
+    },
+    "Ch046_Variation1_Description": {
+        "en-us": "Landing a melee attack boosts Attack Power for a short time.",
+        "es-es": "Al acertar un ataque cuerpo a cuerpo, el poder de ataque aumenta por un tiempo determinado."
+    },
+    "Ch100_Variation0": {
+        "en-us": "Revenge Assault",
+        "es-es": "Ataque vengador"
+    },
+    "Ch100_Variation0_Description": {
+        "en-us": "Increases your Defense for a set amount of time if your Guard breaks.",
+        "es-es": "Aumenta tu poder defensivo durante un cierto período de tiempo si te rompen la guardia."
+    },
+    "Ch101_Variation0": {
+        "en-us": "Revenge Support",
+        "es-es": "Apoyo vengador"
+    },
+    "Ch101_Variation0_Description": {
+        "en-us": "Restores the HP of allies in a certain area around you for a set amount of time if your Guard breaks.",
+        "es-es": "Cura a tus aliados durante un cierto período de tiempo si te rompen la guardia."
+    },
+    "Ch102_Variation0": {
+        "en-us": "Divine Protection",
+        "es-es": "Protección divina"
+    },
+    "Ch102_Variation0_Description": {
+        "en-us": "For a set amount of time after the battle starts, shortens the time it takes to open an Item Box (Large).",
+        "es-es": "Reduce el tiempo de apertura de las cajas de objetos (G) durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch103_Variation0": {
+        "en-us": "Warp Heal",
+        "es-es": "Teletransporte sanador"
+    },
+    "Ch103_Variation0_Description": {
+        "en-us": "For a set amount of time after the battle starts, using HP Recovery items also restores your allies' HP by a little bit.",
+        "es-es": "Tus aliados también recuperarán un porcentaje de PV cuando utilices objetos de recuperación durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch104_Variation0": {
+        "en-us": "Fixer",
+        "es-es": "Fixer"
+    },
+    "Ch104_Variation0_Description": {
+        "en-us": "Enhances the effects of the Tuning Skill in the same column as the equipped slot.",
+        "es-es": "Mejora el efecto de las habilidades de Tuning en la misma columna que la ranura equipada."
+    },
+    "Ch105_Variation0": {
+        "en-us": "Trance Blow",
+        "es-es": "Golpe transmisión"
+    },
+    "Ch105_Variation0_Description": {
+        "en-us": "Landing a melee attack puts the enemy in a brainwashed state for a set amount of time.",
+        "es-es": "El enemigo al que hayas golpeado cuerpo a cuerpo se queda en estado de Control Mental durante un cierto período de tiempo."
+    },
+    "Ch109_Variation0": {
+        "en-us": "Booming PU Voice",
+        "es-es": "Voz explosiva PU"
+    },
+    "Ch109_Variation0_Description": {
+        "en-us": "Stuns opponents around you with a booming sound when you use your PU/PC.",
+        "es-es": "Cuando activas la barra de PU/PC, golpearás a los enemigos que tengas a tu alrededor con un sonido explosivo."
+    },
+    "Ch109_Variation1": {
+        "en-us": "Hip-Hop Spirit",
+        "es-es": "Espíritu del hip-hop"
+    },
+    "Ch109_Variation1_Description": {
+        "en-us": "When an ally gets their Guard broken, Attack Power increases for a set time.",
+        "es-es": "Aumenta el ataque durante un cierto período de tiempo si rompen la guardia a un aliado."
+    },
+    "Ch111_Variation0": {
+        "en-us": "Bunny Hop",
+        "es-es": "Salto de conejo"
+    },
+    "Ch111_Variation0_Description": {
+        "en-us": "For a set amount time after battle starts, gain the same wall jump performance as Mirko and faster recovery speed.",
+        "es-es": "Se obtiene la misma habilidad de salto de pared que la de Mirko y aumenta la velocidad de recuperación durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch114_Variation0": {
+        "en-us": "Area Reduction",
+        "es-es": "Reducción de zona"
+    },
+    "Ch114_Variation0_Description": {
+        "en-us": "Reduces damage taken outside the Safe Area for a set time after the battle starts.",
+        "es-es": "Reduce el daño recibido fuera de la zona segura durante un cierto período de tiempo desde el comienzo del combate."
+    },
+    "Ch115_Variation0": {
+        "en-us": "Quick Reload",
+        "es-es": "Recarga rápida"
+    },
+    "Ch115_Variation0_Description": {
+        "en-us": "Take DOWN an opponent with Quirk Skill α to speed up its reload for a limited time.",
+        "es-es": "Aumenta la velocidad de recarga del don especial α durante un cierto período de tiempo al tumbar a un enemigo con el don especial α."
+    },
+    "Ch200_Variation0": {
+        "en-us": "Foundation of Peace",
+        "es-es": "Piedra angular de la paz"
+    },
+    "Ch200_Variation0_Description": {
+        "en-us": "Rescue or threaten citizens, or rescue allies to level up your Quirk Skills.",
+        "es-es": "Aumenta tu nivel de don especial si rescatas o amenazas a un civil o si ayudas a tus aliados."
+    },
+    "Ch201_Variation0": {
+        "en-us": "Quirk Factor Release",
+        "es-es": "Liberación factorial"
+    },
+    "Ch201_Variation0_Description": {
+        "en-us": "Breaking an opponent's Guard increases Reload Speed for a limited time.",
+        "es-es": "Aumenta la velocidad de recarga durante un cierto período de tiempo si se rompe la guardia del enemigo."
+    },
+    "Ch202_Variation0": {
+        "en-us": "Acceleration",
+        "es-es": "Aceleración"
+    },
+    "Ch202_Variation0_Description": {
+        "en-us": "Landing a melee attack increases Movement Speed and Attack Speed for a limited time.",
+        "es-es": "Al acertar un ataque cuerpo a cuerpo, la velocidad de movimiento y la velocidad de ataque aumentan por un tiempo determinado."
+    }
+}
