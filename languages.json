@@ -11,6 +11,7 @@
     },
     "extras": [
         "costumes.json",
+        "notices.json",
         "skills.json"
     ],
     "CharacterParam_HP": {
