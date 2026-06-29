@@ -1,7 +1,7 @@
 [
     {
         "id": "170408",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170408.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170408.png?raw=true",
         "start": "2026-06-10 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#df5700",
@@ -9,7 +9,7 @@
     },
     {
         "id": "170410",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170410.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170410.png?raw=true",
         "start": "2026-06-10 13:00:00 (JST)",
         "expired": "2026-07-08 12:59:59 (JST)",
         "color": "#df5700",
@@ -17,7 +17,7 @@
     },
     {
         "id": "140001",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
         "start": "2026-06-10 13:00:00 (JST)",
         "expired": "2026-06-24 12:59:59 (JST)",
         "color": "#ff9800",
@@ -25,7 +25,7 @@
     },
     {
         "id": "140002",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.png?raw=true",
         "start": "2026-06-15 13:00:00 (JST)",
         "expired": "2026-06-22 12:59:59 (JST)",
         "color": "#00d199",
@@ -33,7 +33,7 @@
     },
     {
         "id": "170401",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170401.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170401.png?raw=true",
         "start": "2026-05-27 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#df5700",
@@ -41,7 +41,7 @@
     },
     {
         "id": "170402",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170402.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170402.png?raw=true",
         "start": "2026-05-27 13:00:00 (JST)",
         "expired": "2026-07-08 12:59:59 (JST)",
         "color": "#df5700",
@@ -49,7 +49,7 @@
     },
     {
         "id": "170404",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170404.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170404.png?raw=true",
         "start": "2026-05-27 13:00:00 (JST)",
         "expired": "2026-06-24 12:59:59 (JST)",
         "color": "#df5700",
@@ -57,7 +57,7 @@
     },
     {
         "id": "170406",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170406.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170406.png?raw=true",
         "start": "2026-05-27 13:00:00 (JST)",
         "expired": "2026-06-24 12:59:59 (JST)",
         "color": "#df5700",
@@ -65,7 +65,7 @@
     },
     {
         "id": "170412",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170412.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170412.png?raw=true",
         "start": "2026-05-27 13:00:00 (JST)",
         "expired": "2026-06-24 12:59:59 (JST)",
         "color": "#df5700",
@@ -73,7 +73,7 @@
     },
     {
         "id": "170203",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170203.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170203.png?raw=true",
         "start": "2026-05-27 13:00:00 (JST)",
         "expired": "2026-06-24 12:58:59 (JST)",
         "color": "#ffdd4c",
@@ -81,7 +81,7 @@
     },
     {
         "id": "170204",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170204.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170204.png?raw=true",
         "start": "2026-06-03 13:00:00 (JST)",
         "expired": "2026-06-17 12:58:59 (JST)",
         "color": "#ffdd4c",
@@ -89,7 +89,7 @@
     },
     {
         "id": "170403",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170403.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170403.png?raw=true",
         "start": "2026-07-08 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#df5700",
@@ -97,7 +97,7 @@
     },
     {
         "id": "170411",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170411.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170411.png?raw=true",
         "start": "2026-07-08 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#df5700",
@@ -105,7 +105,7 @@
     },
     {
         "id": "170206",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170206.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170206.png?raw=true",
         "start": "2026-07-08 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#ffdd4c",
@@ -113,7 +113,7 @@
     },
     {
         "id": "170207",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170207.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170207.png?raw=true",
         "start": "2026-07-15 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#ffdd4c",
@@ -121,7 +121,7 @@
     },
     {
         "id": "170201",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170201.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170201.png?raw=true",
         "start": "2026-07-08 13:00:00 (JST)",
         "expired": "2026-07-29 12:58:59 (JST)",
         "color": "#ffdd4c",
@@ -129,7 +129,7 @@
     },
     {
         "id": "3001",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3001.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3001.png?raw=true",
         "start": "2026-07-08 13:00:00 (JST)",
         "expired": "2026-07-15 12:59:59 (JST)",
         "color": "#af4444",
@@ -137,7 +137,7 @@
     },
     {
         "id": "3024",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3024.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3024.png?raw=true",
         "start": "2026-07-08 13:00:00 (JST)",
         "expired": "2026-07-15 12:59:59 (JST)",
         "color": "#af4444",
@@ -145,7 +145,7 @@
     },
     {
         "id": "140002",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.png?raw=true",
         "start": "2026-07-13 13:00:00 (JST)",
         "expired": "2026-07-20 12:59:59 (JST)",
         "color": "#00d199",
@@ -153,7 +153,7 @@
     },
     {
         "id": "140001",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
         "start": "2026-07-08 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#ff9800",
@@ -161,7 +161,7 @@
     },
     {
         "id": "170409",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170409.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170409.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#df5700",
@@ -169,7 +169,7 @@
     },
     {
         "id": "170405",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170405.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170405.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#df5700",
@@ -177,7 +177,7 @@
     },
     {
         "id": "170407",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170407.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170407.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#df5700",
@@ -185,7 +185,7 @@
     },
     {
         "id": "170413",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170413.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170413.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#df5700",
@@ -193,7 +193,7 @@
     },
     {
         "id": "170202",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170202.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170202.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-08 12:58:59 (JST)",
         "color": "#ffdd4c",
@@ -201,7 +201,7 @@
     },
     {
         "id": "170205",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170205.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/170205.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-29 12:58:59 (JST)",
         "color": "#ffdd4c",
@@ -209,7 +209,7 @@
     },
     {
         "id": "3007",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3007.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3007.png?raw=true",
         "start": "2026-06-22 13:00:00 (JST)",
         "expired": "2026-06-29 12:59:59 (JST)",
         "color": "#af4444",
@@ -217,7 +217,7 @@
     },
     {
         "id": "3105",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3105.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3105.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-01 12:59:59 (JST)",
         "color": "#af4444",
@@ -225,7 +225,7 @@
     },
     {
         "id": "3114",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3114.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3114.png?raw=true",
         "start": "2026-06-27 13:00:00 (JST)",
         "expired": "2026-07-04 12:59:59 (JST)",
         "color": "#af4444",
@@ -233,7 +233,7 @@
     },
     {
         "id": "3109",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3109.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3109.png?raw=true",
         "start": "2026-06-30 13:00:00 (JST)",
         "expired": "2026-07-07 12:59:59 (JST)",
         "color": "#af4444",
@@ -241,7 +241,7 @@
     },
     {
         "id": "140001",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-08 12:59:59 (JST)",
         "color": "#ff9800",
@@ -249,7 +249,7 @@
     },
     {
         "id": "10003",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/10003.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/10003.png?raw=true",
         "start": "2026-06-24 13:00:00 (JST)",
         "expired": "2026-07-29 12:59:59 (JST)",
         "color": "#ff9800",
@@ -257,7 +257,7 @@
     },
     {
         "id": "3012",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3012.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3012.png?raw=true",
         "start": "2026-06-03 13:00:00 (JST)",
         "expired": "2026-06-10 12:59:59 (JST)",
         "color": "#af4444",
@@ -265,7 +265,7 @@
     },
     {
         "id": "140001",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.webp?raw=true",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
         "start": "2026-05-27 13:00:00 (JST)",
         "expired": "2026-06-10 12:59:59 (JST)",
         "color": "#ff9800",
