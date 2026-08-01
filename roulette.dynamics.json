@@ -222,6 +222,12 @@
         "type": "Villain"
     },
     {
+        "name": "Gentle Criminal",
+        "role": "<:Technical:1390975739444330546>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
         "name": "Overhaul",
         "role": "<:Support:1390975751070810123>",
         "skill_set": false,

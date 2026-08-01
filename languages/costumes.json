@@ -491,6 +491,10 @@
         "en-us": "Casual Wear (Combat)",
         "es-es": "Ropa casual (combate)"
     },
+    "Costume_2100106": {
+        "en-us": "Casual Wear (Dangerous)",
+        "es-es": "Ropa casual (peligroso)"
+    },
     "Costume_2200100": {
         "en-us": "U.A. Track Suit",
         "es-es": "Chándal de Yûei"
@@ -734,6 +738,30 @@
     "Costume_2607106": {
         "en-us": "Quirk Assist Gear (Dangerous)",
         "es-es": "Equipo de asistencia de dones (peligroso)"
+    },
+    "Costume_2618100": {
+        "en-us": "Summer Leisure",
+        "es-es": "Ocio veraniego"
+    },
+    "Costume_2618102": {
+        "en-us": "Summer Leisure (Villain Style)",
+        "es-es": "Ocio veraniego (como villano)"
+    },
+    "Costume_2618103": {
+        "en-us": "Summer Leisure (Heat)",
+        "es-es": "Ocio veraniego (fuego)"
+    },
+    "Costume_2618104": {
+        "en-us": "Summer Leisure (Combat)",
+        "es-es": "Ocio veraniego (combate)"
+    },
+    "Costume_2618105": {
+        "en-us": "Summer Leisure (Fancy)",
+        "es-es": "Ocio veraniego (elegante)"
+    },
+    "Costume_2618106": {
+        "en-us": "Summer Leisure (Dangerous)",
+        "es-es": "Ocio veraniego (peligroso)"
     },
     "Costume_2619100": {
         "en-us": "Playing Cards - Spades",
@@ -1311,6 +1339,14 @@
         "en-us": "Cyber Hero Costume (Dangerous)",
         "es-es": "Traje de héroe cibernético (peligroso)"
     },
+    "Costume_4618100": {
+        "en-us": "Summer Leisure",
+        "es-es": "Ocio veraniego"
+    },
+    "Costume_4618105": {
+        "en-us": "Summer Leisure (Fancy)",
+        "es-es": "Ocio veraniego (elegante)"
+    },
     "Costume_5000000": {
         "en-us": "Hero Costume",
         "es-es": "Traje de héroe"
@@ -1475,6 +1511,30 @@
         "en-us": "Volunteer Activities (Sky Blue)",
         "es-es": "Voluntariado (Celeste)"
     },
+    "Costume_5308100": {
+        "en-us": "Hero Fest 2019 ver.",
+        "es-es": "Traje del Festival de los Héroes (2019)"
+    },
+    "Costume_5308102": {
+        "en-us": "Hero Fest 2019 ver. (Villain Style)",
+        "es-es": "Traje del Festival de los Héroes (2019) (como villano)"
+    },
+    "Costume_5308103": {
+        "en-us": "Hero Fest 2019 ver. (Heat)",
+        "es-es": "Traje del Festival de los Héroes (2019) (fuego)"
+    },
+    "Costume_5308104": {
+        "en-us": "Hero Fest 2019 ver. (Combat)",
+        "es-es": "Traje del Festival de los Héroes (2019) (combate)"
+    },
+    "Costume_5308105": {
+        "en-us": "Hero Fest 2019 ver. (Fancy)",
+        "es-es": "Traje del Festival de los Héroes (2019) (elegante)"
+    },
+    "Costume_5308106": {
+        "en-us": "Hero Fest 2019 ver. (Dangerous)",
+        "es-es": "Traje del Festival de los Héroes (2019) (peligroso)"
+    },
     "Costume_5601100": {
         "en-us": "Shinobi",
         "es-es": "Ninja"
@@ -1630,6 +1690,30 @@
     "Costume_6303106": {
         "en-us": "Festival Yukata (Dangerous)",
         "es-es": "Yukata del festival (peligroso)"
+    },
+    "Costume_6308100": {
+        "en-us": "Hero Fest 2019 ver.",
+        "es-es": "Traje del Festival de los Héroes (2019)"
+    },
+    "Costume_6308102": {
+        "en-us": "Hero Fest 2019 ver. (Villain Style)",
+        "es-es": "Traje del Festival de los Héroes (2019) (como villano)"
+    },
+    "Costume_6308103": {
+        "en-us": "Hero Fest 2019 ver. (Heat)",
+        "es-es": "Traje del Festival de los Héroes (2019) (fuego)"
+    },
+    "Costume_6308104": {
+        "en-us": "Hero Fest 2019 ver. (Combat)",
+        "es-es": "Traje del Festival de los Héroes (2019) (combate)"
+    },
+    "Costume_6308105": {
+        "en-us": "Hero Fest 2019 ver. (Fancy)",
+        "es-es": "Traje del Festival de los Héroes (2019) (elegante)"
+    },
+    "Costume_6308106": {
+        "en-us": "Hero Fest 2019 ver. (Dangerous)",
+        "es-es": "Traje del Festival de los Héroes (2019) (peligroso)"
     },
     "Costume_6400100": {
         "en-us": "U.A. Summer Uniform",
@@ -2343,6 +2427,30 @@
         "en-us": "Casual Style (Dangerous)",
         "es-es": "Pasado de moda (peligroso)"
     },
+    "Costume_11601100": {
+        "en-us": "Shinobi",
+        "es-es": "Ninja"
+    },
+    "Costume_11601102": {
+        "en-us": "Shinobi (Villain Style)",
+        "es-es": "Ninja (como villano)"
+    },
+    "Costume_11601103": {
+        "en-us": "Shinobi (Heat)",
+        "es-es": "Ninja (fuego)"
+    },
+    "Costume_11601104": {
+        "en-us": "Shinobi (Combat)",
+        "es-es": "Ninja (combate)"
+    },
+    "Costume_11601105": {
+        "en-us": "Shinobi (Fancy)",
+        "es-es": "Ninja (elegante)"
+    },
+    "Costume_11601106": {
+        "en-us": "Shinobi (Dangerous)",
+        "es-es": "Ninja (peligroso)"
+    },
     "Costume_11604100": {
         "en-us": "Armor of the Abyss",
         "es-es": "Armadura del Abismo"
@@ -2899,6 +3007,10 @@
         "en-us": "Villain Coat",
         "es-es": "Gabardina de villano"
     },
+    "Costume_15001101": {
+        "en-us": "Villain Coat (Hero Style)",
+        "es-es": "Gabardina de villano (como héroe)"
+    },
     "Costume_15001104": {
         "en-us": "Villain Coat (Combat)",
         "es-es": "Gabardina de villano (combate)"
@@ -3055,6 +3167,30 @@
         "en-us": "Evil Knight (Dangerous)",
         "es-es": "Caballero malvado (peligroso)"
     },
+    "Costume_15614100": {
+        "en-us": "Scorching Sands",
+        "es-es": "Traje del desierto"
+    },
+    "Costume_15614101": {
+        "en-us": "Scorching Sands (Hero Style)",
+        "es-es": "Traje del desierto (como héroe)"
+    },
+    "Costume_15614103": {
+        "en-us": "Scorching Sands (Heat)",
+        "es-es": "Traje del desierto (fuego)"
+    },
+    "Costume_15614104": {
+        "en-us": "Scorching Sands (Combat)",
+        "es-es": "Traje del desierto (combate)"
+    },
+    "Costume_15614105": {
+        "en-us": "Scorching Sands (Fancy)",
+        "es-es": "Traje del desierto (elegante)"
+    },
+    "Costume_15614106": {
+        "en-us": "Scorching Sands (Dangerous)",
+        "es-es": "Traje del desierto (peligroso)"
+    },
     "Costume_16000000": {
         "en-us": "Villain Costume",
         "es-es": "Traje de villano"
@@ -3178,6 +3314,30 @@
     "Costume_16604106": {
         "en-us": "Knight of All Evil (Dangerous)",
         "es-es": "Caballero de la maldad absoluta (peligroso)"
+    },
+    "Costume_16614100": {
+        "en-us": "Scorching Sands",
+        "es-es": "Traje del desierto"
+    },
+    "Costume_16614101": {
+        "en-us": "Scorching Sands (Hero Style)",
+        "es-es": "Traje del desierto (como héroe)"
+    },
+    "Costume_16614103": {
+        "en-us": "Scorching Sands (Heat)",
+        "es-es": "Traje del desierto (fuego)"
+    },
+    "Costume_16614104": {
+        "en-us": "Scorching Sands (Combat)",
+        "es-es": "Traje del desierto (combate)"
+    },
+    "Costume_16614105": {
+        "en-us": "Scorching Sands (Fancy)",
+        "es-es": "Traje del desierto (elegante)"
+    },
+    "Costume_16614106": {
+        "en-us": "Scorching Sands (Dangerous)",
+        "es-es": "Traje del desierto (peligroso)"
     },
     "Costume_17000000": {
         "en-us": "Villain Costume",
@@ -3551,6 +3711,30 @@
         "en-us": "Dark Night Assassin (Fancy)",
         "es-es": "Asesina de la noche oscura (elegante)"
     },
+    "Costume_18607100": {
+        "en-us": "Quirk Boost Gear",
+        "es-es": "Equipo de refuerzo de dones"
+    },
+    "Costume_18607101": {
+        "en-us": "Quirk Boost Gear (Hero Style)",
+        "es-es": "Equipo de refuerzo de dones (como héroe)"
+    },
+    "Costume_18607103": {
+        "en-us": "Quirk Boost Gear (Heat)",
+        "es-es": "Equipo de refuerzo de dones (fuego)"
+    },
+    "Costume_18607104": {
+        "en-us": "Quirk Boost Gear (Combat)",
+        "es-es": "Equipo de refuerzo de dones (combate)"
+    },
+    "Costume_18607105": {
+        "en-us": "Quirk Boost Gear (Fancy)",
+        "es-es": "Equipo de refuerzo de dones (elegante)"
+    },
+    "Costume_18607106": {
+        "en-us": "Quirk Boost Gear (Dangerous)",
+        "es-es": "Equipo de refuerzo de dones (peligroso)"
+    },
     "Costume_18615100": {
         "en-us": "Villain Pirates",
         "es-es": "Villano - Pirata"
@@ -3610,6 +3794,10 @@
     "Costume_23001102": {
         "en-us": "Hero Costume Alpha ver. (Villain Style)",
         "es-es": "Traje de héroe versión: α (como villano)"
+    },
+    "Costume_23001103": {
+        "en-us": "Hero Costume Alpha ver. (Heat)",
+        "es-es": "Traje de héroe versión: α (fuego)"
     },
     "Costume_23001104": {
         "en-us": "Hero Costume Alpha ver. (Combat)",
@@ -3994,6 +4182,10 @@
     "Costume_25401100": {
         "en-us": "U.A. High Winter Uniform",
         "es-es": "Uniforme de invierno de Instituto Yûei"
+    },
+    "Costume_25401103": {
+        "en-us": "U.A. High Winter Uniform (Heat)",
+        "es-es": "Uniforme de invierno de Instituto Yûei (fuego)"
     },
     "Costume_25401106": {
         "en-us": "U.A. High Winter Uniform (Dangerous)",
@@ -4387,6 +4579,30 @@
         "en-us": "Cyberpunk (Heat)",
         "es-es": "Ciberpunk (fuego)"
     },
+    "Costume_37607100": {
+        "en-us": "Quirk Boost Gear",
+        "es-es": "Equipo de refuerzo de dones"
+    },
+    "Costume_37607101": {
+        "en-us": "Quirk Boost Gear (Hero Style)",
+        "es-es": "Equipo de refuerzo de dones (como héroe)"
+    },
+    "Costume_37607103": {
+        "en-us": "Quirk Boost Gear (Heat)",
+        "es-es": "Equipo de refuerzo de dones (fuego)"
+    },
+    "Costume_37607104": {
+        "en-us": "Quirk Boost Gear (Combat)",
+        "es-es": "Equipo de refuerzo de dones (combate)"
+    },
+    "Costume_37607105": {
+        "en-us": "Quirk Boost Gear (Fancy)",
+        "es-es": "Equipo de refuerzo de dones (elegante)"
+    },
+    "Costume_37607106": {
+        "en-us": "Quirk Boost Gear (Dangerous)",
+        "es-es": "Equipo de refuerzo de dones (peligroso)"
+    },
     "Costume_37609100": {
         "en-us": "Skull and Bones",
         "es-es": "Esqueleto ruin"
@@ -4414,6 +4630,10 @@
     "Costume_37615100": {
         "en-us": "Villain Pirates",
         "es-es": "Villano - Pirata"
+    },
+    "Costume_37615103": {
+        "en-us": "Villain Pirates (Heat)",
+        "es-es": "Villano - Pirata (fuego)"
     },
     "Costume_37615105": {
         "en-us": "Villain Pirates (Fancy)",
@@ -4546,6 +4766,10 @@
     "Costume_38615101": {
         "en-us": "Villain Pirates (Hero Style)",
         "es-es": "Villano - Pirata (como héroe)"
+    },
+    "Costume_38615103": {
+        "en-us": "Villain Pirates (Heat)",
+        "es-es": "Villano - Pirata (fuego)"
     },
     "Costume_43000000": {
         "en-us": "Hero Costume",
@@ -5323,6 +5547,30 @@
         "en-us": "U.A. Track Suit (Villain Style)",
         "es-es": "Chándal de Yûei (como villano)"
     },
+    "Costume_104601100": {
+        "en-us": "Shinobi",
+        "es-es": "Ninja"
+    },
+    "Costume_104601102": {
+        "en-us": "Shinobi (Villain Style)",
+        "es-es": "Ninja (como villano)"
+    },
+    "Costume_104601103": {
+        "en-us": "Shinobi (Heat)",
+        "es-es": "Ninja (fuego)"
+    },
+    "Costume_104601104": {
+        "en-us": "Shinobi (Combat)",
+        "es-es": "Ninja (combate)"
+    },
+    "Costume_104601105": {
+        "en-us": "Shinobi (Fancy)",
+        "es-es": "Ninja (elegante)"
+    },
+    "Costume_104601106": {
+        "en-us": "Shinobi (Dangerous)",
+        "es-es": "Ninja (peligroso)"
+    },
     "Costume_104604100": {
         "en-us": "Adventurer",
         "es-es": "Aventurero"
@@ -5467,6 +5715,30 @@
         "en-us": "Shinobi (Dangerous)",
         "es-es": "Ninja (peligroso)"
     },
+    "Costume_105604100": {
+        "en-us": "Parallel World",
+        "es-es": "Traje de otro mundo"
+    },
+    "Costume_105604102": {
+        "en-us": "Parallel World (Villain Style)",
+        "es-es": "Traje de otro mundo (como villano)"
+    },
+    "Costume_105604103": {
+        "en-us": "Parallel World (Heat)",
+        "es-es": "Traje de otro mundo (fuego)"
+    },
+    "Costume_105604104": {
+        "en-us": "Parallel World (Combat)",
+        "es-es": "Traje de otro mundo (combate)"
+    },
+    "Costume_105604105": {
+        "en-us": "Parallel World (Fancy)",
+        "es-es": "Traje de otro mundo (elegante)"
+    },
+    "Costume_105604106": {
+        "en-us": "Parallel World (Dangerous)",
+        "es-es": "Traje de otro mundo (peligroso)"
+    },
     "Costume_105612100": {
         "en-us": "Casual Style",
         "es-es": "Estilo casual"
@@ -5490,6 +5762,70 @@
     "Costume_105612106": {
         "en-us": "Casual Style (Dangerous)",
         "es-es": "Estilo casual (peligroso)"
+    },
+    "Costume_108000000": {
+        "en-us": "Villain Costume",
+        "es-es": "Traje de villano"
+    },
+    "Costume_108000001": {
+        "en-us": "Villain Costume (Hero Style)",
+        "es-es": "Traje de villano (como héroe)"
+    },
+    "Costume_108000004": {
+        "en-us": "Villain Costume (Combat)",
+        "es-es": "Traje de villano (combate)"
+    },
+    "Costume_108000006": {
+        "en-us": "Villain Costume (Dangerous)",
+        "es-es": "Traje de villano (peligroso)"
+    },
+    "Costume_108100100": {
+        "en-us": "Casual Style",
+        "es-es": "Pasado de moda"
+    },
+    "Costume_108100101": {
+        "en-us": "Casual Style (Hero Style)",
+        "es-es": "Pasado de moda (como héroe)"
+    },
+    "Costume_108100103": {
+        "en-us": "Casual Style (Heat)",
+        "es-es": "Pasado de moda (fuego)"
+    },
+    "Costume_108100104": {
+        "en-us": "Casual Style (Combat)",
+        "es-es": "Pasado de moda (combate)"
+    },
+    "Costume_108100105": {
+        "en-us": "Casual Style (Fancy)",
+        "es-es": "Pasado de moda (elegante)"
+    },
+    "Costume_108100106": {
+        "en-us": "Casual Style (Dangerous)",
+        "es-es": "Pasado de moda (peligroso)"
+    },
+    "Costume_108607100": {
+        "en-us": "Quirk Boost Gear",
+        "es-es": "Equipo de refuerzo de dones"
+    },
+    "Costume_108607101": {
+        "en-us": "Quirk Boost Gear (Hero Style)",
+        "es-es": "Equipo de refuerzo de dones (como héroe)"
+    },
+    "Costume_108607103": {
+        "en-us": "Quirk Boost Gear (Heat)",
+        "es-es": "Equipo de refuerzo de dones (fuego)"
+    },
+    "Costume_108607104": {
+        "en-us": "Quirk Boost Gear (Combat)",
+        "es-es": "Equipo de refuerzo de dones (combate)"
+    },
+    "Costume_108607105": {
+        "en-us": "Quirk Boost Gear (Fancy)",
+        "es-es": "Equipo de refuerzo de dones (elegante)"
+    },
+    "Costume_108607106": {
+        "en-us": "Quirk Boost Gear (Dangerous)",
+        "es-es": "Equipo de refuerzo de dones (peligroso)"
     },
     "Costume_109000000": {
         "en-us": "Hero Costume",
@@ -6090,6 +6426,30 @@
     "Costume_202004106": {
         "en-us": "One For All Final Battle Ver. (Dangerous)",
         "es-es": "One For All (Batalla final) (peligroso)"
+    },
+    "Costume_202308100": {
+        "en-us": "Hero Fest 2019 ver.",
+        "es-es": "Traje del Festival de los Héroes (2019)"
+    },
+    "Costume_202308102": {
+        "en-us": "Hero Fest 2019 ver. (Villain Style)",
+        "es-es": "Traje del Festival de los Héroes (2019) (como villano)"
+    },
+    "Costume_202308103": {
+        "en-us": "Hero Fest 2019 ver. (Heat)",
+        "es-es": "Traje del Festival de los Héroes (2019) (fuego)"
+    },
+    "Costume_202308104": {
+        "en-us": "Hero Fest 2019 ver. (Combat)",
+        "es-es": "Traje del Festival de los Héroes (2019) (combate)"
+    },
+    "Costume_202308105": {
+        "en-us": "Hero Fest 2019 ver. (Fancy)",
+        "es-es": "Traje del Festival de los Héroes (2019) (elegante)"
+    },
+    "Costume_202308106": {
+        "en-us": "Hero Fest 2019 ver. (Dangerous)",
+        "es-es": "Traje del Festival de los Héroes (2019) (peligroso)"
     },
     "Costume_202607100": {
         "en-us": "Quirk Assist Gear OFA Ver.",

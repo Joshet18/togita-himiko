@@ -407,6 +407,14 @@
         "en-us": "Landing a melee attack puts the enemy in a brainwashed state for a set amount of time.",
         "es-es": "El enemigo al que hayas golpeado cuerpo a cuerpo se queda en estado de Control Mental durante un cierto período de tiempo."
     },
+    "Ch108_Variation0": {
+        "en-us": "Gently Jump",
+        "es-es": "Gentle Jump"
+    },
+    "Ch108_Variation0_Description": {
+        "en-us": "For a set amount of time after the battle starts, crouching for a while enables a huge jump.",
+        "es-es": "Si te mantienes agachado un tiempo podrás dar un gran salto durante un cierto período de tiempo desde el comienzo del combate."
+    },
     "Ch109_Variation0": {
         "en-us": "Booming PU Voice",
         "es-es": "Voz explosiva PU"
