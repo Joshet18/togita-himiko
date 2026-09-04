@@ -1,5 +1,17 @@
 [
     {
+        "version": "v2.2.1",
+        "date": "04/09/2026",
+        "summary": "Mejora de TTS y Noticias del juego",
+        "changes": [
+            "Sistema de noticias",
+            "Sistema de lenguaje por servidor",
+            "Se agrego el commando /config para configurar modulos",
+            "Ahora el comando /tts join cuenta con la opcion 'force' para forza la entrada al canal de voz",
+            "Se agrego las configuracion del modulo lenguaje y noticias a la dashboard"
+        ]
+    },
+    {
         "version": "v2.2.0",
         "date": "25/05/2026",
         "summary": "Lanzamiento del sistema dashboard y builds de comunidad",
