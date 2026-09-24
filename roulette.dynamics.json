@@ -264,6 +264,12 @@
         "type": "Hero"
     },
     {
+        "name": "Tsuyu Asui (Froppy Hopper)",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
         "name": "Eijiro Kirishima (Red Drive)",
         "role": "<:Strike:1390975762407886921>",
         "skill_set": true,
@@ -350,6 +356,12 @@
     {
         "name": "Himiko Toga (Sting Dance)",
         "role": "<:Rapid:1390975772730069078>",
+        "skill_set": true,
+        "type": "Villain"
+    },
+    {
+        "name": "Twice (Sad Man's Parade)",
+        "role": "<:Support:1390975751070810123>",
         "skill_set": true,
         "type": "Villain"
     },

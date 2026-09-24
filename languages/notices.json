@@ -35,10 +35,6 @@
         "en-us": "Birthday Campaign (Gentle Criminal) Underway!",
         "es-es": "¡Comienza la campaña de cumpleaños de Gentle Criminal!"
     },
-    "18202": {
-        "en-us": "3-Pick Battle Event Vol. 1 Underway!",
-        "es-es": "¡Evento de Combate 3 Picks vol.1 en curso!"
-    },
     "140001": {
         "en-us": "Discounted Recruit Tickets and Hero Crystals Now On Sale!",
         "es-es": "¡Tickets de fortuna especiales y cristales de héroe ya a la venta!"
@@ -50,6 +46,10 @@
     "180201": {
         "en-us": "Battle Event Vol. 10 Underway!",
         "es-es": "¡Evento de combate vol.10 en curso!"
+    },
+    "180202": {
+        "en-us": "3-Pick Battle Event Vol. 1 Underway!",
+        "es-es": "¡Evento de Combate 3 Picks vol.1 en curso!"
     },
     "180203": {
         "en-us": "T.U.N.I.N.G. Mission Event Vol. 5 Underway!",
@@ -115,42 +115,6 @@
         "en-us": "Costume Pick Up Roll (S18) Vol. Disguise Underway!",
         "es-es": "¡Llega la fortuna de traje destacada (T18) - vol. Traje de otro mundo!"
     },
-    "180401_Description": {
-        "en-us": "■Hot Picks\n[Battle Style]\n・Gentle Criminal: Original\n\n[PUR Costumes]\n・Gentle Criminal Quirk Boost Gear\n・Himiko Toga Quirk Boost Gear\n・Katsuki Bakugo Quirk Assist Gear\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
-        "es-es": "■ Destacado\n・Estilo de lucha:\nGentle Criminal (original)\n\n・Traje PUR:\nEquipo de refuerzo de dones (Gentle Criminal)\nEquipo de refuerzo de dones (Himiko Toga)\nEquipo de asistencia de dones (Katsuki Bakugô)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "180402_Description": {
-        "en-us": "■Hot Picks\n[Battle Style]\n・Fumikage Tokoyami: Original\n\n[PUR Costumes]\n・Fumikage Tokoyami Shinobi\n・Fumikage Tokoyami Armor of the Abyss\n・Denki Kaminari Armor of Holy Light\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
-        "es-es": "■ Destacado\n・Estilo de lucha:\nFumikage Tokoyami (original)\n\n・Traje PUR:\nTraje ninja (Fumikage Tokoyami)\nArmadura del Abismo (Fumikage Tokoyami)\nArmadura de Luz Celestial (Denki Kaminari)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "180406_Description": {
-        "en-us": "■Hot Picks\n[Battle Style]\n・Katsuki Bakugo: Cluster\n\n[PUR Costumes]\n・Katsuki Bakugo Summer Leisure\n・Katsuki Bakugo Hero Costume Winter ver.\n・Ochaco Uraraka Summer Leisure\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
-        "es-es": "■ Destacado\n・Estilo de lucha:\nKatsuki Bakugô (Cluster)\n\n・Traje PUR:\nOcio veraniego (Katsuki Bakugô)\nTraje de héroe invierno (Katsuki Bakugô)\nOcio veraniego (Ochako Uraraka)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "180409_Description": {
-        "en-us": "■Hot Picks\n[Battle Style]\n・Tomura Shigaraki: Thousand-Hand Break\n\n[PUR Costumes]\n・Tomura Shigaraki Scorching Sands\n・Dabi Scorching Sands\n・Tomura Shigaraki Awakened\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
-        "es-es": "■ Destacado\n・Estilo de lucha:\nTomura Shigaraki (Destrucción de las mil manos)\n\n・Traje PUR:\nTraje del desierto (Tomura Shigaraki)\nTraje del desierto (Dabi)\nDespertar (Tomura Shigaraki)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "180411_Description": {
-        "en-us": "■A new 10x Roll is here! Just 10,000 Hero Crystals for a 10x Roll!\nThe costume for this Roll features the Disguise series!\nA Roll featuring six PUR Disguise costumes is now live!\n*Includes items released up to Season 15.\n*A featured costume is guaranteed after 30 Rolls.\n\n■Hot Picks\n[PUR Costumes]\n・Tomura Shigaraki Disguise: Long Coat\n・Dabi Disguise: Hoodie\n・Himiko Toga Disguise: Suit\n・Himiko Toga Disguise: Duffle Coat\n・Twice Disguise: Paper Bag\n・Mr. Compress Disguise: Sweater\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n・Battle Styles are not included in this Roll.\n\n※Contents and period are subject to change without notice.",
-        "es-es": "■ ¡Llega una fortuna especial en la que puedes realizar 10 tiradas por solo 10.000 Cristales de héroe!\n¡En esta ocasión, los trajes destacados son los disfraces!\n¡Llega una fortuna con 6 tipos de trajes PUR de disfraz destacados!\n※Se incluyen objetos aparecidos hasta la temporada 15.\n※En caso de realizar 30 tiradas, obtendrás un traje destacado de forma garantizada.\n\n■ Destacado\n・Traje PUR:\nDisfraz gabardina larga (Tomura Shigaraki)\nDisfraz sudadera con cremallera (Dabi)\nDisfraz traje formal (Himiko Toga)\nDisfraz abrigo de lana (Himiko Toga)\nDisfraz con bolsa de papel (Twice)\nDisfraz de punto (Mr. Compress)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n・Esta fortuna no incluye estilos de lucha.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "180201_Description": {
-        "en-us": "■Featured Items\n[Costumes]\n・Endeavor Hero Costume α ver. (Heat)\n・Nejire Hado U.A. High Winter Uniform (Heat)\n\n[Emote]\n・Nejire Hado [Hey, listen!]\n\n[Voice]\n・Nejire Hado [Uneasy]\n\n[Name Plate]\n・Battle Event Vol. 10\n\n※For more details about Battle Events, see the Events page.\n※Contents and period are subject to change without notice.",
-        "es-es": "■ Objetos destacados\n・Trajes:\nTraje de héroe versión: α (fuego) (Endeavor)\nUniforme de invierno de Instituto Yûei (fuego) (Nejire Hadô)\n\n・Poses:\nOye, oye (Nejire Hadô)\n\n・Voces:\nInseguridad (Nejire Hadô)\n\n・Placas de nombre:\nEvento de combate vol.10\n\n※Puedes consultar los detalles del evento de combate en la pantalla Eventos.\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "3018_Description": {
-        "en-us": "Hot News!\n8/7 is Himiko Toga's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
-        "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 7/8 para celebrar el cumpleaños de Himiko Toga!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "3023_Description": {
-        "en-us": "Hot News!\n8/8 is Endeavor's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
-        "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 8/8 para celebrar el cumpleaños de Endeavor!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "140001_Description": {
-        "en-us": "For a limited time, you can purchase the following items at a discount!\n・100x Roll Ticket set\n・Hero Crystals\n\nGo to Shop, Premium, and Tickets & Hero Crystals to purchase.",
-        "es-es": "Por tiempo limitado puedes comprar los siguientes productos a precio especial:\n・Paquete de 100 tickets de fortuna\n・Cristales de héroe\n\nPuedes comprarlos en «Tienda» → «Premium» → «Tickets» / «Cristales de héroe»."
-    },
     "180403_Description": {
         "en-us": "■Hot Picks\n[Battle Style]\n・Izuku Midoriya OFA: Original\n\n[PUR Costumes]\n・Izuku Midoriya OFA Hero Fest 2019 Ver.\n・Izuku Midoriya OFA One For All Final Battle Ver.\n・Katsuki Bakugo Strafe Panzer\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
         "es-es": "■ Destacado\n・Estilo de lucha:\nIzuku Midoriya OFA (original)\n\n・Traje PUR:\nTraje del Festival de los Héroes (2019) (Izuku Midoriya OFA)\nOne For All (Batalla final) (Izuku Midoriya OFA)\nStrafpanzer (Katsuki Bakugô)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
@@ -158,10 +122,6 @@
     "180405_Description": {
         "en-us": "■Hot Picks\n[Battle Style]\n・Neito Monoma: Original\n・Nejire Hado: Original\n\n[PUR Costumes]\n・Neito Monoma Shinobi\n・Nejire Hado Hero Fest 2019 ver.\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
         "es-es": "■ Destacado\n・Estilos de lucha:\nNeito Monoma (original)\nNejire Hadô (original)\n\n・Traje PUR:\nTraje ninja (Neito Monoma)\nTraje del Festival de los Héroes (2019) (Nejire Hadô)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
-    "3010_Description": {
-        "en-us": "Hot News!\n9/23 is Momo Yaoyorozu's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
-        "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 23/9 para celebrar el cumpleaños de Momo Yaoyorozu!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
     },
     "180206_Description": {
         "en-us": "■You can earn License EXP by completing Missions.\n\n*For more details about License Events, see the Events page.\n*Contents and period are subject to change without notice.\n*EXP earned is only valid in Season 18.\nYou will no longer be able to claim EXP once the event ends, so make sure to collect it while you can!",
@@ -191,6 +151,22 @@
         "en-us": "■A new 10x Roll is here! Just 10,000 Hero Crystals for a 10x Roll!\nThe costumes for this Roll features the Parallel World series!\nA Roll featuring six PUR Parallel World costumes is now live!\n*Includes items released up to Season 15.\n*A featured costume is guaranteed after 30 Rolls.\n\n■Hot Picks\n[PUR Costumes]\n・Katsuki Bakugo Parallel World\n・Ochaco Uraraka Parallel World\n・Shoto Todoroki Parallel World\n・Tsuyu Asui Parallel World\n・Denki Kaminari Parallel World\n・Eijiro Kirishima Parallel World\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n・Battle Styles are not included in this Roll.\n※Contents and period are subject to change without notice.",
         "es-es": "■ ¡Llega una fortuna especial en la que puedes realizar 10 tiradas por solo 10.000 Cristales de héroe!\n¡En esta ocasión, los trajes destacados son de otro mundo!\n¡Llega una fortuna con 6 tipos de trajes PUR de otro mundo destacados!\n※Se incluyen objetos aparecidos hasta la temporada 15.\n※En caso de realizar 30 tiradas, obtendrás un traje destacado de forma garantizada.\n\n■ Destacado\n・Traje PUR:\nTraje de otro mundo (Katsuki Bakugô)\nTraje de otro mundo (Ochako Uraraka)\nTraje de otro mundo (Shôto Todoroki)\nTraje de otro mundo (Tsuyu Asui)\nTraje de otro mundo (Denki Kaminari)\nTraje de otro mundo (Eijirô Kirishima)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n・Esta fortuna no incluye estilos de lucha.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
     },
+    "180408_Description": {
+        "en-us": "■Hot Picks\n[Battle Style]\n・Twice: Sad Man's Parade\n\n[PUR Costumes]\n・Twice Quirk Boost Gear\n・Hawks Quirk Assist Gear\n・Twice Skull and Bones\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
+        "es-es": "■ Destacado\n・Estilo de lucha:\nTwice (Desfile penoso)\n\n・Traje PUR:\nEquipo de refuerzo de dones (Twice)\nEquipo de asistencia de dones (Hawks)\nVillano calavera (Twice)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
+    "180202_Description": {
+        "en-us": "■Featured Items\n[Costumes]\n・Katsuki Bakugo Casual Wear (Dangerous)\n・Tomura Shigaraki Villain Coat (Hero Style)\n\n[Emote]\n・Tomura Shigaraki [Falsehood]\n\n[Voice]\n・Tomura Shigaraki [Uneasy]\n\n[Name Plate]\n・3-Pick Battle Event Vol. 1\n\n*For more details about 3-Pick Battle Events, see the Events page.\n※Contents and period are subject to change without notice.",
+        "es-es": "■ Objetos destacados\nTraje\n・Ropa casual (Katsuki Bakugô)\n・Abrigo de villano (Tomura Shigaraki)\n\nGestos\n・Falsedad (Tomura Shigaraki)\n\nVoces\n・Inseguridad (Tomura Shigaraki)\n\nPlaca de nombre\n・Evento de Combate 3 Picks vol.1\n\n※Para más detalles sobre el evento de Combate 3 Picks, consulta la sección \"Evento\".\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
+    "180401_Description": {
+        "en-us": "■Hot Picks\n[Battle Style]\n・Gentle Criminal: Original\n\n[PUR Costumes]\n・Gentle Criminal Quirk Boost Gear\n・Himiko Toga Quirk Boost Gear\n・Katsuki Bakugo Quirk Assist Gear\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
+        "es-es": "■ Destacado\n・Estilo de lucha:\nGentle Criminal (original)\n\n・Traje PUR:\nEquipo de refuerzo de dones (Gentle Criminal)\nEquipo de refuerzo de dones (Himiko Toga)\nEquipo de asistencia de dones (Katsuki Bakugô)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
+    "3010_Description": {
+        "en-us": "Hot News!\n9/23 is Momo Yaoyorozu's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
+        "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 23/9 para celebrar el cumpleaños de Momo Yaoyorozu!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
     "3046_Description": {
         "en-us": "Hot News!\n9/9 is Itsuka Kendo's birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
         "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 9/9 para celebrar el cumpleaños de Itsuka Kendô!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
@@ -199,9 +175,9 @@
         "en-us": "Hot News!\n9/8 is Ibara Shiozaki's birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
         "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 8/9 para celebrar el cumpleaños de Ibara Shiozaki!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
     },
-    "180408_Description": {
-        "en-us": "■Hot Picks\n[Battle Style]\n・Twice: Sad Man's Parade\n\n[PUR Costumes]\n・Twice Quirk Boost Gear\n・Hawks Quirk Assist Gear\n・Twice Skull and Bones\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
-        "es-es": "■ Destacado\n・Estilo de lucha:\nTwice (Desfile penoso)\n\n・Traje PUR:\nEquipo de refuerzo de dones (Twice)\nEquipo de asistencia de dones (Hawks)\nVillano calavera (Twice)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    "140001_Description": {
+        "en-us": "For a limited time, you can purchase the following items at a discount!\n・100x Roll Ticket set\n・Hero Crystals\n\nGo to Shop, Premium, and Tickets & Hero Crystals to purchase.",
+        "es-es": "Por tiempo limitado puedes comprar los siguientes productos a precio especial:\n・Paquete de 100 tickets de fortuna\n・Cristales de héroe\n\nPuedes comprarlos en «Tienda» → «Premium» → «Tickets» / «Cristales de héroe»."
     },
     "180404_Description": {
         "en-us": "■Hot Picks\n[Battle Style]\n・Hitoshi Shinso: Original\n\n[PUR Costumes]\n・Hitoshi Shinso Parallel World\n・Hitoshi Shinso Shinobi\n・Hitoshi Shinso Casual Style\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
@@ -211,10 +187,6 @@
         "en-us": "■Featured Items\n[Tuning Slot Enhancement Part]\n\n※For more details about Drop Events, see the Events page.\n※Contents and period are subject to change without notice.",
         "es-es": "■ Objetos destacados\n・Piezas de refuerzo para ranura de Tuning\n\n※Puedes consultar los detalles del evento de caída de objetos en la pantalla Eventos.\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
     },
-    "18202_Description": {
-        "en-us": "■Featured Items\n[Costumes]\n・Katsuki Bakugo Casual Wear (Dangerous)\n・Tomura Shigaraki Villain Coat (Hero Style)\n\n[Emote]\n・Tomura Shigaraki [Falsehood]\n\n[Voice]\n・Tomura Shigaraki [Uneasy]\n\n[Name Plate]\n・3-Pick Battle Event Vol. 1\n\n*For more details about 3-Pick Battle Events, see the Events page.\n※Contents and period are subject to change without notice.",
-        "es-es": "■ Objetos destacados\nTraje\n・Ropa casual (Katsuki Bakugô)\n・Abrigo de villano (Tomura Shigaraki)\n\nGestos\n・Falsedad (Tomura Shigaraki)\n\nVoces\n・Inseguridad (Tomura Shigaraki)\n\nPlaca de nombre\n・Evento de Combate 3 Picks vol.1\n\n※Para más detalles sobre el evento de Combate 3 Picks, consulta la sección \"Evento\".\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
-    },
     "3108_Description": {
         "en-us": "Hot News!\n8/29 is Gentle Criminal's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
         "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 29/8 para celebrar el cumpleaños de Gentle Criminal!\n\nTicket de Fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
@@ -223,9 +195,37 @@
         "en-us": "Hot News!\n8/22 is Tenya Iida's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
         "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 22/8 para celebrar el cumpleaños de Tenya Iida!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
     },
+    "180402_Description": {
+        "en-us": "■Hot Picks\n[Battle Style]\n・Fumikage Tokoyami: Original\n\n[PUR Costumes]\n・Fumikage Tokoyami Shinobi\n・Fumikage Tokoyami Armor of the Abyss\n・Denki Kaminari Armor of Holy Light\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
+        "es-es": "■ Destacado\n・Estilo de lucha:\nFumikage Tokoyami (original)\n\n・Traje PUR:\nTraje ninja (Fumikage Tokoyami)\nArmadura del Abismo (Fumikage Tokoyami)\nArmadura de Luz Celestial (Denki Kaminari)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
+    "180406_Description": {
+        "en-us": "■Hot Picks\n[Battle Style]\n・Katsuki Bakugo: Cluster\n\n[PUR Costumes]\n・Katsuki Bakugo Summer Leisure\n・Katsuki Bakugo Hero Costume Winter ver.\n・Ochaco Uraraka Summer Leisure\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
+        "es-es": "■ Destacado\n・Estilo de lucha:\nKatsuki Bakugô (Cluster)\n\n・Traje PUR:\nOcio veraniego (Katsuki Bakugô)\nTraje de héroe invierno (Katsuki Bakugô)\nOcio veraniego (Ochako Uraraka)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
+    "180409_Description": {
+        "en-us": "■Hot Picks\n[Battle Style]\n・Tomura Shigaraki: Thousand-Hand Break\n\n[PUR Costumes]\n・Tomura Shigaraki Scorching Sands\n・Dabi Scorching Sands\n・Tomura Shigaraki Awakened\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n\n※Contents and period are subject to change without notice.",
+        "es-es": "■ Destacado\n・Estilo de lucha:\nTomura Shigaraki (Destrucción de las mil manos)\n\n・Traje PUR:\nTraje del desierto (Tomura Shigaraki)\nTraje del desierto (Dabi)\nDespertar (Tomura Shigaraki)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
+    "180411_Description": {
+        "en-us": "■A new 10x Roll is here! Just 10,000 Hero Crystals for a 10x Roll!\nThe costume for this Roll features the Disguise series!\nA Roll featuring six PUR Disguise costumes is now live!\n*Includes items released up to Season 15.\n*A featured costume is guaranteed after 30 Rolls.\n\n■Hot Picks\n[PUR Costumes]\n・Tomura Shigaraki Disguise: Long Coat\n・Dabi Disguise: Hoodie\n・Himiko Toga Disguise: Suit\n・Himiko Toga Disguise: Duffle Coat\n・Twice Disguise: Paper Bag\n・Mr. Compress Disguise: Sweater\n\n■Please Note\n・When using the 10 Rolls function, the last Roll is guaranteed to be an SR or higher.\n・To find out more about drop rates, please see \"Drop Rates\" on the Rolls screen.\n・Battle Styles are not included in this Roll.\n\n※Contents and period are subject to change without notice.",
+        "es-es": "■ ¡Llega una fortuna especial en la que puedes realizar 10 tiradas por solo 10.000 Cristales de héroe!\n¡En esta ocasión, los trajes destacados son los disfraces!\n¡Llega una fortuna con 6 tipos de trajes PUR de disfraz destacados!\n※Se incluyen objetos aparecidos hasta la temporada 15.\n※En caso de realizar 30 tiradas, obtendrás un traje destacado de forma garantizada.\n\n■ Destacado\n・Traje PUR:\nDisfraz gabardina larga (Tomura Shigaraki)\nDisfraz sudadera con cremallera (Dabi)\nDisfraz traje formal (Himiko Toga)\nDisfraz abrigo de lana (Himiko Toga)\nDisfraz con bolsa de papel (Twice)\nDisfraz de punto (Mr. Compress)\n\n■ Advertencia:\n・En caso de tirar 10 fortunas, en la última estará asegurado un SR o superior.\n・Puedes revisar los detalles en «Probabilidades» desde la pantalla de Fortuna.\n・Esta fortuna no incluye estilos de lucha.\n\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
+    "180201_Description": {
+        "en-us": "■Featured Items\n[Costumes]\n・Endeavor Hero Costume α ver. (Heat)\n・Nejire Hado U.A. High Winter Uniform (Heat)\n\n[Emote]\n・Nejire Hado [Hey, listen!]\n\n[Voice]\n・Nejire Hado [Uneasy]\n\n[Name Plate]\n・Battle Event Vol. 10\n\n※For more details about Battle Events, see the Events page.\n※Contents and period are subject to change without notice.",
+        "es-es": "■ Objetos destacados\n・Trajes:\nTraje de héroe versión: α (fuego) (Endeavor)\nUniforme de invierno de Instituto Yûei (fuego) (Nejire Hadô)\n\n・Poses:\nOye, oye (Nejire Hadô)\n\n・Voces:\nInseguridad (Nejire Hadô)\n\n・Placas de nombre:\nEvento de combate vol.10\n\n※Puedes consultar los detalles del evento de combate en la pantalla Eventos.\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
     "180203_Description": {
         "en-us": "・You can earn items for the T.U.N.I.N.G. System by completing Missions.\n\n*For more details about T.U.N.I.N.G., see the Events page.\n*Contents and period are subject to change without notice.\nYou will no longer be able to claim EXP once the event ends, so make sure to collect it while you can!",
         "es-es": "■ Podrás conseguir objetos para el sistema T.U.N.I.N.G. al completar misiones.\n※Puedes consultar los detalles del evento de misión T.U.N.I.N.G. en la pantalla Eventos.\n※La duración y el contenido descritos podrían cambiar sin previo aviso.\nRecíbelos antes de que finalice el evento, ya que no podrás recogerlos una vez terminado."
+    },
+    "3018_Description": {
+        "en-us": "Hot News!\n8/7 is Himiko Toga's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
+        "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 7/8 para celebrar el cumpleaños de Himiko Toga!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
+    },
+    "3023_Description": {
+        "en-us": "Hot News!\n8/8 is Endeavor's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",
+        "es-es": "¡¡Atención!!\n¡Recibe un regalo especial al iniciar sesión el día 8/8 para celebrar el cumpleaños de Endeavor!\n\nTicket de fortuna x10\n※La duración y el contenido descritos podrían cambiar sin previo aviso."
     },
     "3100_Description": {
         "en-us": "Hot News!\n8/11 is Mt. Lady's Birthday! Grab this Login Bonus while you can!\n\nRoll Ticket x10\n\n※Contents and period are subject to change without notice.",

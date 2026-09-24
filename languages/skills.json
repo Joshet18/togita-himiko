@@ -87,6 +87,14 @@
         "en-us": "Makes you invisible for a set amount of time if an ally goes DOWN.",
         "es-es": "Te volverás invisible durante un cierto período de tiempo si eliminan a un aliado."
     },
+    "Ch006_Variation1": {
+        "en-us": "Bubble Blow",
+        "es-es": "Soplo de burbujas"
+    },
+    "Ch006_Variation1_Description": {
+        "en-us": "Opponents hit by melee attacks enter Bubble State for a set time.",
+        "es-es": "Los ataques cuerpo a cuerpo aplican el estado burbuja al enemigo durante un tiempo."
+    },
     "Ch007_Variation0": {
         "en-us": "Resist Shock",
         "es-es": "Resistencia a la parálisis"
@@ -318,6 +326,14 @@
     "Ch037_Variation0_Description": {
         "en-us": "For a set amount of time after the battle starts, increases the number of Level Up Cards opponents drop when they get K.O.",
         "es-es": "Aparecen una mayor cantidad de cartas de nivel ↑ durante un cierto período de tiempo desde el comienzo del combate si noqueas a un enemigo."
+    },
+    "Ch037_Variation1": {
+        "en-us": "Regenerating Heal",
+        "es-es": "Cura regenerativa"
+    },
+    "Ch037_Variation1_Description": {
+        "en-us": "Team Recovery Items gradually replenish over time.",
+        "es-es": "Los objetos de recuperación del equipo pasan a curar progresivamente."
     },
     "Ch038_Variation0": {
         "en-us": "Compression Magic",
