@@ -1615,6 +1615,10 @@
         "en-us": "U.A. Track Suit",
         "es-es": "Chándal de Yûei"
     },
+    "Costume_6200102": {
+        "en-us": "U.A. Track Suit (Villain Style)",
+        "es-es": "Chándal de Yûei (como villano)"
+    },
     "Costume_6200103": {
         "en-us": "U.A. Track Suit (Heat)",
         "es-es": "Chándal de Yûei (fuego)"
@@ -1946,6 +1950,10 @@
     "Costume_7400102": {
         "en-us": "U.A. Summer Uniform (Villain Style)",
         "es-es": "Ropa de verano Yûei (como villano)"
+    },
+    "Costume_7400103": {
+        "en-us": "U.A. Summer Uniform (Heat)",
+        "es-es": "Ropa de verano Yûei (fuego)"
     },
     "Costume_7604100": {
         "en-us": "Armor of Holy Light",
@@ -2387,6 +2395,30 @@
         "en-us": "Kunoichi (Dangerous)",
         "es-es": "Kunoichi (peligroso)"
     },
+    "Costume_10608100": {
+        "en-us": "Superstar Idol",
+        "es-es": "Superestrella: Idol"
+    },
+    "Costume_10608102": {
+        "en-us": "Superstar Idol (Viola)",
+        "es-es": "Superestrella: Idol (violeta)"
+    },
+    "Costume_10608103": {
+        "en-us": "Superstar Idol (Scarlet)",
+        "es-es": "Superestrella: Idol (escarlata)"
+    },
+    "Costume_10608104": {
+        "en-us": "Superstar Idol (Apricot)",
+        "es-es": "Superestrella: Idol (albaricoque)"
+    },
+    "Costume_10608105": {
+        "en-us": "Superstar Idol (Mimosa)",
+        "es-es": "Superestrella: Idol (mimosa)"
+    },
+    "Costume_10608106": {
+        "en-us": "Superstar Idol (Ranunculus)",
+        "es-es": "Superestrella: Idol (ranúnculo)"
+    },
     "Costume_11000000": {
         "en-us": "Hero Costume",
         "es-es": "Traje de héroe"
@@ -2450,6 +2482,30 @@
     "Costume_11601106": {
         "en-us": "Shinobi (Dangerous)",
         "es-es": "Ninja (peligroso)"
+    },
+    "Costume_11603100": {
+        "en-us": "Cyber Hero Costume",
+        "es-es": "Traje de héroe cibernético"
+    },
+    "Costume_11603102": {
+        "en-us": "Cyber Hero Costume (Villain Style)",
+        "es-es": "Traje de héroe cibernético (como villano)"
+    },
+    "Costume_11603103": {
+        "en-us": "Cyber Hero Costume (Heat)",
+        "es-es": "Traje de héroe cibernético (fuego)"
+    },
+    "Costume_11603104": {
+        "en-us": "Cyber Hero Costume (Combat)",
+        "es-es": "Traje de héroe cibernético (combate)"
+    },
+    "Costume_11603105": {
+        "en-us": "Cyber Hero Costume (Fancy)",
+        "es-es": "Traje de héroe cibernético (elegante)"
+    },
+    "Costume_11603106": {
+        "en-us": "Cyber Hero Costume (Dangerous)",
+        "es-es": "Traje de héroe cibernético (peligroso)"
     },
     "Costume_11604100": {
         "en-us": "Armor of the Abyss",
@@ -2703,6 +2759,10 @@
         "en-us": "Leather Style (Villain Style)",
         "es-es": "Estilo de Cuero (como villano)"
     },
+    "Costume_12611103": {
+        "en-us": "Leather Style (Heat)",
+        "es-es": "Estilo de Cuero (fuego)"
+    },
     "Costume_12611104": {
         "en-us": "Leather Style (Combat)",
         "es-es": "Estilo de Cuero (combate)"
@@ -2943,6 +3003,30 @@
         "en-us": "Silent Warlord (Dangerous)",
         "es-es": "Señor de la guerra del sigilo (peligroso)"
     },
+    "Costume_13603100": {
+        "en-us": "Cyber Hero Costume",
+        "es-es": "Traje de héroe cibernético"
+    },
+    "Costume_13603102": {
+        "en-us": "Cyber Hero Costume (Villain Style)",
+        "es-es": "Traje de héroe cibernético (como villano)"
+    },
+    "Costume_13603103": {
+        "en-us": "Cyber Hero Costume (Heat)",
+        "es-es": "Traje de héroe cibernético (fuego)"
+    },
+    "Costume_13603104": {
+        "en-us": "Cyber Hero Costume (Combat)",
+        "es-es": "Traje de héroe cibernético (combate)"
+    },
+    "Costume_13603105": {
+        "en-us": "Cyber Hero Costume (Fancy)",
+        "es-es": "Traje de héroe cibernético (elegante)"
+    },
+    "Costume_13603106": {
+        "en-us": "Cyber Hero Costume (Dangerous)",
+        "es-es": "Traje de héroe cibernético (peligroso)"
+    },
     "Costume_13605100": {
         "en-us": "Party Outfit",
         "es-es": "Traje de fiesta"
@@ -2990,6 +3074,10 @@
     "Costume_15000101": {
         "en-us": "Villain Suit (Hero Style)",
         "es-es": "Uniforme de villano (como héroe)"
+    },
+    "Costume_15000103": {
+        "en-us": "Villain Suit (Heat)",
+        "es-es": "Uniforme de villano (fuego)"
     },
     "Costume_15000104": {
         "en-us": "Villain Suit (Combat)",
@@ -3143,6 +3231,10 @@
         "en-us": "Cyberpunk (Heat)",
         "es-es": "Ciberpunk (fuego)"
     },
+    "Costume_15603104": {
+        "en-us": "Cyberpunk (Combat)",
+        "es-es": "Ciberpunk (combate)"
+    },
     "Costume_15604100": {
         "en-us": "Evil Knight",
         "es-es": "Caballero malvado"
@@ -3222,6 +3314,10 @@
     "Costume_16000103": {
         "en-us": "Mask Off (Heat)",
         "es-es": "Sin máscara (fuego)"
+    },
+    "Costume_16000104": {
+        "en-us": "Mask Off (Combat)",
+        "es-es": "Sin máscara (combate)"
     },
     "Costume_16100100": {
         "en-us": "Prison Escape",
@@ -3810,6 +3906,14 @@
     "Costume_23001106": {
         "en-us": "Hero Costume Alpha ver. (Dangerous)",
         "es-es": "Traje de héroe versión: α (peligroso)"
+    },
+    "Costume_23002100": {
+        "en-us": "Hero Costume (No Flames ver.)",
+        "es-es": "Traje de héroe (apagado)"
+    },
+    "Costume_23002105": {
+        "en-us": "Hero Costume (No Flames ver.) (Fancy)",
+        "es-es": "Traje de héroe (apagado) (elegante)"
     },
     "Costume_23003100": {
         "en-us": "Undefeatable",
@@ -4735,6 +4839,10 @@
         "en-us": "Cyberpunk (Hero Style)",
         "es-es": "Ciberpunk (como héroe)"
     },
+    "Costume_38603103": {
+        "en-us": "Cyberpunk (Heat)",
+        "es-es": "Ciberpunk (fuego)"
+    },
     "Costume_38603105": {
         "en-us": "Cyberpunk (Fancy)",
         "es-es": "Ciberpunk (elegante)"
@@ -5042,6 +5150,30 @@
     "Costume_46604106": {
         "en-us": "Adventurer (Dangerous)",
         "es-es": "Aventurero (peligroso)"
+    },
+    "Costume_46608100": {
+        "en-us": "Superstar Idol",
+        "es-es": "Superestrella: Idol"
+    },
+    "Costume_46608102": {
+        "en-us": "Superstar Idol (Viola)",
+        "es-es": "Superestrella: Idol (violeta)"
+    },
+    "Costume_46608103": {
+        "en-us": "Superstar Idol (Scarlet)",
+        "es-es": "Superestrella: Idol (escarlata)"
+    },
+    "Costume_46608104": {
+        "en-us": "Superstar Idol (Apricot)",
+        "es-es": "Superestrella: Idol (albaricoque)"
+    },
+    "Costume_46608105": {
+        "en-us": "Superstar Idol (Mimosa)",
+        "es-es": "Superestrella: Idol (mimosa)"
+    },
+    "Costume_46608106": {
+        "en-us": "Superstar Idol (Ranunculus)",
+        "es-es": "Superestrella: Idol (ranúnculo)"
     },
     "Costume_100000000": {
         "en-us": "Hero Costume",
@@ -5402,6 +5534,30 @@
     "Costume_102604106": {
         "en-us": "Adventurer (Dangerous)",
         "es-es": "Aventurero (peligroso)"
+    },
+    "Costume_102608100": {
+        "en-us": "Superstar Idol",
+        "es-es": "Superestrella: Idol"
+    },
+    "Costume_102608102": {
+        "en-us": "Superstar Idol (Viola)",
+        "es-es": "Superestrella: Idol (violeta)"
+    },
+    "Costume_102608103": {
+        "en-us": "Superstar Idol (Scarlet)",
+        "es-es": "Superestrella: Idol (escarlata)"
+    },
+    "Costume_102608104": {
+        "en-us": "Superstar Idol (Apricot)",
+        "es-es": "Superestrella: Idol (albaricoque)"
+    },
+    "Costume_102608105": {
+        "en-us": "Superstar Idol (Mimosa)",
+        "es-es": "Superestrella: Idol (mimosa)"
+    },
+    "Costume_102608106": {
+        "en-us": "Superstar Idol (Ranunculus)",
+        "es-es": "Superestrella: Idol (ranúnculo)"
     },
     "Costume_103000000": {
         "en-us": "Villain Costume",
@@ -5899,6 +6055,30 @@
         "en-us": "Commander of Chaos (Dangerous)",
         "es-es": "Señor de la guerra del ruido (peligroso)"
     },
+    "Costume_109603100": {
+        "en-us": "Cyber Hero Costume",
+        "es-es": "Traje de héroe cibernético"
+    },
+    "Costume_109603102": {
+        "en-us": "Cyber Hero Costume (Villain Style)",
+        "es-es": "Traje de héroe cibernético (como villano)"
+    },
+    "Costume_109603103": {
+        "en-us": "Cyber Hero Costume (Heat)",
+        "es-es": "Traje de héroe cibernético (fuego)"
+    },
+    "Costume_109603104": {
+        "en-us": "Cyber Hero Costume (Combat)",
+        "es-es": "Traje de héroe cibernético (combate)"
+    },
+    "Costume_109603105": {
+        "en-us": "Cyber Hero Costume (Fancy)",
+        "es-es": "Traje de héroe cibernético (elegante)"
+    },
+    "Costume_109603106": {
+        "en-us": "Cyber Hero Costume (Dangerous)",
+        "es-es": "Traje de héroe cibernético (peligroso)"
+    },
     "Costume_109605100": {
         "en-us": "Party Outfit",
         "es-es": "Traje de fiesta"
@@ -6050,6 +6230,30 @@
     "Costume_114100106": {
         "en-us": "Casual Style (Dangerous)",
         "es-es": "Pasado de moda (peligroso)"
+    },
+    "Costume_114603100": {
+        "en-us": "Cyber Hero Costume",
+        "es-es": "Traje de héroe cibernético"
+    },
+    "Costume_114603102": {
+        "en-us": "Cyber Hero Costume (Villain Style)",
+        "es-es": "Traje de héroe cibernético (como villano)"
+    },
+    "Costume_114603103": {
+        "en-us": "Cyber Hero Costume (Heat)",
+        "es-es": "Traje de héroe cibernético (fuego)"
+    },
+    "Costume_114603104": {
+        "en-us": "Cyber Hero Costume (Combat)",
+        "es-es": "Traje de héroe cibernético (combate)"
+    },
+    "Costume_114603105": {
+        "en-us": "Cyber Hero Costume (Fancy)",
+        "es-es": "Traje de héroe cibernético (elegante)"
+    },
+    "Costume_114603106": {
+        "en-us": "Cyber Hero Costume (Dangerous)",
+        "es-es": "Traje de héroe cibernético (peligroso)"
     },
     "Costume_114619100": {
         "en-us": "Playing Cards - Queen",
@@ -6427,6 +6631,30 @@
         "en-us": "One For All Final Battle Ver. (Dangerous)",
         "es-es": "One For All (Batalla final) (peligroso)"
     },
+    "Costume_202005100": {
+        "en-us": "Entrusted Hopes",
+        "es-es": "Sentimientos encomendados"
+    },
+    "Costume_202005102": {
+        "en-us": "Entrusted Hopes (Villain Style)",
+        "es-es": "Sentimientos encomendados (como villano)"
+    },
+    "Costume_202005103": {
+        "en-us": "Entrusted Hopes (Heat)",
+        "es-es": "Sentimientos encomendados (fuego)"
+    },
+    "Costume_202005104": {
+        "en-us": "Entrusted Hopes (Combat)",
+        "es-es": "Sentimientos encomendados (combate)"
+    },
+    "Costume_202005105": {
+        "en-us": "Entrusted Hopes (Fancy)",
+        "es-es": "Sentimientos encomendados (elegante)"
+    },
+    "Costume_202005106": {
+        "en-us": "Entrusted Hopes (Dangerous)",
+        "es-es": "Sentimientos encomendados (peligroso)"
+    },
     "Costume_202308100": {
         "en-us": "Hero Fest 2019 ver.",
         "es-es": "Traje del Festival de los Héroes (2019)"
@@ -6479,6 +6707,10 @@
         "en-us": "Leather Style OFA Ver.",
         "es-es": "Estilo de Cuero ver. OFA"
     },
+    "Costume_202611102": {
+        "en-us": "Leather Style OFA Ver. (Villain Style)",
+        "es-es": "Estilo de Cuero ver. OFA (como villano)"
+    },
     "Costume_202611103": {
         "en-us": "Leather Style OFA Ver. (Heat)",
         "es-es": "Estilo de Cuero ver. OFA (fuego)"
@@ -6510,5 +6742,133 @@
     "Costume_202619106": {
         "en-us": "Playing Cards - Clubs (Horizon)",
         "es-es": "Naipe: Sota Tréboles (Horizonte)"
+    },
+    "Costume_203000000": {
+        "en-us": "Villain Costume",
+        "es-es": "Traje de villano"
+    },
+    "Costume_203000003": {
+        "en-us": "Villain Costume (Heat)",
+        "es-es": "Traje de villano (fuego)"
+    },
+    "Costume_203000005": {
+        "en-us": "Villain Costume (Fancy)",
+        "es-es": "Traje de villano (elegante)"
+    },
+    "Costume_203000006": {
+        "en-us": "Villain Costume (Dangerous)",
+        "es-es": "Traje de villano (peligroso)"
+    },
+    "Costume_203004100": {
+        "en-us": "Critical Mass",
+        "es-es": "Umbral crítico"
+    },
+    "Costume_203004101": {
+        "en-us": "Critical Mass (Hero Style)",
+        "es-es": "Umbral crítico (como héroe)"
+    },
+    "Costume_203004103": {
+        "en-us": "Critical Mass (Heat)",
+        "es-es": "Umbral crítico (fuego)"
+    },
+    "Costume_203004104": {
+        "en-us": "Critical Mass (Combat)",
+        "es-es": "Umbral crítico (combate)"
+    },
+    "Costume_203004105": {
+        "en-us": "Critical Mass (Fancy)",
+        "es-es": "Umbral crítico (elegante)"
+    },
+    "Costume_203004106": {
+        "en-us": "Critical Mass (Dangerous)",
+        "es-es": "Umbral crítico (peligroso)"
+    },
+    "Costume_203607100": {
+        "en-us": "Quirk Boost Gear",
+        "es-es": "Equipo de refuerzo de dones"
+    },
+    "Costume_203607101": {
+        "en-us": "Quirk Boost Gear (Hero Style)",
+        "es-es": "Equipo de refuerzo de dones (como héroe)"
+    },
+    "Costume_203607103": {
+        "en-us": "Quirk Boost Gear (Heat)",
+        "es-es": "Equipo de refuerzo de dones (fuego)"
+    },
+    "Costume_203607104": {
+        "en-us": "Quirk Boost Gear (Combat)",
+        "es-es": "Equipo de refuerzo de dones (combate)"
+    },
+    "Costume_203607105": {
+        "en-us": "Quirk Boost Gear (Fancy)",
+        "es-es": "Equipo de refuerzo de dones (elegante)"
+    },
+    "Costume_203607106": {
+        "en-us": "Quirk Boost Gear (Dangerous)",
+        "es-es": "Equipo de refuerzo de dones (peligroso)"
+    },
+    "Costume_204000000": {
+        "en-us": "Hero Costume",
+        "es-es": "Traje de héroe"
+    },
+    "Costume_204000003": {
+        "en-us": "Hero Costume (Heat)",
+        "es-es": "Traje de héroe (fuego)"
+    },
+    "Costume_204000004": {
+        "en-us": "Hero Costume (Combat)",
+        "es-es": "Traje de héroe (combate)"
+    },
+    "Costume_204000005": {
+        "en-us": "Hero Costume (Fancy)",
+        "es-es": "Traje de héroe (elegante)"
+    },
+    "Costume_204003100": {
+        "en-us": "Undefeatable",
+        "es-es": "Espíritu luchador"
+    },
+    "Costume_204003102": {
+        "en-us": "Undefeatable (Villain Style)",
+        "es-es": "Espíritu luchador (como villano)"
+    },
+    "Costume_204003103": {
+        "en-us": "Undefeatable (Heat)",
+        "es-es": "Espíritu luchador (fuego)"
+    },
+    "Costume_204003104": {
+        "en-us": "Undefeatable (Combat)",
+        "es-es": "Espíritu luchador (combate)"
+    },
+    "Costume_204003105": {
+        "en-us": "Undefeatable (Fancy)",
+        "es-es": "Espíritu luchador (elegante)"
+    },
+    "Costume_204003106": {
+        "en-us": "Undefeatable (Dangerous)",
+        "es-es": "Espíritu luchador (peligroso)"
+    },
+    "Costume_204607100": {
+        "en-us": "Quirk Assist Gear: Phosphor ver.",
+        "es-es": "Equipo de asistencia de dones ver. Fósforo"
+    },
+    "Costume_204607102": {
+        "en-us": "Quirk Assist Gear: Phosphor ver. (Villain Style)",
+        "es-es": "Equipo de asistencia de dones ver. Fósforo (como villano)"
+    },
+    "Costume_204607103": {
+        "en-us": "Quirk Assist Gear: Phosphor ver. (Heat)",
+        "es-es": "Equipo de asistencia de dones ver. Fósforo (fuego)"
+    },
+    "Costume_204607104": {
+        "en-us": "Quirk Assist Gear: Phosphor ver. (Combat)",
+        "es-es": "Equipo de asistencia de dones ver. Fósforo (combate)"
+    },
+    "Costume_204607105": {
+        "en-us": "Quirk Assist Gear: Phosphor ver. (Fancy)",
+        "es-es": "Equipo de asistencia de dones ver. Fósforo (elegante)"
+    },
+    "Costume_204607106": {
+        "en-us": "Quirk Assist Gear: Phosphor ver. (Dangerous)",
+        "es-es": "Equipo de asistencia de dones ver. Fósforo (peligroso)"
     }
 }

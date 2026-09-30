@@ -494,5 +494,29 @@
     "Ch202_Variation0_Description": {
         "en-us": "Landing a melee attack increases Movement Speed and Attack Speed for a limited time.",
         "es-es": "Al acertar un ataque cuerpo a cuerpo, la velocidad de movimiento y la velocidad de ataque aumentan por un tiempo determinado."
+    },
+    "Ch202_Variation1": {
+        "en-us": "Tenacity",
+        "es-es": "Tenacidad"
+    },
+    "Ch202_Variation1_Description": {
+        "en-us": "If your Guard breaks, increases your Defense by half of remaining HP and allows you to resist flinching from opponent attacks for a set amount of time.",
+        "es-es": "Si te rompen la guardia, te vuelves inmune al retroceso por ataques enemigos durante un tiempo determinado y aumenta la defensa cuando los PS bajan de la mitad."
+    },
+    "Ch203_Variation0": {
+        "en-us": "Death Flame",
+        "es-es": "Llama mortal"
+    },
+    "Ch203_Variation0_Description": {
+        "en-us": "Increases your downed HP and movement speed while downed, and restores HP to full when revived after the count.",
+        "es-es": "Aumenta los PS y la velocidad de movimiento al estar tumbado. Además, restablece todos los PS al levantarse tras la cuenta regresiva de reanimación."
+    },
+    "Ch204_Variation0": {
+        "en-us": "Permafrost",
+        "es-es": "Congelación"
+    },
+    "Ch204_Variation0_Description": {
+        "en-us": "Opponents hit by melee attacks become frozen for a set time.",
+        "es-es": "Congela por un tiempo determinado a los enemigos alcanzados por un ataque cuerpo a cuerpo."
     }
 }

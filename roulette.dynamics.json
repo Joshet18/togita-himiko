@@ -36,6 +36,12 @@
         "type": "Hero"
     },
     {
+        "name": "Shoto Todoroki (Phosphor)",
+        "role": "<:Rapid:1390975772730069078>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
         "name": "Tsuyu Asui",
         "role": "<:Rapid:1390975772730069078>",
         "skill_set": false,
@@ -61,6 +67,12 @@
     },
     {
         "name": "Denki Kaminari",
+        "role": "<:Strike:1390975762407886921>",
+        "skill_set": false,
+        "type": "Hero"
+    },
+    {
+        "name": "Hitoshi Shinso",
         "role": "<:Strike:1390975762407886921>",
         "skill_set": false,
         "type": "Hero"
@@ -98,12 +110,6 @@
     {
         "name": "Nejire Hado",
         "role": "<:Technical:1390975739444330546>",
-        "skill_set": false,
-        "type": "Hero"
-    },
-    {
-        "name": "Hitoshi Shinso",
-        "role": "<:Strike:1390975762407886921>",
         "skill_set": false,
         "type": "Hero"
     },
@@ -192,6 +198,12 @@
         "type": "Villain"
     },
     {
+        "name": "Toya Todoroki",
+        "role": "<:Assult:1390975784109477918>",
+        "skill_set": false,
+        "type": "Villain"
+    },
+    {
         "name": "Himiko Toga",
         "role": "<:Technical:1390975739444330546>",
         "skill_set": false,
@@ -236,6 +248,12 @@
     {
         "name": "Izuku Midoriya (Full Bullet)",
         "role": "<:Strike:1390975762407886921>",
+        "skill_set": true,
+        "type": "Hero"
+    },
+    {
+        "name": "Izuku Midoriya OFA (Rising)",
+        "role": "<:Technical:1390975739444330546>",
         "skill_set": true,
         "type": "Hero"
     },
@@ -318,7 +336,7 @@
         "type": "Hero"
     },
     {
-        "name": "Endeavor (Inferno Fist)",
+        "name": "Endeavor (Flashfire Fist)",
         "role": "<:Assult:1390975784109477918>",
         "skill_set": true,
         "type": "Hero"
