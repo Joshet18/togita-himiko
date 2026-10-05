@@ -1,0 +1,5537 @@
+﻿[
+  {
+    "TableName": "Undef",
+    "GroupCode": "Undef",
+    "DamageNameList": [
+      "Undef",
+      "Undef",
+      "Undef",
+      "Undef",
+      "Undef",
+      "Undef",
+      "Undef",
+      "Undef",
+      "Undef"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "チャージ個性1",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "チャージ個性1_Level1",
+      "チャージ個性1_Level2",
+      "チャージ個性1_Level3",
+      "チャージ個性1_Level4",
+      "チャージ個性1_Level5",
+      "チャージ個性1_Level6",
+      "チャージ個性1_Level7",
+      "チャージ個性1_Level8",
+      "チャージ個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性3(弱)",
+      "個性3(弱)",
+      "個性3(弱)",
+      "個性3(中)",
+      "個性3(中)",
+      "個性3(中)",
+      "個性3(中)",
+      "個性3(中)",
+      "個性3(強)"
+    ]
+  },
+  {
+    "TableName": "チャージ個性3",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "チャージ個性3_Level1",
+      "チャージ個性3_Level2",
+      "チャージ個性3_Level3",
+      "チャージ個性3_Level4",
+      "チャージ個性3_Level5",
+      "チャージ個性3_Level6",
+      "チャージ個性3_Level7",
+      "チャージ個性3_Level8",
+      "チャージ個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_エイム",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性4_エイム_Level1",
+      "個性4_エイム_Level2",
+      "個性4_エイム_Level3",
+      "個性4_エイム_Level4",
+      "個性4_エイム_Level5",
+      "個性4_エイム_Level6",
+      "個性4_エイム_Level7",
+      "個性4_エイム_Level8",
+      "個性4_エイム_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_S",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性5_S_Level1",
+      "個性5_S_Level2",
+      "個性5_S_Level3",
+      "個性5_S_Level4",
+      "個性5_S_Level5",
+      "個性5_S_Level6",
+      "個性5_S_Level7",
+      "個性5_S_Level8",
+      "個性5_S_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_M",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性5_M_Level1",
+      "個性5_M_Level2",
+      "個性5_M_Level3",
+      "個性5_M_Level4",
+      "個性5_M_Level5",
+      "個性5_M_Level6",
+      "個性5_M_Level7",
+      "個性5_M_Level8",
+      "個性5_M_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_L",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性5_L_Level1",
+      "個性5_L_Level2",
+      "個性5_L_Level3",
+      "個性5_L_Level4",
+      "個性5_L_Level5",
+      "個性5_L_Level6",
+      "個性5_L_Level7",
+      "個性5_L_Level8",
+      "個性5_L_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6",
+    "GroupCode": "Ch001",
+    "DamageNameList": [
+      "個性6_Level1",
+      "個性6_Level2",
+      "個性6_Level3",
+      "個性6_Level4",
+      "個性6_Level5",
+      "個性6_Level6",
+      "個性6_Level7",
+      "個性6_Level8",
+      "個性6_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "チャージ個性1",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "チャージ個性1_Level1",
+      "チャージ個性1_Level2",
+      "チャージ個性1_Level3",
+      "チャージ個性1_Level4",
+      "チャージ個性1_Level5",
+      "チャージ個性1_Level6",
+      "チャージ個性1_Level7",
+      "チャージ個性1_Level8",
+      "チャージ個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_締め",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性3_締め_Level1",
+      "個性3_締め_Level2",
+      "個性3_締め_Level3",
+      "個性3_締め_Level4",
+      "個性3_締め_Level5",
+      "個性3_締め_Level6",
+      "個性3_締め_Level7",
+      "個性3_締め_Level8",
+      "個性3_締め_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性6_Level1",
+      "個性6_Level2",
+      "個性6_Level3",
+      "個性6_Level4",
+      "個性6_Level5",
+      "個性6_Level6",
+      "個性6_Level7",
+      "個性6_Level8",
+      "個性6_Level9"
+    ]
+  },
+  {
+    "TableName": "個性7_通常",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性7_通常_Level1",
+      "個性7_通常_Level2",
+      "個性7_通常_Level3",
+      "個性7_通常_Level4",
+      "個性7_通常_Level5",
+      "個性7_通常_Level6",
+      "個性7_通常_Level7",
+      "個性7_通常_Level8",
+      "個性7_通常_Level9"
+    ]
+  },
+  {
+    "TableName": "個性7_設置爆発",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性7_設置爆発_Level1",
+      "個性7_設置爆発_Level2",
+      "個性7_設置爆発_Level3",
+      "個性7_設置爆発_Level4",
+      "個性7_設置爆発_Level5",
+      "個性7_設置爆発_Level6",
+      "個性7_設置爆発_Level7",
+      "個性7_設置爆発_Level8",
+      "個性7_設置爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性7_エイム",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性7_エイム_Level1",
+      "個性7_エイム_Level2",
+      "個性7_エイム_Level3",
+      "個性7_エイム_Level4",
+      "個性7_エイム_Level5",
+      "個性7_エイム_Level6",
+      "個性7_エイム_Level7",
+      "個性7_エイム_Level8",
+      "個性7_エイム_Level9"
+    ]
+  },
+  {
+    "TableName": "個性7_着弾爆発",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性7_着弾爆発_Level1",
+      "個性7_着弾爆発_Level2",
+      "個性7_着弾爆発_Level3",
+      "個性7_着弾爆発_Level4",
+      "個性7_着弾爆発_Level5",
+      "個性7_着弾爆発_Level6",
+      "個性7_着弾爆発_Level7",
+      "個性7_着弾爆発_Level8",
+      "個性7_着弾爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性8_汗弾",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性8_汗弾_Level1",
+      "個性8_汗弾_Level2",
+      "個性8_汗弾_Level3",
+      "個性8_汗弾_Level4",
+      "個性8_汗弾_Level5",
+      "個性8_汗弾_Level6",
+      "個性8_汗弾_Level7",
+      "個性8_汗弾_Level8",
+      "個性8_汗弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性8_汗設置",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性8_汗設置_Level1",
+      "個性8_汗設置_Level2",
+      "個性8_汗設置_Level3",
+      "個性8_汗設置_Level4",
+      "個性8_汗設置_Level5",
+      "個性8_汗設置_Level6",
+      "個性8_汗設置_Level7",
+      "個性8_汗設置_Level8",
+      "個性8_汗設置_Level9"
+    ]
+  },
+  {
+    "TableName": "個性8_爆発",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性8_爆発_Level1",
+      "個性8_爆発_Level2",
+      "個性8_爆発_Level3",
+      "個性8_爆発_Level4",
+      "個性8_爆発_Level5",
+      "個性8_爆発_Level6",
+      "個性8_爆発_Level7",
+      "個性8_爆発_Level8",
+      "個性8_爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性8_爆発状態追撃",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性8_爆発状態追撃_Level1",
+      "個性8_爆発状態追撃_Level2",
+      "個性8_爆発状態追撃_Level3",
+      "個性8_爆発状態追撃_Level4",
+      "個性8_爆発状態追撃_Level5",
+      "個性8_爆発状態追撃_Level6",
+      "個性8_爆発状態追撃_Level7",
+      "個性8_爆発状態追撃_Level8",
+      "個性8_爆発状態追撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性9",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性9_Level1",
+      "個性9_Level2",
+      "個性9_Level3",
+      "個性9_Level4",
+      "個性9_Level5",
+      "個性9_Level6",
+      "個性9_Level7",
+      "個性9_Level8",
+      "個性9_Level9"
+    ]
+  },
+  {
+    "TableName": "個性9_フィニッシュ",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性9_フィニッシュ_Level1",
+      "個性9_フィニッシュ_Level2",
+      "個性9_フィニッシュ_Level3",
+      "個性9_フィニッシュ_Level4",
+      "個性9_フィニッシュ_Level5",
+      "個性9_フィニッシュ_Level6",
+      "個性9_フィニッシュ_Level7",
+      "個性9_フィニッシュ_Level8",
+      "個性9_フィニッシュ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性9_汗",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性9_汗_Level1",
+      "個性9_汗_Level2",
+      "個性9_汗_Level3",
+      "個性9_汗_Level4",
+      "個性9_汗_Level5",
+      "個性9_汗_Level6",
+      "個性9_汗_Level7",
+      "個性9_汗_Level8",
+      "個性9_汗_Level9"
+    ]
+  },
+  {
+    "TableName": "個性9_汗爆発",
+    "GroupCode": "Ch002",
+    "DamageNameList": [
+      "個性9_汗爆発_Level1",
+      "個性9_汗爆発_Level2",
+      "個性9_汗爆発_Level3",
+      "個性9_汗爆発_Level4",
+      "個性9_汗爆発_Level5",
+      "個性9_汗爆発_Level6",
+      "個性9_汗爆発_Level7",
+      "個性9_汗爆発_Level8",
+      "個性9_汗爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "チャージ個性1",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "チャージ個性1_Level1",
+      "チャージ個性1_Level2",
+      "チャージ個性1_Level3",
+      "チャージ個性1_Level4",
+      "チャージ個性1_Level5",
+      "チャージ個性1_Level6",
+      "チャージ個性1_Level7",
+      "チャージ個性1_Level8",
+      "チャージ個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_離し",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性2_離し_Level1",
+      "個性2_離し_Level2",
+      "個性2_離し_Level3",
+      "個性2_離し_Level4",
+      "個性2_離し_Level5",
+      "個性2_離し_Level6",
+      "個性2_離し_Level7",
+      "個性2_離し_Level8",
+      "個性2_離し_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_浮遊範囲攻撃",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性3_浮遊範囲攻撃_Level1",
+      "個性3_浮遊範囲攻撃_Level2",
+      "個性3_浮遊範囲攻撃_Level3",
+      "個性3_浮遊範囲攻撃_Level4",
+      "個性3_浮遊範囲攻撃_Level5",
+      "個性3_浮遊範囲攻撃_Level6",
+      "個性3_浮遊範囲攻撃_Level7",
+      "個性3_浮遊範囲攻撃_Level8",
+      "個性3_浮遊範囲攻撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_弾",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性4_弾_Level1",
+      "個性4_弾_Level2",
+      "個性4_弾_Level3",
+      "個性4_弾_Level4",
+      "個性4_弾_Level5",
+      "個性4_弾_Level6",
+      "個性4_弾_Level7",
+      "個性4_弾_Level8",
+      "個性4_弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_短押しスイング",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性4_短押しスイング_Level1",
+      "個性4_短押しスイング_Level2",
+      "個性4_短押しスイング_Level3",
+      "個性4_短押しスイング_Level4",
+      "個性4_短押しスイング_Level5",
+      "個性4_短押しスイング_Level6",
+      "個性4_短押しスイング_Level7",
+      "個性4_短押しスイング_Level8",
+      "個性4_短押しスイング_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_長押しスイング",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性4_長押しスイング_Level1",
+      "個性4_長押しスイング_Level2",
+      "個性4_長押しスイング_Level3",
+      "個性4_長押しスイング_Level4",
+      "個性4_長押しスイング_Level5",
+      "個性4_長押しスイング_Level6",
+      "個性4_長押しスイング_Level7",
+      "個性4_長押しスイング_Level8",
+      "個性4_長押しスイング_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_始動",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性4_始動_Level1",
+      "個性4_始動_Level2",
+      "個性4_始動_Level3",
+      "個性4_始動_Level4",
+      "個性4_始動_Level5",
+      "個性4_始動_Level6",
+      "個性4_始動_Level7",
+      "個性4_始動_Level8",
+      "個性4_始動_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_足場落とし",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性6_足場落とし_Level1",
+      "個性6_足場落とし_Level2",
+      "個性6_足場落とし_Level3",
+      "個性6_足場落とし_Level4",
+      "個性6_足場落とし_Level5",
+      "個性6_足場落とし_Level6",
+      "個性6_足場落とし_Level7",
+      "個性6_足場落とし_Level8",
+      "個性6_足場落とし_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_列単体落とし",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性6_列単体落とし_Level1",
+      "個性6_列単体落とし_Level2",
+      "個性6_列単体落とし_Level3",
+      "個性6_列単体落とし_Level4",
+      "個性6_列単体落とし_Level5",
+      "個性6_列単体落とし_Level6",
+      "個性6_列単体落とし_Level7",
+      "個性6_列単体落とし_Level8",
+      "個性6_列単体落とし_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_足場_浮遊範囲攻撃",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性6_足場_浮遊範囲攻撃_Level1",
+      "個性6_足場_浮遊範囲攻撃_Level2",
+      "個性6_足場_浮遊範囲攻撃_Level3",
+      "個性6_足場_浮遊範囲攻撃_Level4",
+      "個性6_足場_浮遊範囲攻撃_Level5",
+      "個性6_足場_浮遊範囲攻撃_Level6",
+      "個性6_足場_浮遊範囲攻撃_Level7",
+      "個性6_足場_浮遊範囲攻撃_Level8",
+      "個性6_足場_浮遊範囲攻撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_列単体落とし_浮遊範囲攻撃",
+    "GroupCode": "Ch003",
+    "DamageNameList": [
+      "個性6_列単体落とし_浮遊範囲攻撃_Level1",
+      "個性6_列単体落とし_浮遊範囲攻撃_Level2",
+      "個性6_列単体落とし_浮遊範囲攻撃_Level3",
+      "個性6_列単体落とし_浮遊範囲攻撃_Level4",
+      "個性6_列単体落とし_浮遊範囲攻撃_Level5",
+      "個性6_列単体落とし_浮遊範囲攻撃_Level6",
+      "個性6_列単体落とし_浮遊範囲攻撃_Level7",
+      "個性6_列単体落とし_浮遊範囲攻撃_Level8",
+      "個性6_列単体落とし_浮遊範囲攻撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "チャージ個性1",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "チャージ個性1_Level1",
+      "チャージ個性1_Level2",
+      "チャージ個性1_Level3",
+      "チャージ個性1_Level4",
+      "チャージ個性1_Level5",
+      "チャージ個性1_Level6",
+      "チャージ個性1_Level7",
+      "チャージ個性1_Level8",
+      "チャージ個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "チャージ個性2",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3(先端)",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性3(先端)_Level1",
+      "個性3(先端)_Level2",
+      "個性3(先端)_Level3",
+      "個性3(先端)_Level4",
+      "個性3(先端)_Level5",
+      "個性3(先端)_Level6",
+      "個性3(先端)_Level7",
+      "個性3(先端)_Level8",
+      "個性3(先端)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性6_Level1",
+      "個性6_Level2",
+      "個性6_Level3",
+      "個性6_Level4",
+      "個性6_Level5",
+      "個性6_Level6",
+      "個性6_Level7",
+      "個性6_Level8",
+      "個性6_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_氷",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性4_氷_Level1",
+      "個性4_氷_Level2",
+      "個性4_氷_Level3",
+      "個性4_氷_Level4",
+      "個性4_氷_Level5",
+      "個性4_氷_Level6",
+      "個性4_氷_Level7",
+      "個性4_氷_Level8",
+      "個性4_氷_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_爆発",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性5_爆発_Level1",
+      "個性5_爆発_Level2",
+      "個性5_爆発_Level3",
+      "個性5_爆発_Level4",
+      "個性5_爆発_Level5",
+      "個性5_爆発_Level6",
+      "個性5_爆発_Level7",
+      "個性5_爆発_Level8",
+      "個性5_爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_着弾（炎）",
+    "GroupCode": "Ch004",
+    "DamageNameList": [
+      "個性6_着弾（炎）_Level1",
+      "個性6_着弾（炎）_Level2",
+      "個性6_着弾（炎）_Level3",
+      "個性6_着弾（炎）_Level4",
+      "個性6_着弾（炎）_Level5",
+      "個性6_着弾（炎）_Level6",
+      "個性6_着弾（炎）_Level7",
+      "個性6_着弾（炎）_Level8",
+      "個性6_着弾（炎）_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch005",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch005",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_空中",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性2_空中_Level1",
+      "個性2_空中_Level2",
+      "個性2_空中_Level3",
+      "個性2_空中_Level4",
+      "個性2_空中_Level5",
+      "個性2_空中_Level6",
+      "個性2_空中_Level7",
+      "個性2_空中_Level8",
+      "個性2_空中_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_泡状態ダメージ",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性4_泡状態ダメージ_Level1",
+      "個性4_泡状態ダメージ_Level2",
+      "個性4_泡状態ダメージ_Level3",
+      "個性4_泡状態ダメージ_Level4",
+      "個性4_泡状態ダメージ_Level5",
+      "個性4_泡状態ダメージ_Level6",
+      "個性4_泡状態ダメージ_Level7",
+      "個性4_泡状態ダメージ_Level8",
+      "個性4_泡状態ダメージ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_スプラッシュ",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性5_スプラッシュ_Level1",
+      "個性5_スプラッシュ_Level2",
+      "個性5_スプラッシュ_Level3",
+      "個性5_スプラッシュ_Level4",
+      "個性5_スプラッシュ_Level5",
+      "個性5_スプラッシュ_Level6",
+      "個性5_スプラッシュ_Level7",
+      "個性5_スプラッシュ_Level8",
+      "個性5_スプラッシュ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_スーパースプラッシュ",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性5_スーパースプラッシュ_Level1",
+      "個性5_スーパースプラッシュ_Level2",
+      "個性5_スーパースプラッシュ_Level3",
+      "個性5_スーパースプラッシュ_Level4",
+      "個性5_スーパースプラッシュ_Level5",
+      "個性5_スーパースプラッシュ_Level6",
+      "個性5_スーパースプラッシュ_Level7",
+      "個性5_スーパースプラッシュ_Level8",
+      "個性5_スーパースプラッシュ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_波紋",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性5_波紋_Level1",
+      "個性5_波紋_Level2",
+      "個性5_波紋_Level3",
+      "個性5_波紋_Level4",
+      "個性5_波紋_Level5",
+      "個性5_波紋_Level6",
+      "個性5_波紋_Level7",
+      "個性5_波紋_Level8",
+      "個性5_波紋_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_踏みつけ",
+    "GroupCode": "Ch006",
+    "DamageNameList": [
+      "個性6_踏みつけ_Level1",
+      "個性6_踏みつけ_Level2",
+      "個性6_踏みつけ_Level3",
+      "個性6_踏みつけ_Level4",
+      "個性6_踏みつけ_Level5",
+      "個性6_踏みつけ_Level6",
+      "個性6_踏みつけ_Level7",
+      "個性6_踏みつけ_Level8",
+      "個性6_踏みつけ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1(接続線)",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性1(接続線)_Level1",
+      "個性1(接続線)_Level2",
+      "個性1(接続線)_Level3",
+      "個性1(接続線)_Level4",
+      "個性1(接続線)_Level5",
+      "個性1(接続線)_Level6",
+      "個性1(接続線)_Level7",
+      "個性1(接続線)_Level8",
+      "個性1(接続線)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_衝撃",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性2_衝撃_Level1",
+      "個性2_衝撃_Level2",
+      "個性2_衝撃_Level3",
+      "個性2_衝撃_Level4",
+      "個性2_衝撃_Level5",
+      "個性2_衝撃_Level6",
+      "個性2_衝撃_Level7",
+      "個性2_衝撃_Level8",
+      "個性2_衝撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_衝撃",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性3_衝撃_Level1",
+      "個性3_衝撃_Level2",
+      "個性3_衝撃_Level3",
+      "個性3_衝撃_Level4",
+      "個性3_衝撃_Level5",
+      "個性3_衝撃_Level6",
+      "個性3_衝撃_Level7",
+      "個性3_衝撃_Level8",
+      "個性3_衝撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_横拡散",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性4_横拡散_Level1",
+      "個性4_横拡散_Level2",
+      "個性4_横拡散_Level3",
+      "個性4_横拡散_Level4",
+      "個性4_横拡散_Level5",
+      "個性4_横拡散_Level6",
+      "個性4_横拡散_Level7",
+      "個性4_横拡散_Level8",
+      "個性4_横拡散_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_ホーミング",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性4_ホーミング_Level1",
+      "個性4_ホーミング_Level2",
+      "個性4_ホーミング_Level3",
+      "個性4_ホーミング_Level4",
+      "個性4_ホーミング_Level5",
+      "個性4_ホーミング_Level6",
+      "個性4_ホーミング_Level7",
+      "個性4_ホーミング_Level8",
+      "個性4_ホーミング_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_索敵",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性5_索敵_Level1",
+      "個性5_索敵_Level2",
+      "個性5_索敵_Level3",
+      "個性5_索敵_Level4",
+      "個性5_索敵_Level5",
+      "個性5_索敵_Level6",
+      "個性5_索敵_Level7",
+      "個性5_索敵_Level8",
+      "個性5_索敵_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_ホーミング",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性5_ホーミング_Level1",
+      "個性5_ホーミング_Level2",
+      "個性5_ホーミング_Level3",
+      "個性5_ホーミング_Level4",
+      "個性5_ホーミング_Level5",
+      "個性5_ホーミング_Level6",
+      "個性5_ホーミング_Level7",
+      "個性5_ホーミング_Level8",
+      "個性5_ホーミング_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_初回突進",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性6_初回突進_Level1",
+      "個性6_初回突進_Level2",
+      "個性6_初回突進_Level3",
+      "個性6_初回突進_Level4",
+      "個性6_初回突進_Level5",
+      "個性6_初回突進_Level6",
+      "個性6_初回突進_Level7",
+      "個性6_初回突進_Level8",
+      "個性6_初回突進_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_二回目以降突進",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性6_二回目以降突進_Level1",
+      "個性6_二回目以降突進_Level2",
+      "個性6_二回目以降突進_Level3",
+      "個性6_二回目以降突進_Level4",
+      "個性6_二回目以降突進_Level5",
+      "個性6_二回目以降突進_Level6",
+      "個性6_二回目以降突進_Level7",
+      "個性6_二回目以降突進_Level8",
+      "個性6_二回目以降突進_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_ラスト",
+    "GroupCode": "Ch007",
+    "DamageNameList": [
+      "個性6_ラスト_Level1",
+      "個性6_ラスト_Level2",
+      "個性6_ラスト_Level3",
+      "個性6_ラスト_Level4",
+      "個性6_ラスト_Level5",
+      "個性6_ラスト_Level6",
+      "個性6_ラスト_Level7",
+      "個性6_ラスト_Level8",
+      "個性6_ラスト_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1締め",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性1締め_Level1",
+      "個性1締め_Level2",
+      "個性1締め_Level3",
+      "個性1締め_Level4",
+      "個性1締め_Level5",
+      "個性1締め_Level6",
+      "個性1締め_Level7",
+      "個性1締め_Level8",
+      "個性1締め_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4ラスト",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性4ラスト_Level1",
+      "個性4ラスト_Level2",
+      "個性4ラスト_Level3",
+      "個性4ラスト_Level4",
+      "個性4ラスト_Level5",
+      "個性4ラスト_Level6",
+      "個性4ラスト_Level7",
+      "個性4ラスト_Level8",
+      "個性4ラスト_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5地面ラスト",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性5地面ラスト_Level1",
+      "個性5地面ラスト_Level2",
+      "個性5地面ラスト_Level3",
+      "個性5地面ラスト_Level4",
+      "個性5地面ラスト_Level5",
+      "個性5地面ラスト_Level6",
+      "個性5地面ラスト_Level7",
+      "個性5地面ラスト_Level8",
+      "個性5地面ラスト_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5地面ラスト_チャージ",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性5地面ラスト_チャージ_Level1",
+      "個性5地面ラスト_チャージ_Level2",
+      "個性5地面ラスト_チャージ_Level3",
+      "個性5地面ラスト_チャージ_Level4",
+      "個性5地面ラスト_チャージ_Level5",
+      "個性5地面ラスト_チャージ_Level6",
+      "個性5地面ラスト_チャージ_Level7",
+      "個性5地面ラスト_チャージ_Level8",
+      "個性5地面ラスト_チャージ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5空中ラスト",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性5空中ラスト_Level1",
+      "個性5空中ラスト_Level2",
+      "個性5空中ラスト_Level3",
+      "個性5空中ラスト_Level4",
+      "個性5空中ラスト_Level5",
+      "個性5空中ラスト_Level6",
+      "個性5空中ラスト_Level7",
+      "個性5空中ラスト_Level8",
+      "個性5空中ラスト_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5空中ラスト_チャージ",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性5空中ラスト_チャージ_Level1",
+      "個性5空中ラスト_チャージ_Level2",
+      "個性5空中ラスト_チャージ_Level3",
+      "個性5空中ラスト_チャージ_Level4",
+      "個性5空中ラスト_チャージ_Level5",
+      "個性5空中ラスト_チャージ_Level6",
+      "個性5空中ラスト_チャージ_Level7",
+      "個性5空中ラスト_チャージ_Level8",
+      "個性5空中ラスト_チャージ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6",
+    "GroupCode": "Ch008",
+    "DamageNameList": [
+      "個性6_Level1",
+      "個性6_Level2",
+      "個性6_Level3",
+      "個性6_Level4",
+      "個性6_Level5",
+      "個性6_Level6",
+      "個性6_Level7",
+      "個性6_Level8",
+      "個性6_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch010",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch010",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch010",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_小弾",
+    "GroupCode": "Ch010",
+    "DamageNameList": [
+      "個性3_小弾_Level1",
+      "個性3_小弾_Level2",
+      "個性3_小弾_Level3",
+      "個性3_小弾_Level4",
+      "個性3_小弾_Level5",
+      "個性3_小弾_Level6",
+      "個性3_小弾_Level7",
+      "個性3_小弾_Level8",
+      "個性3_小弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch011",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch011",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1爆発",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性1爆発_Level1",
+      "個性1爆発_Level2",
+      "個性1爆発_Level3",
+      "個性1爆発_Level4",
+      "個性1爆発_Level5",
+      "個性1爆発_Level6",
+      "個性1爆発_Level7",
+      "個性1爆発_Level8",
+      "個性1爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2叩きつけ",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性2叩きつけ_Level1",
+      "個性2叩きつけ_Level2",
+      "個性2叩きつけ_Level3",
+      "個性2叩きつけ_Level4",
+      "個性2叩きつけ_Level5",
+      "個性2叩きつけ_Level6",
+      "個性2叩きつけ_Level7",
+      "個性2叩きつけ_Level8",
+      "個性2叩きつけ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "チャージ個性3",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "チャージ個性3_level1",
+      "チャージ個性3_Level2",
+      "チャージ個性3_Level3",
+      "チャージ個性3_Level4",
+      "チャージ個性3_Level5",
+      "チャージ個性3_Level6",
+      "チャージ個性3_Level7",
+      "チャージ個性3_Level8",
+      "チャージ個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5突進",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性5突進_Level1",
+      "個性5突進_Level2",
+      "個性5突進_Level3",
+      "個性5突進_Level4",
+      "個性5突進_Level5",
+      "個性5突進_Level6",
+      "個性5突進_Level7",
+      "個性5突進_Level8",
+      "個性5突進_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5射撃",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性5射撃_Level1",
+      "個性5射撃_Level2",
+      "個性5射撃_Level3",
+      "個性5射撃_Level4",
+      "個性5射撃_Level5",
+      "個性5射撃_Level6",
+      "個性5射撃_Level7",
+      "個性5射撃_Level8",
+      "個性5射撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5突進トドメ",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性5突進トドメ_Level1",
+      "個性5突進トドメ_Level2",
+      "個性5突進トドメ_Level3",
+      "個性5突進トドメ_Level4",
+      "個性5突進トドメ_Level5",
+      "個性5突進トドメ_Level6",
+      "個性5突進トドメ_Level7",
+      "個性5突進トドメ_Level8",
+      "個性5突進トドメ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6掴み",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性6掴み",
+      "個性6掴み",
+      "個性6掴み",
+      "個性6掴み",
+      "個性6掴み",
+      "個性6掴み",
+      "個性6掴み",
+      "個性6掴み",
+      "個性6掴み"
+    ]
+  },
+  {
+    "TableName": "個性6叩きつけ",
+    "GroupCode": "Ch012",
+    "DamageNameList": [
+      "個性6叩きつけ_Level1",
+      "個性6叩きつけ_Level2",
+      "個性6叩きつけ_Level3",
+      "個性6叩きつけ_Level4",
+      "個性6叩きつけ_Level5",
+      "個性6叩きつけ_Level6",
+      "個性6叩きつけ_Level7",
+      "個性6叩きつけ_Level8",
+      "個性6叩きつけ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1衝撃波",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性1衝撃波_Level1",
+      "個性1衝撃波_Level2",
+      "個性1衝撃波_Level3",
+      "個性1衝撃波_Level4",
+      "個性1衝撃波_Level5",
+      "個性1衝撃波_Level6",
+      "個性1衝撃波_Level7",
+      "個性1衝撃波_Level8",
+      "個性1衝撃波_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2締め",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性2締め_Level1",
+      "個性2締め_Level2",
+      "個性2締め_Level3",
+      "個性2締め_Level4",
+      "個性2締め_Level5",
+      "個性2締め_Level6",
+      "個性2締め_Level7",
+      "個性2締め_Level8",
+      "個性2締め_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_射出キック",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性4_射出キック_Level1",
+      "個性4_射出キック_Level2",
+      "個性4_射出キック_Level3",
+      "個性4_射出キック_Level4",
+      "個性4_射出キック_Level5",
+      "個性4_射出キック_Level6",
+      "個性4_射出キック_Level7",
+      "個性4_射出キック_Level8",
+      "個性4_射出キック_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_壁衝突_投射側",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性4_壁衝突_投射側_Level1",
+      "個性4_壁衝突_投射側_Level2",
+      "個性4_壁衝突_投射側_Level3",
+      "個性4_壁衝突_投射側_Level4",
+      "個性4_壁衝突_投射側_Level5",
+      "個性4_壁衝突_投射側_Level6",
+      "個性4_壁衝突_投射側_Level7",
+      "個性4_壁衝突_投射側_Level8",
+      "個性4_壁衝突_投射側_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_キャラ衝突_投射側",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性4_キャラ衝突_投射側_Level1",
+      "個性4_キャラ衝突_投射側_Level2",
+      "個性4_キャラ衝突_投射側_Level3",
+      "個性4_キャラ衝突_投射側_Level4",
+      "個性4_キャラ衝突_投射側_Level5",
+      "個性4_キャラ衝突_投射側_Level6",
+      "個性4_キャラ衝突_投射側_Level7",
+      "個性4_キャラ衝突_投射側_Level8",
+      "個性4_キャラ衝突_投射側_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_衝突_被弾側",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性4_衝突_被弾側_Level1",
+      "個性4_衝突_被弾側_Level2",
+      "個性4_衝突_被弾側_Level3",
+      "個性4_衝突_被弾側_Level4",
+      "個性4_衝突_被弾側_Level5",
+      "個性4_衝突_被弾側_Level6",
+      "個性4_衝突_被弾側_Level7",
+      "個性4_衝突_被弾側_Level8",
+      "個性4_衝突_被弾側_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_衝撃波",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性5_衝撃波_Level1",
+      "個性5_衝撃波_Level2",
+      "個性5_衝撃波_Level3",
+      "個性5_衝撃波_Level4",
+      "個性5_衝撃波_Level5",
+      "個性5_衝撃波_Level6",
+      "個性5_衝撃波_Level7",
+      "個性5_衝撃波_Level8",
+      "個性5_衝撃波_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_突進拘束",
+    "GroupCode": "Ch013",
+    "DamageNameList": [
+      "個性6_突進拘束_Level1",
+      "個性6_突進拘束_Level2",
+      "個性6_突進拘束_Level3",
+      "個性6_突進拘束_Level4",
+      "個性6_突進拘束_Level5",
+      "個性6_突進拘束_Level6",
+      "個性6_突進拘束_Level7",
+      "個性6_突進拘束_Level8",
+      "個性6_突進拘束_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2(本体衝突)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性2(本体衝突)_Level1",
+      "個性2(本体衝突)_Level2",
+      "個性2(本体衝突)_Level3",
+      "個性2(本体衝突)_Level4",
+      "個性2(本体衝突)_Level5",
+      "個性2(本体衝突)_Level6",
+      "個性2(本体衝突)_Level7",
+      "個性2(本体衝突)_Level8",
+      "個性2(本体衝突)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性3(突進)Level1",
+      "個性3(突進)Level2",
+      "個性3(突進)Level3",
+      "個性3(突進)Level4",
+      "個性3(突進)Level5",
+      "個性3(突進)Level6",
+      "個性3(突進)Level7",
+      "個性3(突進)Level8",
+      "個性3(突進)Level9"
+    ]
+  },
+  {
+    "TableName": "地上個性3(掴み投げ)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "地上個性3(掴み投げ)Level1",
+      "地上個性3(掴み投げ)Level2",
+      "地上個性3(掴み投げ)Level3",
+      "地上個性3(掴み投げ)Level4",
+      "地上個性3(掴み投げ)Level5",
+      "地上個性3(掴み投げ)Level6",
+      "地上個性3(掴み投げ)Level7",
+      "地上個性3(掴み投げ)Level8",
+      "地上個性3(掴み投げ)Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4(崩壊)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性4(崩壊)_Level1",
+      "個性4(崩壊)_Level2",
+      "個性4(崩壊)_Level3",
+      "個性4(崩壊)_Level4",
+      "個性4(崩壊)_Level5",
+      "個性4(崩壊)_Level6",
+      "個性4(崩壊)_Level7",
+      "個性4(崩壊)_Level8",
+      "個性4(崩壊)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5(崩壊)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性5(崩壊)_Level1",
+      "個性5(崩壊)_Level2",
+      "個性5(崩壊)_Level3",
+      "個性5(崩壊)_Level4",
+      "個性5(崩壊)_Level5",
+      "個性5(崩壊)_Level6",
+      "個性5(崩壊)_Level7",
+      "個性5(崩壊)_Level8",
+      "個性5(崩壊)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性6_Level1",
+      "個性6_Level2",
+      "個性6_Level3",
+      "個性6_Level4",
+      "個性6_Level5",
+      "個性6_Level6",
+      "個性6_Level7",
+      "個性6_Level8",
+      "個性6_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6(崩壊)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性6(崩壊)_Level1",
+      "個性6(崩壊)_Level2",
+      "個性6(崩壊)_Level3",
+      "個性6(崩壊)_Level4",
+      "個性6(崩壊)_Level5",
+      "個性6(崩壊)_Level6",
+      "個性6(崩壊)_Level7",
+      "個性6(崩壊)_Level8",
+      "個性6(崩壊)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性7",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性7_Level1",
+      "個性7_Level2",
+      "個性7_Level3",
+      "個性7_Level4",
+      "個性7_Level5",
+      "個性7_Level6",
+      "個性7_Level7",
+      "個性7_Level8",
+      "個性7_Level9"
+    ]
+  },
+  {
+    "TableName": "個性8(1回目の衝撃波)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性8(1回目の衝撃波)_Level1",
+      "個性8(1回目の衝撃波)_Level2",
+      "個性8(1回目の衝撃波)_Level3",
+      "個性8(1回目の衝撃波)_Level4",
+      "個性8(1回目の衝撃波)_Level5",
+      "個性8(1回目の衝撃波)_Level6",
+      "個性8(1回目の衝撃波)_Level7",
+      "個性8(1回目の衝撃波)_Level8",
+      "個性8(1回目の衝撃波)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性8(2回目の衝撃波)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性8(2回目の衝撃波)_Level1",
+      "個性8(2回目の衝撃波)_Level2",
+      "個性8(2回目の衝撃波)_Level3",
+      "個性8(2回目の衝撃波)_Level4",
+      "個性8(2回目の衝撃波)_Level5",
+      "個性8(2回目の衝撃波)_Level6",
+      "個性8(2回目の衝撃波)_Level7",
+      "個性8(2回目の衝撃波)_Level8",
+      "個性8(2回目の衝撃波)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性8(本体衝突)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性8(本体衝突)_Level1",
+      "個性8(本体衝突)_Level2",
+      "個性8(本体衝突)_Level3",
+      "個性8(本体衝突)_Level4",
+      "個性8(本体衝突)_Level5",
+      "個性8(本体衝突)_Level6",
+      "個性8(本体衝突)_Level7",
+      "個性8(本体衝突)_Level8",
+      "個性8(本体衝突)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性9(崩壊)",
+    "GroupCode": "Ch015",
+    "DamageNameList": [
+      "個性9(崩壊)_Level1",
+      "個性9(崩壊)_Level2",
+      "個性9(崩壊)_Level3",
+      "個性9(崩壊)_Level4",
+      "個性9(崩壊)_Level5",
+      "個性9(崩壊)_Level6",
+      "個性9(崩壊)_Level7",
+      "個性9(崩壊)_Level8",
+      "個性9(崩壊)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1(溜め)",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性1(溜め)_Level1",
+      "個性1(溜め)_Level2",
+      "個性1(溜め)_Level3",
+      "個性1(溜め)_Level4",
+      "個性1(溜め)_Level5",
+      "個性1(溜め)_Level6",
+      "個性1(溜め)_Level7",
+      "個性1(溜め)_Level8",
+      "個性1(溜め)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4(風の刃)",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性4(風の刃)_Level1",
+      "個性4(風の刃)_Level2",
+      "個性4(風の刃)_Level3",
+      "個性4(風の刃)_Level4",
+      "個性4(風の刃)_Level5",
+      "個性4(風の刃)_Level6",
+      "個性4(風の刃)_Level7",
+      "個性4(風の刃)_Level8",
+      "個性4(風の刃)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5(雷撃)",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性5(雷撃)_Level1",
+      "個性5(雷撃)_Level2",
+      "個性5(雷撃)_Level3",
+      "個性5(雷撃)_Level4",
+      "個性5(雷撃)_Level5",
+      "個性5(雷撃)_Level6",
+      "個性5(雷撃)_Level7",
+      "個性5(雷撃)_Level8",
+      "個性5(雷撃)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6(腕の衝突)",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性6(腕の衝突)_Level1",
+      "個性6(腕の衝突)_Level2",
+      "個性6(腕の衝突)_Level3",
+      "個性6(腕の衝突)_Level4",
+      "個性6(腕の衝突)_Level5",
+      "個性6(腕の衝突)_Level6",
+      "個性6(腕の衝突)_Level7",
+      "個性6(腕の衝突)_Level8",
+      "個性6(腕の衝突)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6(α複合腕の衝突)",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性6(α複合腕の衝突)_Level1",
+      "個性6(α複合腕の衝突)_Level2",
+      "個性6(α複合腕の衝突)_Level3",
+      "個性6(α複合腕の衝突)_Level4",
+      "個性6(α複合腕の衝突)_Level5",
+      "個性6(α複合腕の衝突)_Level6",
+      "個性6(α複合腕の衝突)_Level7",
+      "個性6(α複合腕の衝突)_Level8",
+      "個性6(α複合腕の衝突)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6(ラストヒット腕の衝突)",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性6(ラストヒット腕の衝突)_Level1",
+      "個性6(ラストヒット腕の衝突)_Level2",
+      "個性6(ラストヒット腕の衝突)_Level3",
+      "個性6(ラストヒット腕の衝突)_Level4",
+      "個性6(ラストヒット腕の衝突)_Level5",
+      "個性6(ラストヒット腕の衝突)_Level6",
+      "個性6(ラストヒット腕の衝突)_Level7",
+      "個性6(ラストヒット腕の衝突)_Level8",
+      "個性6(ラストヒット腕の衝突)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6(β複合の痺れ)",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性6(β複合の痺れ)_Level1",
+      "個性6(β複合の痺れ)_Level2",
+      "個性6(β複合の痺れ)_Level3",
+      "個性6(β複合の痺れ)_Level4",
+      "個性6(β複合の痺れ)_Level5",
+      "個性6(β複合の痺れ)_Level6",
+      "個性6(β複合の痺れ)_Level7",
+      "個性6(β複合の痺れ)_Level8",
+      "個性6(β複合の痺れ)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6(αβ複合の衝撃波)",
+    "GroupCode": "Ch016",
+    "DamageNameList": [
+      "個性6(αβ複合の衝撃波)_Level1",
+      "個性6(αβ複合の衝撃波)_Level2",
+      "個性6(αβ複合の衝撃波)_Level3",
+      "個性6(αβ複合の衝撃波)_Level4",
+      "個性6(αβ複合の衝撃波)_Level5",
+      "個性6(αβ複合の衝撃波)_Level6",
+      "個性6(αβ複合の衝撃波)_Level7",
+      "個性6(αβ複合の衝撃波)_Level8",
+      "個性6(αβ複合の衝撃波)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_炎",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "個性1_炎_Level1",
+      "個性1_炎_Level2",
+      "個性1_炎_Level3",
+      "個性1_炎_Level4",
+      "個性1_炎_Level5",
+      "個性1_炎_Level6",
+      "個性1_炎_Level7",
+      "個性1_炎_Level8",
+      "個性1_炎_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_爆発",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "個性1_爆発_Level1",
+      "個性1_爆発_Level2",
+      "個性1_爆発_Level3",
+      "個性1_爆発_Level4",
+      "個性1_爆発_Level5",
+      "個性1_爆発_Level6",
+      "個性1_爆発_Level7",
+      "個性1_爆発_Level8",
+      "個性1_爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "チャージ個性1",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "チャージ個性1_Level1",
+      "チャージ個性1_Level2",
+      "チャージ個性1_Level3",
+      "チャージ個性1_Level4",
+      "チャージ個性1_Level5",
+      "チャージ個性1_Level6",
+      "チャージ個性1_Level7",
+      "チャージ個性1_Level8",
+      "チャージ個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "個性3Level1",
+      "個性3Level2",
+      "個性3Level3",
+      "個性3Level4",
+      "個性3Level5",
+      "個性3Level6",
+      "個性3Level7",
+      "個性3Level8",
+      "個性3Level9"
+    ]
+  },
+  {
+    "TableName": "個性3開始時",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "個性3開始時Level1",
+      "個性3開始時Level2",
+      "個性3開始時Level3",
+      "個性3開始時Level4",
+      "個性3開始時Level5",
+      "個性3開始時Level6",
+      "個性3開始時Level7",
+      "個性3開始時Level8",
+      "個性3開始時Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_最大チャージ",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "個性4_最大チャージ_Level1",
+      "個性4_最大チャージ_Level2",
+      "個性4_最大チャージ_Level3",
+      "個性4_最大チャージ_Level4",
+      "個性4_最大チャージ_Level5",
+      "個性4_最大チャージ_Level6",
+      "個性4_最大チャージ_Level7",
+      "個性4_最大チャージ_Level8",
+      "個性4_最大チャージ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_掴み離し",
+    "GroupCode": "Ch017",
+    "DamageNameList": [
+      "個性5_掴み離し_Level1",
+      "個性5_掴み離し_Level2",
+      "個性5_掴み離し_Level3",
+      "個性5_掴み離し_Level4",
+      "個性5_掴み離し_Level5",
+      "個性5_掴み離し_Level6",
+      "個性5_掴み離し_Level7",
+      "個性5_掴み離し_Level8",
+      "個性5_掴み離し_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2連続斬り",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性2連続斬り_Level1",
+      "個性2連続斬り_Level2",
+      "個性2連続斬り_Level3",
+      "個性2連続斬り_Level4",
+      "個性2連続斬り_Level5",
+      "個性2連続斬り_Level6",
+      "個性2連続斬り_Level7",
+      "個性2連続斬り_Level8",
+      "個性2連続斬り_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4滞空",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性4滞空_Level1",
+      "個性4滞空_Level2",
+      "個性4滞空_Level3",
+      "個性4滞空_Level4",
+      "個性4滞空_Level5",
+      "個性4滞空_Level6",
+      "個性4滞空_Level7",
+      "個性4滞空_Level8",
+      "個性4滞空_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性6_Level1",
+      "個性6_Level2",
+      "個性6_Level3",
+      "個性6_Level4",
+      "個性6_Level5",
+      "個性6_Level6",
+      "個性6_Level7",
+      "個性6_Level8",
+      "個性6_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6斬りつけ",
+    "GroupCode": "Ch018",
+    "DamageNameList": [
+      "個性6斬りつけ_Level1",
+      "個性6斬りつけ_Level2",
+      "個性6斬りつけ_Level3",
+      "個性6斬りつけ_Level4",
+      "個性6斬りつけ_Level5",
+      "個性6斬りつけ_Level6",
+      "個性6斬りつけ_Level7",
+      "個性6斬りつけ_Level8",
+      "個性6斬りつけ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_炎",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性4_炎_Level1",
+      "個性4_炎_Level2",
+      "個性4_炎_Level3",
+      "個性4_炎_Level4",
+      "個性4_炎_Level5",
+      "個性4_炎_Level6",
+      "個性4_炎_Level7",
+      "個性4_炎_Level8",
+      "個性4_炎_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_竜巻",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性5_竜巻Level1",
+      "個性5_竜巻Level2",
+      "個性5_竜巻Level3",
+      "個性5_竜巻Level4",
+      "個性5_竜巻Level5",
+      "個性5_竜巻Level6",
+      "個性5_竜巻Level7",
+      "個性5_竜巻Level8",
+      "個性5_竜巻Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_バリア",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性5_バリアLevel1",
+      "個性5_バリアLevel2",
+      "個性5_バリアLevel3",
+      "個性5_バリアLevel4",
+      "個性5_バリアLevel5",
+      "個性5_バリアLevel6",
+      "個性5_バリアLevel7",
+      "個性5_バリアLevel8",
+      "個性5_バリアLevel9"
+    ]
+  },
+  {
+    "TableName": "個性5_開始時",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性5_開始時Level1",
+      "個性5_開始時Level2",
+      "個性5_開始時Level3",
+      "個性5_開始時Level4",
+      "個性5_開始時Level5",
+      "個性5_開始時Level6",
+      "個性5_開始時Level7",
+      "個性5_開始時Level8",
+      "個性5_開始時Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_弾",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性6_弾Level1",
+      "個性6_弾Level2",
+      "個性6_弾Level3",
+      "個性6_弾Level4",
+      "個性6_弾Level5",
+      "個性6_弾Level6",
+      "個性6_弾Level7",
+      "個性6_弾Level8",
+      "個性6_弾Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_爆発",
+    "GroupCode": "Ch023",
+    "DamageNameList": [
+      "個性6_爆発Level1",
+      "個性6_爆発Level2",
+      "個性6_爆発Level3",
+      "個性6_爆発Level4",
+      "個性6_爆発Level5",
+      "個性6_爆発Level6",
+      "個性6_爆発Level7",
+      "個性6_爆発Level8",
+      "個性6_爆発Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1(溜め)",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性1(溜め)_Level1",
+      "個性1(溜め)_Level2",
+      "個性1(溜め)_Level3",
+      "個性1(溜め)_Level4",
+      "個性1(溜め)_Level5",
+      "個性1(溜め)_Level6",
+      "個性1(溜め)_Level7",
+      "個性1(溜め)_Level8",
+      "個性1(溜め)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_弾",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性4_弾_Level1",
+      "個性4_弾_Level2",
+      "個性4_弾_Level3",
+      "個性4_弾_Level4",
+      "個性4_弾_Level5",
+      "個性4_弾_Level6",
+      "個性4_弾_Level7",
+      "個性4_弾_Level8",
+      "個性4_弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_ラッシュ",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性5_ラッシュ_Level1",
+      "個性5_ラッシュ_Level2",
+      "個性5_ラッシュ_Level3",
+      "個性5_ラッシュ_Level4",
+      "個性5_ラッシュ_Level5",
+      "個性5_ラッシュ_Level6",
+      "個性5_ラッシュ_Level7",
+      "個性5_ラッシュ_Level8",
+      "個性5_ラッシュ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_パンチ振り下ろし",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性5_パンチ振り下ろし_Level1",
+      "個性5_パンチ振り下ろし_Level2",
+      "個性5_パンチ振り下ろし_Level3",
+      "個性5_パンチ振り下ろし_Level4",
+      "個性5_パンチ振り下ろし_Level5",
+      "個性5_パンチ振り下ろし_Level6",
+      "個性5_パンチ振り下ろし_Level7",
+      "個性5_パンチ振り下ろし_Level8",
+      "個性5_パンチ振り下ろし_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_地面衝撃波",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性5_地面衝撃波_Level1",
+      "個性5_地面衝撃波_Level2",
+      "個性5_地面衝撃波_Level3",
+      "個性5_地面衝撃波_Level4",
+      "個性5_地面衝撃波_Level5",
+      "個性5_地面衝撃波_Level6",
+      "個性5_地面衝撃波_Level7",
+      "個性5_地面衝撃波_Level8",
+      "個性5_地面衝撃波_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_カウンター対象決定",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性6_カウンター対象決定_Level1",
+      "個性6_カウンター対象決定_Level2",
+      "個性6_カウンター対象決定_Level3",
+      "個性6_カウンター対象決定_Level4",
+      "個性6_カウンター対象決定_Level5",
+      "個性6_カウンター対象決定_Level6",
+      "個性6_カウンター対象決定_Level7",
+      "個性6_カウンター対象決定_Level8",
+      "個性6_カウンター対象決定_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_カウンターパンチ",
+    "GroupCode": "Ch024",
+    "DamageNameList": [
+      "個性6_カウンターパンチ_Level1",
+      "個性6_カウンターパンチ_Level6",
+      "個性6_カウンターパンチ_Level3",
+      "個性6_カウンターパンチ_Level4",
+      "個性6_カウンターパンチ_Level5",
+      "個性6_カウンターパンチ_Level6",
+      "個性6_カウンターパンチ_Level7",
+      "個性6_カウンターパンチ_Level8",
+      "個性6_カウンターパンチ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch025",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch025",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch025",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_弾",
+    "GroupCode": "Ch025",
+    "DamageNameList": [
+      "個性4_弾_Level1",
+      "個性4_弾_Level2",
+      "個性4_弾_Level3",
+      "個性4_弾_Level4",
+      "個性4_弾_Level5",
+      "個性4_弾_Level6",
+      "個性4_弾_Level7",
+      "個性4_弾_Level8",
+      "個性4_弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_強化弾",
+    "GroupCode": "Ch025",
+    "DamageNameList": [
+      "個性4_強化弾_Level1",
+      "個性4_強化弾_Level2",
+      "個性4_強化弾_Level3",
+      "個性4_強化弾_Level4",
+      "個性4_強化弾_Level5",
+      "個性4_強化弾_Level6",
+      "個性4_強化弾_Level7",
+      "個性4_強化弾_Level8",
+      "個性4_強化弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch025",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_最終段衝撃波",
+    "GroupCode": "Ch025",
+    "DamageNameList": [
+      "個性5_最終段衝撃波_Level1",
+      "個性5_最終段衝撃波_Level2",
+      "個性5_最終段衝撃波_Level3",
+      "個性5_最終段衝撃波_Level4",
+      "個性5_最終段衝撃波_Level5",
+      "個性5_最終段衝撃波_Level6",
+      "個性5_最終段衝撃波_Level7",
+      "個性5_最終段衝撃波_Level8",
+      "個性5_最終段衝撃波_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch026",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_先端",
+    "GroupCode": "Ch026",
+    "DamageNameList": [
+      "個性1_先端_Level1",
+      "個性1_先端_Level2",
+      "個性1_先端_Level3",
+      "個性1_先端_Level4",
+      "個性1_先端_Level5",
+      "個性1_先端_Level6",
+      "個性1_先端_Level7",
+      "個性1_先端_Level8",
+      "個性1_先端_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_引き寄せ",
+    "GroupCode": "Ch026",
+    "DamageNameList": [
+      "個性1_引き寄せ_Level1",
+      "個性1_引き寄せ_Level2",
+      "個性1_引き寄せ_Level3",
+      "個性1_引き寄せ_Level4",
+      "個性1_引き寄せ_Level5",
+      "個性1_引き寄せ_Level6",
+      "個性1_引き寄せ_Level7",
+      "個性1_引き寄せ_Level8",
+      "個性1_引き寄せ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch026",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch026",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_チャージ",
+    "GroupCode": "Ch026",
+    "DamageNameList": [
+      "個性3_チャージ_Level1",
+      "個性3_チャージ_Level2",
+      "個性3_チャージ_Level3",
+      "個性3_チャージ_Level4",
+      "個性3_チャージ_Level5",
+      "個性3_チャージ_Level6",
+      "個性3_チャージ_Level7",
+      "個性3_チャージ_Level8",
+      "個性3_チャージ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1(爆風)",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性1(爆風)_Level1",
+      "個性1(爆風)_Level2",
+      "個性1(爆風)_Level3",
+      "個性1(爆風)_Level4",
+      "個性1(爆風)_Level5",
+      "個性1(爆風)_Level6",
+      "個性1(爆風)_Level7",
+      "個性1(爆風)_Level8",
+      "個性1(爆風)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4弾",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性4弾_Level1",
+      "個性4弾_Level2",
+      "個性4弾_Level3",
+      "個性4弾_Level4",
+      "個性4弾_Level5",
+      "個性4弾_Level6",
+      "個性4弾_Level7",
+      "個性4弾_Level8",
+      "個性4弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4弾長押し",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性4弾長押し_Level1",
+      "個性4弾長押し_Level2",
+      "個性4弾長押し_Level3",
+      "個性4弾長押し_Level4",
+      "個性4弾長押し_Level5",
+      "個性4弾長押し_Level6",
+      "個性4弾長押し_Level7",
+      "個性4弾長押し_Level8",
+      "個性4弾長押し_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4地面",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性4地面_Level1",
+      "個性4地面_Level2",
+      "個性4地面_Level3",
+      "個性4地面_Level4",
+      "個性4地面_Level5",
+      "個性4地面_Level6",
+      "個性4地面_Level7",
+      "個性4地面_Level8",
+      "個性4地面_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5柱",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性5柱_Level1",
+      "個性5柱_Level2",
+      "個性5柱_Level3",
+      "個性5柱_Level4",
+      "個性5柱_Level5",
+      "個性5柱_Level6",
+      "個性5柱_Level7",
+      "個性5柱_Level8",
+      "個性5柱_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5根本",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性5根本_Level1",
+      "個性5根本_Level2",
+      "個性5根本_Level3",
+      "個性5根本_Level4",
+      "個性5根本_Level5",
+      "個性5根本_Level6",
+      "個性5根本_Level7",
+      "個性5根本_Level8",
+      "個性5根本_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6近接打ち上げ",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性6近接打ち上げ_Level1",
+      "個性6近接打ち上げ_Level2",
+      "個性6近接打ち上げ_Level3",
+      "個性6近接打ち上げ_Level4",
+      "個性6近接打ち上げ_Level5",
+      "個性6近接打ち上げ_Level6",
+      "個性6近接打ち上げ_Level7",
+      "個性6近接打ち上げ_Level8",
+      "個性6近接打ち上げ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6近接バウンド",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性6近接バウンド_Level1",
+      "個性6近接バウンド_Level2",
+      "個性6近接バウンド_Level3",
+      "個性6近接バウンド_Level4",
+      "個性6近接バウンド_Level5",
+      "個性6近接バウンド_Level6",
+      "個性6近接バウンド_Level7",
+      "個性6近接バウンド_Level8",
+      "個性6近接バウンド_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6爆発",
+    "GroupCode": "Ch034",
+    "DamageNameList": [
+      "個性6爆発_Level1",
+      "個性6爆発_Level2",
+      "個性6爆発_Level3",
+      "個性6爆発_Level4",
+      "個性6爆発_Level5",
+      "個性6爆発_Level6",
+      "個性6爆発_Level7",
+      "個性6爆発_Level8",
+      "個性6爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_薙ぎ払い",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性3_Level1_薙ぎ払い",
+      "個性3_Level2_薙ぎ払い",
+      "個性3_Level3_薙ぎ払い",
+      "個性3_Level4_薙ぎ払い",
+      "個性3_Level5_薙ぎ払い",
+      "個性3_Level6_薙ぎ払い",
+      "個性3_Level7_薙ぎ払い",
+      "個性3_Level8_薙ぎ払い",
+      "個性3_Level9_薙ぎ払い"
+    ]
+  },
+  {
+    "TableName": "個性3_突き",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性3_Level1_突き",
+      "個性3_Level2_突き",
+      "個性3_Level3_突き",
+      "個性3_Level4_突き",
+      "個性3_Level5_突き",
+      "個性3_Level6_突き",
+      "個性3_Level7_突き",
+      "個性3_Level8_突き",
+      "個性3_Level9_突き"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_クリティカル",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性4_クリティカル_Level1",
+      "個性4_クリティカル_Level2",
+      "個性4_クリティカル_Level3",
+      "個性4_クリティカル_Level4",
+      "個性4_クリティカル_Level5",
+      "個性4_クリティカル_Level6",
+      "個性4_クリティカル_Level7",
+      "個性4_クリティカル_Level8",
+      "個性4_クリティカル_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_近接",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性5_近接_Level1",
+      "個性5_近接_Level2",
+      "個性5_近接_Level3",
+      "個性5_近接_Level4",
+      "個性5_近接_Level5",
+      "個性5_近接_Level6",
+      "個性5_近接_Level7",
+      "個性5_近接_Level8",
+      "個性5_近接_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_弾",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性5_弾_Level1",
+      "個性5_弾_Level2",
+      "個性5_弾_Level3",
+      "個性5_弾_Level4",
+      "個性5_弾_Level5",
+      "個性5_弾_Level6",
+      "個性5_弾_Level7",
+      "個性5_弾_Level8",
+      "個性5_弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_設置",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性5_設置_Level1",
+      "個性5_設置_Level2",
+      "個性5_設置_Level3",
+      "個性5_設置_Level4",
+      "個性5_設置_Level5",
+      "個性5_設置_Level6",
+      "個性5_設置_Level7",
+      "個性5_設置_Level8",
+      "個性5_設置_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_分身弾",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性6_分身弾_Level1",
+      "個性6_分身弾_Level2",
+      "個性6_分身弾_Level3",
+      "個性6_分身弾_Level4",
+      "個性6_分身弾_Level5",
+      "個性6_分身弾_Level6",
+      "個性6_分身弾_Level7",
+      "個性6_分身弾_Level8",
+      "個性6_分身弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_本体弾",
+    "GroupCode": "Ch037",
+    "DamageNameList": [
+      "個性6_本体弾_Level1",
+      "個性6_本体弾_Level2",
+      "個性6_本体弾_Level3",
+      "個性6_本体弾_Level4",
+      "個性6_本体弾_Level5",
+      "個性6_本体弾_Level6",
+      "個性6_本体弾_Level7",
+      "個性6_本体弾_Level8",
+      "個性6_本体弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch038",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1(衝撃)",
+    "GroupCode": "Ch038",
+    "DamageNameList": [
+      "個性1(衝撃)_Level1",
+      "個性1(衝撃)_Level2",
+      "個性1(衝撃)_Level3",
+      "個性1(衝撃)_Level4",
+      "個性1(衝撃)_Level5",
+      "個性1(衝撃)_Level6",
+      "個性1(衝撃)_Level7",
+      "個性1(衝撃)_Level8",
+      "個性1(衝撃)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch038",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3(足元爆発)",
+    "GroupCode": "Ch038",
+    "DamageNameList": [
+      "個性3(足元爆発)_Level1",
+      "個性3(足元爆発)_Level2",
+      "個性3(足元爆発)_Level3",
+      "個性3(足元爆発)_Level4",
+      "個性3(足元爆発)_Level5",
+      "個性3(足元爆発)_Level6",
+      "個性3(足元爆発)_Level7",
+      "個性3(足元爆発)_Level8",
+      "個性3(足元爆発)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_通常弾",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性1_通常弾_Level1",
+      "個性1_通常弾_Level2",
+      "個性1_通常弾_Level3",
+      "個性1_通常弾_Level4",
+      "個性1_通常弾_Level5",
+      "個性1_通常弾_Level6",
+      "個性1_通常弾_Level7",
+      "個性1_通常弾_Level8",
+      "個性1_通常弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_ホーミング",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性1_ホーミング_Level1",
+      "個性1_ホーミング_Level2",
+      "個性1_ホーミング_Level3",
+      "個性1_ホーミング_Level4",
+      "個性1_ホーミング_Level5",
+      "個性1_ホーミング_Level6",
+      "個性1_ホーミング_Level7",
+      "個性1_ホーミング_Level8",
+      "個性1_ホーミング_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_始動",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性2_始動_Level1",
+      "個性2_始動_Level2",
+      "個性2_始動_Level3",
+      "個性2_始動_Level4",
+      "個性2_始動_Level5",
+      "個性2_始動_Level6",
+      "個性2_始動_Level7",
+      "個性2_始動_Level8",
+      "個性2_始動_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_格闘",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性2_格闘_Level1",
+      "個性2_格闘_Level2",
+      "個性2_格闘_Level3",
+      "個性2_格闘_Level4",
+      "個性2_格闘_Level5",
+      "個性2_格闘_Level6",
+      "個性2_格闘_Level7",
+      "個性2_格闘_Level8",
+      "個性2_格闘_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_弾",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性3_弾_Level1",
+      "個性3_弾_Level2",
+      "個性3_弾_Level3",
+      "個性3_弾_Level4",
+      "個性3_弾_Level5",
+      "個性3_弾_Level6",
+      "個性3_弾_Level7",
+      "個性3_弾_Level8",
+      "個性3_弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_エリア",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性3_エリア_Level1",
+      "個性3_エリア_Level2",
+      "個性3_エリア_Level3",
+      "個性3_エリア_Level4",
+      "個性3_エリア_Level5",
+      "個性3_エリア_Level6",
+      "個性3_エリア_Level7",
+      "個性3_エリア_Level8",
+      "個性3_エリア_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_通常弾",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性4_通常弾_Level1",
+      "個性4_通常弾_Level2",
+      "個性4_通常弾_Level3",
+      "個性4_通常弾_Level4",
+      "個性4_通常弾_Level5",
+      "個性4_通常弾_Level6",
+      "個性4_通常弾_Level7",
+      "個性4_通常弾_Level8",
+      "個性4_通常弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_チャージ弾",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性4_チャージ弾_Level1",
+      "個性4_チャージ弾_Level2",
+      "個性4_チャージ弾_Level3",
+      "個性4_チャージ弾_Level4",
+      "個性4_チャージ弾_Level5",
+      "個性4_チャージ弾_Level6",
+      "個性4_チャージ弾_Level7",
+      "個性4_チャージ弾_Level8",
+      "個性4_チャージ弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_突進中",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性5_突進中_Level1",
+      "個性5_突進中_Level2",
+      "個性5_突進中_Level3",
+      "個性5_突進中_Level4",
+      "個性5_突進中_Level5",
+      "個性5_突進中_Level6",
+      "個性5_突進中_Level7",
+      "個性5_突進中_Level8",
+      "個性5_突進中_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_突進後",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性5_突進後_Level1",
+      "個性5_突進後_Level2",
+      "個性5_突進後_Level3",
+      "個性5_突進後_Level4",
+      "個性5_突進後_Level5",
+      "個性5_突進後_Level6",
+      "個性5_突進後_Level7",
+      "個性5_突進後_Level8",
+      "個性5_突進後_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_回転中",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性6_回転中_Level1",
+      "個性6_回転中_Level2",
+      "個性6_回転中_Level3",
+      "個性6_回転中_Level4",
+      "個性6_回転中_Level5",
+      "個性6_回転中_Level6",
+      "個性6_回転中_Level7",
+      "個性6_回転中_Level8",
+      "個性6_回転中_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_回転後",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性6_回転後_Level1",
+      "個性6_回転後_Level2",
+      "個性6_回転後_Level3",
+      "個性6_回転後_Level4",
+      "個性6_回転後_Level5",
+      "個性6_回転後_Level6",
+      "個性6_回転後_Level7",
+      "個性6_回転後_Level8",
+      "個性6_回転後_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_回転後爆風",
+    "GroupCode": "Ch043",
+    "DamageNameList": [
+      "個性6_回転後爆風_Level1",
+      "個性6_回転後爆風_Level2",
+      "個性6_回転後爆風_Level3",
+      "個性6_回転後爆風_Level4",
+      "個性6_回転後爆風_Level5",
+      "個性6_回転後爆風_Level6",
+      "個性6_回転後爆風_Level7",
+      "個性6_回転後爆風_Level8",
+      "個性6_回転後爆風_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_通常",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性4_通常_Level1",
+      "個性4_通常_Level2",
+      "個性4_通常_Level3",
+      "個性4_通常_Level4",
+      "個性4_通常_Level5",
+      "個性4_通常_Level6",
+      "個性4_通常_Level7",
+      "個性4_通常_Level8",
+      "個性4_通常_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_チャージ",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性4_チャージ_Level1",
+      "個性4_チャージ_Level2",
+      "個性4_チャージ_Level3",
+      "個性4_チャージ_Level4",
+      "個性4_チャージ_Level5",
+      "個性4_チャージ_Level6",
+      "個性4_チャージ_Level7",
+      "個性4_チャージ_Level8",
+      "個性4_チャージ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_攻撃",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性5_攻撃_Level1",
+      "個性5_攻撃_Level2",
+      "個性5_攻撃_Level3",
+      "個性5_攻撃_Level4",
+      "個性5_攻撃_Level5",
+      "個性5_攻撃_Level6",
+      "個性5_攻撃_Level7",
+      "個性5_攻撃_Level8",
+      "個性5_攻撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_回転",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性6_回転_Level1",
+      "個性6_回転_Level2",
+      "個性6_回転_Level3",
+      "個性6_回転_Level4",
+      "個性6_回転_Level5",
+      "個性6_回転_Level6",
+      "個性6_回転_Level7",
+      "個性6_回転_Level8",
+      "個性6_回転_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_締め",
+    "GroupCode": "Ch046",
+    "DamageNameList": [
+      "個性6_締め_Level1",
+      "個性6_締め_Level2",
+      "個性6_締め_Level3",
+      "個性6_締め_Level4",
+      "個性6_締め_Level5",
+      "個性6_締め_Level6",
+      "個性6_締め_Level7",
+      "個性6_締め_Level8",
+      "個性6_締め_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch100",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "巨大化個性1",
+    "GroupCode": "Ch100",
+    "DamageNameList": [
+      "巨大化個性1_Level1",
+      "巨大化個性1_Level2",
+      "巨大化個性1_Level3",
+      "巨大化個性1_Level4",
+      "巨大化個性1_Level5",
+      "巨大化個性1_Level6",
+      "巨大化個性1_Level7",
+      "巨大化個性1_Level8",
+      "巨大化個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1(衝撃)",
+    "GroupCode": "Ch100",
+    "DamageNameList": [
+      "個性1(衝撃)_Level1",
+      "個性1(衝撃)_Level2",
+      "個性1(衝撃)_Level3",
+      "個性1(衝撃)_Level4",
+      "個性1(衝撃)_Level5",
+      "個性1(衝撃)_Level6",
+      "個性1(衝撃)_Level7",
+      "個性1(衝撃)_Level8",
+      "個性1(衝撃)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch100",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "巨大化個性2",
+    "GroupCode": "Ch100",
+    "DamageNameList": [
+      "巨大化個性2_Level1",
+      "巨大化個性2_Level2",
+      "巨大化個性2_Level3",
+      "巨大化個性2_Level4",
+      "巨大化個性2_Level5",
+      "巨大化個性2_Level6",
+      "巨大化個性2_Level7",
+      "巨大化個性2_Level8",
+      "巨大化個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3(連続ヒット)",
+    "GroupCode": "Ch100",
+    "DamageNameList": [
+      "個性3(連続ヒット)_Level1",
+      "個性3(連続ヒット)_Level2",
+      "個性3(連続ヒット)_Level3",
+      "個性3(連続ヒット)_Level4",
+      "個性3(連続ヒット)_Level5",
+      "個性3(連続ヒット)_Level6",
+      "個性3(連続ヒット)_Level7",
+      "個性3(連続ヒット)_Level8",
+      "個性3(連続ヒット)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch100",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "巨大化個性3",
+    "GroupCode": "Ch100",
+    "DamageNameList": [
+      "巨大化個性3_Level1",
+      "巨大化個性3_Level2",
+      "巨大化個性3_Level3",
+      "巨大化個性3_Level4",
+      "巨大化個性3_Level5",
+      "巨大化個性3_Level6",
+      "巨大化個性3_Level7",
+      "巨大化個性3_Level8",
+      "巨大化個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch101",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1(柱)",
+    "GroupCode": "Ch101",
+    "DamageNameList": [
+      "個性1(柱)_Level1",
+      "個性1(柱)_Level2",
+      "個性1(柱)_Level3",
+      "個性1(柱)_Level4",
+      "個性1(柱)_Level5",
+      "個性1(柱)_Level6",
+      "個性1(柱)_Level7",
+      "個性1(柱)_Level8",
+      "個性1(柱)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch101",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch101",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3(柱)",
+    "GroupCode": "Ch101",
+    "DamageNameList": [
+      "個性3(柱)_Level1",
+      "個性3(柱)_Level2",
+      "個性3(柱)_Level3",
+      "個性3(柱)_Level4",
+      "個性3(柱)_Level5",
+      "個性3(柱)_Level6",
+      "個性3(柱)_Level7",
+      "個性3(柱)_Level8",
+      "個性3(柱)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch102",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "チャージ個性1",
+    "GroupCode": "Ch102",
+    "DamageNameList": [
+      "チャージ個性1_Level1",
+      "チャージ個性1_Level2",
+      "チャージ個性1_Level3",
+      "チャージ個性1_Level4",
+      "チャージ個性1_Level5",
+      "チャージ個性1_Level6",
+      "チャージ個性1_Level7",
+      "チャージ個性1_Level8",
+      "チャージ個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch102",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2(近)",
+    "GroupCode": "Ch102",
+    "DamageNameList": [
+      "個性2(近)_Level1",
+      "個性2(近)_Level2",
+      "個性2(近)_Level3",
+      "個性2(近)_Level4",
+      "個性2(近)_Level5",
+      "個性2(近)_Level6",
+      "個性2(近)_Level7",
+      "個性2(近)_Level8",
+      "個性2(近)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3(継続ダメージ)",
+    "GroupCode": "Ch102",
+    "DamageNameList": [
+      "個性3(継続ダメージ)_Level1",
+      "個性3(継続ダメージ)_Level2",
+      "個性3(継続ダメージ)_Level3",
+      "個性3(継続ダメージ)_Level4",
+      "個性3(継続ダメージ)_Level5",
+      "個性3(継続ダメージ)_Level6",
+      "個性3(継続ダメージ)_Level7",
+      "個性3(継続ダメージ)_Level8",
+      "個性3(継続ダメージ)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3(掴み投げ)",
+    "GroupCode": "Ch102",
+    "DamageNameList": [
+      "個性3(掴み投げ)_Level1",
+      "個性3(掴み投げ)_Level2",
+      "個性3(掴み投げ)_Level3",
+      "個性3(掴み投げ)_Level4",
+      "個性3(掴み投げ)_Level5",
+      "個性3(掴み投げ)_Level6",
+      "個性3(掴み投げ)_Level7",
+      "個性3(掴み投げ)_Level8",
+      "個性3(掴み投げ)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_弾",
+    "GroupCode": "Ch103",
+    "DamageNameList": [
+      "個性1_弾_Level1",
+      "個性1_弾_Level2",
+      "個性1_弾_Level3",
+      "個性1_弾_Level4",
+      "個性1_弾_Level5",
+      "個性1_弾_Level6",
+      "個性1_弾_Level7",
+      "個性1_弾_Level8",
+      "個性1_弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_設置",
+    "GroupCode": "Ch103",
+    "DamageNameList": [
+      "個性1_設置_Level1",
+      "個性1_設置_Level2",
+      "個性1_設置_Level3",
+      "個性1_設置_Level4",
+      "個性1_設置_Level5",
+      "個性1_設置_Level6",
+      "個性1_設置_Level7",
+      "個性1_設置_Level8",
+      "個性1_設置_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_弾",
+    "GroupCode": "Ch103",
+    "DamageNameList": [
+      "個性2_弾_Level1",
+      "個性2_弾_Level2",
+      "個性2_弾_Level3",
+      "個性2_弾_Level4",
+      "個性2_弾_Level5",
+      "個性2_弾_Level6",
+      "個性2_弾_Level7",
+      "個性2_弾_Level8",
+      "個性2_弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_α弾",
+    "GroupCode": "Ch103",
+    "DamageNameList": [
+      "個性3_α弾_Level1",
+      "個性3_α弾_Level2",
+      "個性3_α弾_Level3",
+      "個性3_α弾_Level4",
+      "個性3_α弾_Level5",
+      "個性3_α弾_Level6",
+      "個性3_α弾_Level7",
+      "個性3_α弾_Level8",
+      "個性3_α弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_α設置",
+    "GroupCode": "Ch103",
+    "DamageNameList": [
+      "個性3_α設置_Level1",
+      "個性3_α設置_Level2",
+      "個性3_α設置_Level3",
+      "個性3_α設置_Level4",
+      "個性3_α設置_Level5",
+      "個性3_α設置_Level6",
+      "個性3_α設置_Level7",
+      "個性3_α設置_Level8",
+      "個性3_α設置_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_β弾",
+    "GroupCode": "Ch103",
+    "DamageNameList": [
+      "個性3_β弾_Level1",
+      "個性3_β弾_Level2",
+      "個性3_β弾_Level3",
+      "個性3_β弾_Level4",
+      "個性3_β弾_Level5",
+      "個性3_β弾_Level6",
+      "個性3_β弾_Level7",
+      "個性3_β弾_Level8",
+      "個性3_β弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch104",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_膝蹴り",
+    "GroupCode": "Ch104",
+    "DamageNameList": [
+      "個性2_膝蹴り",
+      "個性2_膝蹴り",
+      "個性2_膝蹴り",
+      "個性2_膝蹴り",
+      "個性2_膝蹴り",
+      "個性2_膝蹴り",
+      "個性2_膝蹴り",
+      "個性2_膝蹴り",
+      "個性2_膝蹴り"
+    ]
+  },
+  {
+    "TableName": "個性2_突進",
+    "GroupCode": "Ch104",
+    "DamageNameList": [
+      "個性2_突進_Level1",
+      "個性2_突進_Level2",
+      "個性2_突進_Level3",
+      "個性2_突進_Level4",
+      "個性2_突進_Level5",
+      "個性2_突進_Level6",
+      "個性2_突進_Level7",
+      "個性2_突進_Level8",
+      "個性2_突進_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch104",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch105",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_投げ",
+    "GroupCode": "Ch105",
+    "DamageNameList": [
+      "個性1_投げ_Level1",
+      "個性1_投げ_Level2",
+      "個性1_投げ_Level3",
+      "個性1_投げ_Level4",
+      "個性1_投げ_Level5",
+      "個性1_投げ_Level6",
+      "個性1_投げ_Level7",
+      "個性1_投げ_Level8",
+      "個性1_投げ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_叩きつけ",
+    "GroupCode": "Ch105",
+    "DamageNameList": [
+      "個性1_叩きつけ_Level1",
+      "個性1_叩きつけ_Level2",
+      "個性1_叩きつけ_Level3",
+      "個性1_叩きつけ_Level4",
+      "個性1_叩きつけ_Level5",
+      "個性1_叩きつけ_Level6",
+      "個性1_叩きつけ_Level7",
+      "個性1_叩きつけ_Level8",
+      "個性1_叩きつけ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch105",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch105",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch108",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2衝撃波",
+    "GroupCode": "Ch108",
+    "DamageNameList": [
+      "個性2衝撃波_Level1",
+      "個性2衝撃波_Level2",
+      "個性2衝撃波_Level3",
+      "個性2衝撃波_Level4",
+      "個性2衝撃波_Level5",
+      "個性2衝撃波_Level6",
+      "個性2衝撃波_Level7",
+      "個性2衝撃波_Level8",
+      "個性2衝撃波_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2空気弾",
+    "GroupCode": "Ch108",
+    "DamageNameList": [
+      "個性2空気弾_Level1",
+      "個性2空気弾_Level2",
+      "個性2空気弾_Level3",
+      "個性2空気弾_Level4",
+      "個性2空気弾_Level5",
+      "個性2空気弾_Level6",
+      "個性2空気弾_Level7",
+      "個性2空気弾_Level8",
+      "個性2空気弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3突進",
+    "GroupCode": "Ch108",
+    "DamageNameList": [
+      "個性3突進_Level1",
+      "個性3突進_Level2",
+      "個性3突進_Level3",
+      "個性3突進_Level4",
+      "個性3突進_Level5",
+      "個性3突進_Level6",
+      "個性3突進_Level7",
+      "個性3突進_Level8",
+      "個性3突進_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3範囲",
+    "GroupCode": "Ch108",
+    "DamageNameList": [
+      "個性3範囲_Level1",
+      "個性3範囲_Level2",
+      "個性3範囲_Level3",
+      "個性3範囲_Level4",
+      "個性3範囲_Level5",
+      "個性3範囲_Level6",
+      "個性3範囲_Level7",
+      "個性3範囲_Level8",
+      "個性3範囲_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3トドメ",
+    "GroupCode": "Ch108",
+    "DamageNameList": [
+      "個性3トドメ_Level1",
+      "個性3トドメ_Level2",
+      "個性3トドメ_Level3",
+      "個性3トドメ_Level4",
+      "個性3トドメ_Level5",
+      "個性3トドメ_Level6",
+      "個性3トドメ_Level7",
+      "個性3トドメ_Level8",
+      "個性3トドメ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1(特殊)",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性1(特殊)_Level1",
+      "個性1(特殊)_Level2",
+      "個性1(特殊)_Level3",
+      "個性1(特殊)_Level4",
+      "個性1(特殊)_Level5",
+      "個性1(特殊)_Level6",
+      "個性1(特殊)_Level7",
+      "個性1(特殊)_Level8",
+      "個性1(特殊)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2(特殊)",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性2(特殊)_Level1",
+      "個性2(特殊)_Level2",
+      "個性2(特殊)_Level3",
+      "個性2(特殊)_Level4",
+      "個性2(特殊)_Level5",
+      "個性2(特殊)_Level6",
+      "個性2(特殊)_Level7",
+      "個性2(特殊)_Level8",
+      "個性2(特殊)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2(長押し)",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性2(長押し)_Level1",
+      "個性2(長押し)_Level2",
+      "個性2(長押し)_Level3",
+      "個性2(長押し)_Level4",
+      "個性2(長押し)_Level5",
+      "個性2(長押し)_Level6",
+      "個性2(長押し)_Level7",
+      "個性2(長押し)_Level8",
+      "個性2(長押し)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2(長押し特殊)",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性2(長押し特殊)_Level1",
+      "個性2(長押し特殊)_Level2",
+      "個性2(長押し特殊)_Level3",
+      "個性2(長押し特殊)_Level4",
+      "個性2(長押し特殊)_Level5",
+      "個性2(長押し特殊)_Level6",
+      "個性2(長押し特殊)_Level7",
+      "個性2(長押し特殊)_Level8",
+      "個性2(長押し特殊)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性4_Level1",
+      "個性4_Level2",
+      "個性4_Level3",
+      "個性4_Level4",
+      "個性4_Level5",
+      "個性4_Level6",
+      "個性4_Level7",
+      "個性4_Level8",
+      "個性4_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4(反射)",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性4(反射)_Level1",
+      "個性4(反射)_Level2",
+      "個性4(反射)_Level3",
+      "個性4(反射)_Level4",
+      "個性4(反射)_Level5",
+      "個性4(反射)_Level6",
+      "個性4(反射)_Level7",
+      "個性4(反射)_Level8",
+      "個性4(反射)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5特殊爆発",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性5特殊爆発_Level1",
+      "個性5特殊爆発_Level2",
+      "個性5特殊爆発_Level3",
+      "個性5特殊爆発_Level4",
+      "個性5特殊爆発_Level5",
+      "個性5特殊爆発_Level6",
+      "個性5特殊爆発_Level7",
+      "個性5特殊爆発_Level8",
+      "個性5特殊爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性6_Level1",
+      "個性6_Level2",
+      "個性6_Level3",
+      "個性6_Level4",
+      "個性6_Level5",
+      "個性6_Level6",
+      "個性6_Level7",
+      "個性6_Level8",
+      "個性6_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6衝撃波",
+    "GroupCode": "Ch109",
+    "DamageNameList": [
+      "個性6衝撃波_Level1",
+      "個性6衝撃波_Level2",
+      "個性6衝撃波_Level3",
+      "個性6衝撃波_Level4",
+      "個性6衝撃波_Level5",
+      "個性6衝撃波_Level6",
+      "個性6衝撃波_Level7",
+      "個性6衝撃波_Level8",
+      "個性6衝撃波_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_キック",
+    "GroupCode": "Ch111",
+    "DamageNameList": [
+      "個性1_キック_Level1",
+      "個性1_キック_Level2",
+      "個性1_キック_Level3",
+      "個性1_キック_Level4",
+      "個性1_キック_Level5",
+      "個性1_キック_Level6",
+      "個性1_キック_Level7",
+      "個性1_キック_Level8",
+      "個性1_キック_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_衝撃波",
+    "GroupCode": "Ch111",
+    "DamageNameList": [
+      "個性1_衝撃波_Level1",
+      "個性1_衝撃波_Level2",
+      "個性1_衝撃波_Level3",
+      "個性1_衝撃波_Level4",
+      "個性1_衝撃波_Level5",
+      "個性1_衝撃波_Level6",
+      "個性1_衝撃波_Level7",
+      "個性1_衝撃波_Level8",
+      "個性1_衝撃波_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_かかと落とし",
+    "GroupCode": "Ch111",
+    "DamageNameList": [
+      "個性2_かかと落とし_Level1",
+      "個性2_かかと落とし_Level2",
+      "個性2_かかと落とし_Level3",
+      "個性2_かかと落とし_Level4",
+      "個性2_かかと落とし_Level5",
+      "個性2_かかと落とし_Level6",
+      "個性2_かかと落とし_Level7",
+      "個性2_かかと落とし_Level8",
+      "個性2_かかと落とし_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_叩きつけ",
+    "GroupCode": "Ch111",
+    "DamageNameList": [
+      "個性2_叩きつけ_Level1",
+      "個性2_叩きつけ_Level2",
+      "個性2_叩きつけ_Level3",
+      "個性2_叩きつけ_Level4",
+      "個性2_叩きつけ_Level5",
+      "個性2_叩きつけ_Level6",
+      "個性2_叩きつけ_Level7",
+      "個性2_叩きつけ_Level8",
+      "個性2_叩きつけ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch111",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch114",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_爆発",
+    "GroupCode": "Ch114",
+    "DamageNameList": [
+      "個性1_爆発_Level1",
+      "個性1_爆発_Level2",
+      "個性1_爆発_Level3",
+      "個性1_爆発_Level4",
+      "個性1_爆発_Level5",
+      "個性1_爆発_Level6",
+      "個性1_爆発_Level7",
+      "個性1_爆発_Level8",
+      "個性1_爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch114",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_レーザー",
+    "GroupCode": "Ch114",
+    "DamageNameList": [
+      "個性3_レーザー_Level1",
+      "個性3_レーザー_Level2",
+      "個性3_レーザー_Level3",
+      "個性3_レーザー_Level4",
+      "個性3_レーザー_Level5",
+      "個性3_レーザー_Level6",
+      "個性3_レーザー_Level7",
+      "個性3_レーザー_Level8",
+      "個性3_レーザー_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_レーザー_最後",
+    "GroupCode": "Ch114",
+    "DamageNameList": [
+      "個性3_レーザー_最後_Level1",
+      "個性3_レーザー_最後_Level2",
+      "個性3_レーザー_最後_Level3",
+      "個性3_レーザー_最後_Level4",
+      "個性3_レーザー_最後_Level5",
+      "個性3_レーザー_最後_Level6",
+      "個性3_レーザー_最後_Level7",
+      "個性3_レーザー_最後_Level8",
+      "個性3_レーザー_最後_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_射撃",
+    "GroupCode": "Ch115",
+    "DamageNameList": [
+      "個性1_射撃_Level1",
+      "個性1_射撃_Level2",
+      "個性1_射撃_Level3",
+      "個性1_射撃_Level4",
+      "個性1_射撃_Level5",
+      "個性1_射撃_Level6",
+      "個性1_射撃_Level7",
+      "個性1_射撃_Level8",
+      "個性1_射撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_着弾後追撃",
+    "GroupCode": "Ch115",
+    "DamageNameList": [
+      "個性1_着弾後追撃_Level1",
+      "個性1_着弾後追撃_Level2",
+      "個性1_着弾後追撃_Level3",
+      "個性1_着弾後追撃_Level4",
+      "個性1_着弾後追撃_Level5",
+      "個性1_着弾後追撃_Level6",
+      "個性1_着弾後追撃_Level7",
+      "個性1_着弾後追撃_Level8",
+      "個性1_着弾後追撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_曲射着弾",
+    "GroupCode": "Ch115",
+    "DamageNameList": [
+      "個性2_曲射着弾_Level1",
+      "個性2_曲射着弾_Level2",
+      "個性2_曲射着弾_Level3",
+      "個性2_曲射着弾_Level4",
+      "個性2_曲射着弾_Level5",
+      "個性2_曲射着弾_Level6",
+      "個性2_曲射着弾_Level7",
+      "個性2_曲射着弾_Level8",
+      "個性2_曲射着弾_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_散弾_地上",
+    "GroupCode": "Ch115",
+    "DamageNameList": [
+      "個性3_散弾_地上_Level1",
+      "個性3_散弾_地上_Level2",
+      "個性3_散弾_地上_Level3",
+      "個性3_散弾_地上_Level4",
+      "個性3_散弾_地上_Level5",
+      "個性3_散弾_地上_Level6",
+      "個性3_散弾_地上_Level7",
+      "個性3_散弾_地上_Level8",
+      "個性3_散弾_地上_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_散弾_空中",
+    "GroupCode": "Ch115",
+    "DamageNameList": [
+      "個性3_散弾_空中_Level1",
+      "個性3_散弾_空中_Level2",
+      "個性3_散弾_空中_Level3",
+      "個性3_散弾_空中_Level4",
+      "個性3_散弾_空中_Level5",
+      "個性3_散弾_空中_Level6",
+      "個性3_散弾_空中_Level7",
+      "個性3_散弾_空中_Level8",
+      "個性3_散弾_空中_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_凍結",
+    "GroupCode": "Ch200",
+    "DamageNameList": [
+      "個性1_凍結_Level1",
+      "個性1_凍結_Level2",
+      "個性1_凍結_Level3",
+      "個性1_凍結_Level4",
+      "個性1_凍結_Level5",
+      "個性1_凍結_Level6",
+      "個性1_凍結_Level7",
+      "個性1_凍結_Level8",
+      "個性1_凍結_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_燃焼",
+    "GroupCode": "Ch200",
+    "DamageNameList": [
+      "個性1_燃焼_Level1",
+      "個性1_燃焼_Level2",
+      "個性1_燃焼_Level3",
+      "個性1_燃焼_Level4",
+      "個性1_燃焼_Level5",
+      "個性1_燃焼_Level6",
+      "個性1_燃焼_Level7",
+      "個性1_燃焼_Level8",
+      "個性1_燃焼_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_掴み",
+    "GroupCode": "Ch200",
+    "DamageNameList": [
+      "個性2_掴み_Level1",
+      "個性2_掴み_Level2",
+      "個性2_掴み_Level3",
+      "個性2_掴み_Level4",
+      "個性2_掴み_Level5",
+      "個性2_掴み_Level6",
+      "個性2_掴み_Level7",
+      "個性2_掴み_Level8",
+      "個性2_掴み_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_空中掴み",
+    "GroupCode": "Ch200",
+    "DamageNameList": [
+      "個性2_空中掴み_Level1",
+      "個性2_空中掴み_Level2",
+      "個性2_空中掴み_Level3",
+      "個性2_空中掴み_Level4",
+      "個性2_空中掴み_Level5",
+      "個性2_空中掴み_Level6",
+      "個性2_空中掴み_Level7",
+      "個性2_空中掴み_Level8",
+      "個性2_空中掴み_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2(継続ダメージ)",
+    "GroupCode": "Ch200",
+    "DamageNameList": [
+      "個性2(継続ダメージ)_Level1",
+      "個性2(継続ダメージ)_Level2",
+      "個性2(継続ダメージ)_Level3",
+      "個性2(継続ダメージ)_Level4",
+      "個性2(継続ダメージ)_Level5",
+      "個性2(継続ダメージ)_Level6",
+      "個性2(継続ダメージ)_Level7",
+      "個性2(継続ダメージ)_Level8",
+      "個性2(継続ダメージ)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2(掴み投げ)",
+    "GroupCode": "Ch200",
+    "DamageNameList": [
+      "個性2(掴み投げ)_Level1",
+      "個性2(掴み投げ)_Level2",
+      "個性2(掴み投げ)_Level3",
+      "個性2(掴み投げ)_Level4",
+      "個性2(掴み投げ)_Level5",
+      "個性2(掴み投げ)_Level6",
+      "個性2(掴み投げ)_Level7",
+      "個性2(掴み投げ)_Level8",
+      "個性2(掴み投げ)_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_発射",
+    "GroupCode": "Ch200",
+    "DamageNameList": [
+      "個性3_発射_Level1",
+      "個性3_発射_Level2",
+      "個性3_発射_Level3",
+      "個性3_発射_Level4",
+      "個性3_発射_Level5",
+      "個性3_発射_Level6",
+      "個性3_発射_Level7",
+      "個性3_発射_Level8",
+      "個性3_発射_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_全弾発射",
+    "GroupCode": "Ch200",
+    "DamageNameList": [
+      "個性3_全弾発射_Level1",
+      "個性3_全弾発射_Level2",
+      "個性3_全弾発射_Level3",
+      "個性3_全弾発射_Level4",
+      "個性3_全弾発射_Level5",
+      "個性3_全弾発射_Level6",
+      "個性3_全弾発射_Level7",
+      "個性3_全弾発射_Level8",
+      "個性3_全弾発射_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch201",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1爆発",
+    "GroupCode": "Ch201",
+    "DamageNameList": [
+      "個性1爆発_Level1",
+      "個性1爆発_Level2",
+      "個性1爆発_Level3",
+      "個性1爆発_Level4",
+      "個性1爆発_Level5",
+      "個性1爆発_Level6",
+      "個性1爆発_Level7",
+      "個性1爆発_Level8",
+      "個性1爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch201",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2爆発",
+    "GroupCode": "Ch201",
+    "DamageNameList": [
+      "個性2爆発_Level1",
+      "個性2爆発_Level2",
+      "個性2爆発_Level3",
+      "個性2爆発_Level4",
+      "個性2爆発_Level5",
+      "個性2爆発_Level6",
+      "個性2爆発_Level7",
+      "個性2爆発_Level8",
+      "個性2爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2短押し",
+    "GroupCode": "Ch201",
+    "DamageNameList": [
+      "個性2短押し_Level1",
+      "個性2短押し_Level2",
+      "個性2短押し_Level3",
+      "個性2短押し_Level4",
+      "個性2短押し_Level5",
+      "個性2短押し_Level6",
+      "個性2短押し_Level7",
+      "個性2短押し_Level8",
+      "個性2短押し_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2短押し爆発",
+    "GroupCode": "Ch201",
+    "DamageNameList": [
+      "個性2短押し爆発_Level1",
+      "個性2短押し爆発_Level2",
+      "個性2短押し爆発_Level3",
+      "個性2短押し爆発_Level4",
+      "個性2短押し爆発_Level5",
+      "個性2短押し爆発_Level6",
+      "個性2短押し爆発_Level7",
+      "個性2短押し爆発_Level8",
+      "個性2短押し爆発_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch201",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3最大",
+    "GroupCode": "Ch201",
+    "DamageNameList": [
+      "個性3最大_Level1",
+      "個性3最大_Level2",
+      "個性3最大_Level3",
+      "個性3最大_Level4",
+      "個性3最大_Level5",
+      "個性3最大_Level6",
+      "個性3最大_Level7",
+      "個性3最大_Level8",
+      "個性3最大_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_デラウェア_地上",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性1_デラウェア_地上_Level1",
+      "個性1_デラウェア_地上_Level2",
+      "個性1_デラウェア_地上_Level3",
+      "個性1_デラウェア_地上_Level4",
+      "個性1_デラウェア_地上_Level5",
+      "個性1_デラウェア_地上_Level6",
+      "個性1_デラウェア_地上_Level7",
+      "個性1_デラウェア_地上_Level8",
+      "個性1_デラウェア_地上_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_デラウェア_空中",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性1_デラウェア_空中_Level1",
+      "個性1_デラウェア_空中_Level2",
+      "個性1_デラウェア_空中_Level3",
+      "個性1_デラウェア_空中_Level4",
+      "個性1_デラウェア_空中_Level5",
+      "個性1_デラウェア_空中_Level6",
+      "個性1_デラウェア_空中_Level7",
+      "個性1_デラウェア_空中_Level8",
+      "個性1_デラウェア_空中_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_範囲攻撃",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性2_範囲攻撃_Level1",
+      "個性2_範囲攻撃_Level2",
+      "個性2_範囲攻撃_Level3",
+      "個性2_範囲攻撃_Level4",
+      "個性2_範囲攻撃_Level5",
+      "個性2_範囲攻撃_Level6",
+      "個性2_範囲攻撃_Level7",
+      "個性2_範囲攻撃_Level8",
+      "個性2_範囲攻撃_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_デトロイト45",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性2_デトロイト45_Level1",
+      "個性2_デトロイト45_Level2",
+      "個性2_デトロイト45_Level3",
+      "個性2_デトロイト45_Level4",
+      "個性2_デトロイト45_Level5",
+      "個性2_デトロイト45_Level6",
+      "個性2_デトロイト45_Level7",
+      "個性2_デトロイト45_Level8",
+      "個性2_デトロイト45_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_クインティプル",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性2_クインティプル_Level1",
+      "個性2_クインティプル_Level2",
+      "個性2_クインティプル_Level3",
+      "個性2_クインティプル_Level4",
+      "個性2_クインティプル_Level5",
+      "個性2_クインティプル_Level6",
+      "個性2_クインティプル_Level7",
+      "個性2_クインティプル_Level8",
+      "個性2_クインティプル_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_デトロイト",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性3_デトロイト_Level1",
+      "個性3_デトロイト_Level2",
+      "個性3_デトロイト_Level3",
+      "個性3_デトロイト_Level4",
+      "個性3_デトロイト_Level5",
+      "個性3_デトロイト_Level6",
+      "個性3_デトロイト_Level7",
+      "個性3_デトロイト_Level8",
+      "個性3_デトロイト_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_掴み",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性4_掴み_Level1",
+      "個性4_掴み_Level2",
+      "個性4_掴み_Level3",
+      "個性4_掴み_Level4",
+      "個性4_掴み_Level5",
+      "個性4_掴み_Level6",
+      "個性4_掴み_Level7",
+      "個性4_掴み_Level8",
+      "個性4_掴み_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_投げ",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性4_投げ_Level1",
+      "個性4_投げ_Level2",
+      "個性4_投げ_Level3",
+      "個性4_投げ_Level4",
+      "個性4_投げ_Level5",
+      "個性4_投げ_Level6",
+      "個性4_投げ_Level7",
+      "個性4_投げ_Level8",
+      "個性4_投げ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性4_叩きつけ",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性4_叩きつけ_Level1",
+      "個性4_叩きつけ_Level2",
+      "個性4_叩きつけ_Level3",
+      "個性4_叩きつけ_Level4",
+      "個性4_叩きつけ_Level5",
+      "個性4_叩きつけ_Level6",
+      "個性4_叩きつけ_Level7",
+      "個性4_叩きつけ_Level8",
+      "個性4_叩きつけ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性5_Level1",
+      "個性5_Level2",
+      "個性5_Level3",
+      "個性5_Level4",
+      "個性5_Level5",
+      "個性5_Level6",
+      "個性5_Level7",
+      "個性5_Level8",
+      "個性5_Level9"
+    ]
+  },
+  {
+    "TableName": "個性5_チャージ",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性5_チャージ_Level1",
+      "個性5_チャージ_Level2",
+      "個性5_チャージ_Level3",
+      "個性5_チャージ_Level4",
+      "個性5_チャージ_Level5",
+      "個性5_チャージ_Level6",
+      "個性5_チャージ_Level7",
+      "個性5_チャージ_Level8",
+      "個性5_チャージ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_パンチ",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性6_パンチ_Level1",
+      "個性6_パンチ_Level2",
+      "個性6_パンチ_Level3",
+      "個性6_パンチ_Level4",
+      "個性6_パンチ_Level5",
+      "個性6_パンチ_Level6",
+      "個性6_パンチ_Level7",
+      "個性6_パンチ_Level8",
+      "個性6_パンチ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_衝撃波",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性6_衝撃波_Level1",
+      "個性6_衝撃波_Level2",
+      "個性6_衝撃波_Level3",
+      "個性6_衝撃波_Level4",
+      "個性6_衝撃波_Level5",
+      "個性6_衝撃波_Level6",
+      "個性6_衝撃波_Level7",
+      "個性6_衝撃波_Level8",
+      "個性6_衝撃波_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_連続ヒット",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性6_連続ヒット_Level1",
+      "個性6_連続ヒット_Level2",
+      "個性6_連続ヒット_Level3",
+      "個性6_連続ヒット_Level4",
+      "個性6_連続ヒット_Level5",
+      "個性6_連続ヒット_Level6",
+      "個性6_連続ヒット_Level7",
+      "個性6_連続ヒット_Level8",
+      "個性6_連続ヒット_Level9"
+    ]
+  },
+  {
+    "TableName": "個性6_フィニッシュ",
+    "GroupCode": "Ch202",
+    "DamageNameList": [
+      "個性6_フィニッシュ_Level1",
+      "個性6_フィニッシュ_Level2",
+      "個性6_フィニッシュ_Level3",
+      "個性6_フィニッシュ_Level4",
+      "個性6_フィニッシュ_Level5",
+      "個性6_フィニッシュ_Level6",
+      "個性6_フィニッシュ_Level7",
+      "個性6_フィニッシュ_Level8",
+      "個性6_フィニッシュ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch203",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_フィニッシュ",
+    "GroupCode": "Ch203",
+    "DamageNameList": [
+      "個性1_フィニッシュ_Level1",
+      "個性1_フィニッシュ_Level2",
+      "個性1_フィニッシュ_Level3",
+      "個性1_フィニッシュ_Level4",
+      "個性1_フィニッシュ_Level5",
+      "個性1_フィニッシュ_Level6",
+      "個性1_フィニッシュ_Level7",
+      "個性1_フィニッシュ_Level8",
+      "個性1_フィニッシュ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2",
+    "GroupCode": "Ch203",
+    "DamageNameList": [
+      "個性2_Level1",
+      "個性2_Level2",
+      "個性2_Level3",
+      "個性2_Level4",
+      "個性2_Level5",
+      "個性2_Level6",
+      "個性2_Level7",
+      "個性2_Level8",
+      "個性2_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3",
+    "GroupCode": "Ch203",
+    "DamageNameList": [
+      "個性3_Level1",
+      "個性3_Level2",
+      "個性3_Level3",
+      "個性3_Level4",
+      "個性3_Level5",
+      "個性3_Level6",
+      "個性3_Level7",
+      "個性3_Level8",
+      "個性3_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性1_Level1",
+      "個性1_Level2",
+      "個性1_Level3",
+      "個性1_Level4",
+      "個性1_Level5",
+      "個性1_Level6",
+      "個性1_Level7",
+      "個性1_Level8",
+      "個性1_Level9"
+    ]
+  },
+  {
+    "TableName": "個性1_特殊状態",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性1_特殊状態_Level1",
+      "個性1_特殊状態_Level2",
+      "個性1_特殊状態_Level3",
+      "個性1_特殊状態_Level4",
+      "個性1_特殊状態_Level5",
+      "個性1_特殊状態_Level6",
+      "個性1_特殊状態_Level7",
+      "個性1_特殊状態_Level8",
+      "個性1_特殊状態_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_特殊状態",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性2_特殊状態_Level1",
+      "個性2_特殊状態_Level2",
+      "個性2_特殊状態_Level3",
+      "個性2_特殊状態_Level4",
+      "個性2_特殊状態_Level5",
+      "個性2_特殊状態_Level6",
+      "個性2_特殊状態_Level7",
+      "個性2_特殊状態_Level8",
+      "個性2_特殊状態_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_特殊状態_派生強化",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性2_特殊状態_派生強化_Level1",
+      "個性2_特殊状態_派生強化_Level2",
+      "個性2_特殊状態_派生強化_Level3",
+      "個性2_特殊状態_派生強化_Level4",
+      "個性2_特殊状態_派生強化_Level5",
+      "個性2_特殊状態_派生強化_Level6",
+      "個性2_特殊状態_派生強化_Level7",
+      "個性2_特殊状態_派生強化_Level8",
+      "個性2_特殊状態_派生強化_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_切りつけ",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性2_切りつけ_Level1",
+      "個性2_切りつけ_Level2",
+      "個性2_切りつけ_Level3",
+      "個性2_切りつけ_Level4",
+      "個性2_切りつけ_Level5",
+      "個性2_切りつけ_Level6",
+      "個性2_切りつけ_Level7",
+      "個性2_切りつけ_Level8",
+      "個性2_切りつけ_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_切りつけ_特殊状態",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性2_切りつけ_特殊状態_Level1",
+      "個性2_切りつけ_特殊状態_Level2",
+      "個性2_切りつけ_特殊状態_Level3",
+      "個性2_切りつけ_特殊状態_Level4",
+      "個性2_切りつけ_特殊状態_Level5",
+      "個性2_切りつけ_特殊状態_Level6",
+      "個性2_切りつけ_特殊状態_Level7",
+      "個性2_切りつけ_特殊状態_Level8",
+      "個性2_切りつけ_特殊状態_Level9"
+    ]
+  },
+  {
+    "TableName": "個性2_切り返し_特殊状態",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性2_切り返し_特殊状態_Level1",
+      "個性2_切り返し_特殊状態_Level2",
+      "個性2_切り返し_特殊状態_Level3",
+      "個性2_切り返し_特殊状態_Level4",
+      "個性2_切り返し_特殊状態_Level5",
+      "個性2_切り返し_特殊状態_Level6",
+      "個性2_切り返し_特殊状態_Level7",
+      "個性2_切り返し_特殊状態_Level8",
+      "個性2_切り返し_特殊状態_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_範囲爆炎",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性3_範囲爆炎_Level1",
+      "個性3_範囲爆炎_Level2",
+      "個性3_範囲爆炎_Level3",
+      "個性3_範囲爆炎_Level4",
+      "個性3_範囲爆炎_Level5",
+      "個性3_範囲爆炎_Level6",
+      "個性3_範囲爆炎_Level7",
+      "個性3_範囲爆炎_Level8",
+      "個性3_範囲爆炎_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_範囲爆炎_溜め",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性3_範囲爆炎_溜め_Level1",
+      "個性3_範囲爆炎_溜め_Level2",
+      "個性3_範囲爆炎_溜め_Level3",
+      "個性3_範囲爆炎_溜め_Level4",
+      "個性3_範囲爆炎_溜め_Level5",
+      "個性3_範囲爆炎_溜め_Level6",
+      "個性3_範囲爆炎_溜め_Level7",
+      "個性3_範囲爆炎_溜め_Level8",
+      "個性3_範囲爆炎_溜め_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_範囲氷結",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性3_範囲氷結_Level1",
+      "個性3_範囲氷結_Level2",
+      "個性3_範囲氷結_Level3",
+      "個性3_範囲氷結_Level4",
+      "個性3_範囲氷結_Level5",
+      "個性3_範囲氷結_Level6",
+      "個性3_範囲氷結_Level7",
+      "個性3_範囲氷結_Level8",
+      "個性3_範囲氷結_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_氷結直撃_初段",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性3_氷結直撃_初段_Level1",
+      "個性3_氷結直撃_初段_Level2",
+      "個性3_氷結直撃_初段_Level3",
+      "個性3_氷結直撃_初段_Level4",
+      "個性3_氷結直撃_初段_Level5",
+      "個性3_氷結直撃_初段_Level6",
+      "個性3_氷結直撃_初段_Level7",
+      "個性3_氷結直撃_初段_Level8",
+      "個性3_氷結直撃_初段_Level9"
+    ]
+  },
+  {
+    "TableName": "個性3_氷結直撃",
+    "GroupCode": "Ch204",
+    "DamageNameList": [
+      "個性3_氷結直撃_Level1",
+      "個性3_氷結直撃_Level2",
+      "個性3_氷結直撃_Level3",
+      "個性3_氷結直撃_Level4",
+      "個性3_氷結直撃_Level5",
+      "個性3_氷結直撃_Level6",
+      "個性3_氷結直撃_Level7",
+      "個性3_氷結直撃_Level8",
+      "個性3_氷結直撃_Level9"
+    ]
+  }
+]
