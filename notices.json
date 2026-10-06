@@ -1,314 +1,306 @@
 [
     {
-        "id": "190413",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190413.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#d54c30",
-        "type": "sp. gasha"
+        "id": "3115",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch115.png?raw=true",
+        "start": null,
+        "expired": "2026-10-10T03:59:59Z",
+        "color": "#06de78",
+        "type": "birthday"
     },
     {
-        "id": "190414",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190414.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#d54c30",
-        "type": "sp. gasha"
+        "id": "3038",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch038.png?raw=true",
+        "start": null,
+        "expired": "2026-10-08T03:59:59Z",
+        "color": "#b66529",
+        "type": "birthday"
     },
     {
-        "id": "190415",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190415.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#d54c30",
-        "type": "sp. gasha"
-    },
-    {
-        "id": "190401",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190401.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "190402",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190402.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-10-28 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "190406",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190406.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-10-28 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "190409",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190409.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-11 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "10006",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/10006.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#af4444",
-        "type": "notice"
-    },
-    {
-        "id": "190207",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190207.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#ffdd4c",
-        "type": "event"
-    },
-    {
-        "id": "190201",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190201.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-10-21 12:59:59 (JST)",
-        "color": "#ffdd4c",
-        "type": "event"
-    },
-    {
-        "id": "19112",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/19112.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#ff9800",
-        "type": "info"
+        "id": "3025",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch025.png?raw=true",
+        "start": null,
+        "expired": "2026-10-06T03:59:59Z",
+        "color": "#7d7dd1",
+        "type": "birthday"
     },
     {
         "id": "140001",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-10-14 12:59:59 (JST)",
-        "color": "#ff9800",
+        "start": null,
+        "expired": "2026-10-14T03:59:59Z",
+        "color": "#3e65bb",
         "type": "info"
     },
     {
         "id": "10004",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/10004.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#00d199",
+        "start": null,
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#677ec1",
         "type": "campaign"
     },
     {
-        "id": "3025",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch025.png?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-10-06 12:59:59 (JST)",
-        "color": "#af4444",
-        "type": "birthday"
+        "id": "19112",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/19112.png?raw=true",
+        "start": null,
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#c4916d",
+        "type": "info"
     },
     {
-        "id": "190405",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190405.png?raw=true",
-        "start": "2026-10-28 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "190410",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190410.png?raw=true",
-        "start": "2026-11-11 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "190412",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190412.png?raw=true",
-        "start": "2026-11-11 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "190206",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190206.png?raw=true",
-        "start": "2026-11-11 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#ffdd4c",
+        "id": "190201",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190201.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-10-21T03:59:59Z",
+        "color": "#b33556",
         "type": "event"
     },
     {
-        "id": "140002",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.png?raw=true",
-        "start": "2026-11-17 13:00:00 (JST)",
-        "expired": "2026-11-24 12:59:59 (JST)",
-        "color": "#00d199",
+        "id": "190207",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190207.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#270279",
+        "type": "event"
+    },
+    {
+        "id": "10006",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/10006.png?raw=true",
+        "start": null,
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#e56127",
         "type": "campaign"
+    },
+    {
+        "id": "190409",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190409.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-11-11T03:59:59Z",
+        "color": "#51dcbf",
+        "type": "gasha"
+    },
+    {
+        "id": "190406",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190406.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-10-28T03:59:59Z",
+        "color": "#2592a4",
+        "type": "gasha"
+    },
+    {
+        "id": "190402",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190402.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-10-28T03:59:59Z",
+        "color": "#d8757f",
+        "type": "gasha"
+    },
+    {
+        "id": "190401",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190401.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#126a95",
+        "type": "gasha"
+    },
+    {
+        "id": "190415",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190415.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#08f92e",
+        "type": "gasha"
+    },
+    {
+        "id": "190414",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190414.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#61aafd",
+        "type": "gasha"
+    },
+    {
+        "id": "190413",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190413.png?raw=true",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#d3401e",
+        "type": "gasha"
+    },
+    {
+        "id": "190203",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190203.png?raw=true",
+        "start": "2026-10-07T04:00:00Z",
+        "expired": "2026-10-21T03:59:59Z",
+        "color": "#f7c2ca",
+        "type": "event"
+    },
+    {
+        "id": "3008",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch008.png?raw=true",
+        "start": "2026-10-09T04:00:00Z",
+        "expired": null,
+        "color": "#2eb0f7",
+        "type": "birthday"
     },
     {
         "id": "140001",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
-        "start": "2026-11-11 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#ff9800",
+        "start": "2026-10-14T04:00:00Z",
+        "expired": null,
+        "color": "#ecf64f",
         "type": "info"
     },
     {
-        "id": "190403",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190403.png?raw=true",
-        "start": "2026-10-28 13:00:00 (JST)",
-        "expired": "2026-11-15 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "190407",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190407.png?raw=true",
-        "start": "2026-10-28 13:00:00 (JST)",
-        "expired": "2026-11-15 12:59:59 (JST)",
-        "color": "#df5700",
-        "type": "gasha"
-    },
-    {
-        "id": "190205",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/common/default-404.png?raw=true",
-        "start": "2026-11-04 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#ffdd4c",
-        "type": "event"
-    },
-    {
-        "id": "140002",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.png?raw=true",
-        "start": "2026-11-03 13:00:00 (JST)",
-        "expired": "2026-11-10 12:59:59 (JST)",
-        "color": "#00d199",
-        "type": "campaign"
-    },
-    {
-        "id": "140001",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
-        "start": "2026-10-28 13:00:00 (JST)",
-        "expired": "2026-11-11 12:59:59 (JST)",
-        "color": "#ff9800",
-        "type": "info"
-    },
-    {
-        "id": "3013",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch013.png?raw=true",
-        "start": "2026-11-01 13:00:00 (JST)",
-        "expired": "2026-11-08 12:59:59 (JST)",
-        "color": "#af4444",
-        "type": "birthday"
-    },
-    {
-        "id": "190404",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190404.png?raw=true",
-        "start": "2026-10-14 13:00:00 (JST)",
-        "expired": "2026-11-11 12:59:59 (JST)",
-        "color": "#df5700",
+        "id": "190411",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190411.png?raw=true",
+        "start": "2026-10-14T04:00:00Z",
+        "expired": "2026-11-11T03:59:59Z",
+        "color": "#0a594d",
         "type": "gasha"
     },
     {
         "id": "190408",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190408.png?raw=true",
-        "start": "2026-10-14 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#df5700",
+        "start": "2026-10-14T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#91ebc8",
         "type": "gasha"
     },
     {
-        "id": "190411",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190411.png?raw=true",
-        "start": "2026-10-14 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#df5700",
+        "id": "190404",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190404.png?raw=true",
+        "start": "2026-10-14T04:00:00Z",
+        "expired": "2026-11-11T03:59:59Z",
+        "color": "#a5f608",
         "type": "gasha"
     },
     {
-        "id": "190202",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190202.png?raw=true",
-        "start": "2026-10-21 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#ffdd4c",
-        "type": "event"
+        "id": "140002",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.png?raw=true",
+        "start": "2026-10-20T04:00:00Z",
+        "expired": null,
+        "color": "#5ee74a",
+        "type": "campaign"
     },
     {
         "id": "190204",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190204.png?raw=true",
-        "start": "2026-10-21 13:00:00 (JST)",
-        "expired": "2026-11-04 12:59:59 (JST)",
-        "color": "#ffdd4c",
+        "start": "2026-10-21T04:00:00Z",
+        "expired": "2026-11-04T03:59:59Z",
+        "color": "#532ccc",
+        "type": "event"
+    },
+    {
+        "id": "190202",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190202.png?raw=true",
+        "start": "2026-10-21T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#e7facb",
+        "type": "event"
+    },
+    {
+        "id": "3011",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch011.png?raw=true",
+        "start": "2026-10-23T04:00:00Z",
+        "expired": null,
+        "color": "#9c8243",
+        "type": "birthday"
+    },
+    {
+        "id": "140001",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
+        "start": "2026-10-28T04:00:00Z",
+        "expired": null,
+        "color": "#bf5b07",
+        "type": "info"
+    },
+    {
+        "id": "190407",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190407.png?raw=true",
+        "start": "2026-10-28T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#36552b",
+        "type": "gasha"
+    },
+    {
+        "id": "190403",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190403.png?raw=true",
+        "start": "2026-10-28T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#58c1f5",
+        "type": "gasha"
+    },
+    {
+        "id": "190405",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190405.png?raw=true",
+        "start": "2026-11-11T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#ddcb69",
+        "type": "gasha"
+    },
+    {
+        "id": "3013",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch013.png?raw=true",
+        "start": "2026-11-01T04:00:00Z",
+        "expired": null,
+        "color": "#ddcc03",
+        "type": "birthday"
+    },
+    {
+        "id": "140002",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.png?raw=true",
+        "start": "2026-11-03T04:00:00Z",
+        "expired": null,
+        "color": "#bbf078",
+        "type": "campaign"
+    },
+    {
+        "id": "190205",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190205.png?raw=true",
+        "start": "2026-11-04T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#d25cae",
         "type": "event"
     },
     {
         "id": "140001",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140001.png?raw=true",
-        "start": "2026-10-14 13:00:00 (JST)",
-        "expired": "2026-10-28 12:59:59 (JST)",
-        "color": "#ff9800",
+        "start": "2026-11-11T04:00:00Z",
+        "expired": null,
+        "color": "#4182e5",
         "type": "info"
+    },
+    {
+        "id": "190206",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190206.png?raw=true",
+        "start": "2026-11-11T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#c8367b",
+        "type": "event"
+    },
+    {
+        "id": "190412",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190412.png?raw=true",
+        "start": "2026-11-11T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#69e78e",
+        "type": "gasha"
+    },
+    {
+        "id": "190410",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/190410.png?raw=true",
+        "start": "2026-11-11T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#ed5154",
+        "type": "gasha"
     },
     {
         "id": "140002",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/140002.png?raw=true",
-        "start": "2026-10-20 13:00:00 (JST)",
-        "expired": "2026-10-27 12:59:59 (JST)",
-        "color": "#00d199",
+        "start": "2026-11-17T04:00:00Z",
+        "expired": null,
+        "color": "#0be2ec",
         "type": "campaign"
-    },
-    {
-        "id": "3011",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch011.png?raw=true",
-        "start": "2026-10-23 13:00:00 (JST)",
-        "expired": "2026-10-30 12:59:59 (JST)",
-        "color": "#af4444",
-        "type": "birthday"
-    },
-    {
-        "id": "190203",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/common/default-404.png?raw=true",
-        "start": "2026-10-07 13:00:00 (JST)",
-        "expired": "2026-10-21 12:59:59 (JST)",
-        "color": "#ffdd4c",
-        "type": "event"
-    },
-    {
-        "id": "3038",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch038.png?raw=true",
-        "start": "2026-10-01 13:00:00 (JST)",
-        "expired": "2026-10-08 12:59:59 (JST)",
-        "color": "#af4444",
-        "type": "birthday"
-    },
-    {
-        "id": "3115",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch115.png?raw=true",
-        "start": "2026-10-03 13:00:00 (JST)",
-        "expired": "2026-10-10 12:59:59 (JST)",
-        "color": "#af4444",
-        "type": "birthday"
-    },
-    {
-        "id": "3008",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch008.png?raw=true",
-        "start": "2026-10-09 13:00:00 (JST)",
-        "expired": "2026-10-16 12:59:59 (JST)",
-        "color": "#af4444",
-        "type": "birthday"
-    },
-    {
-        "id": "3010",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/notices/3010.png?raw=true",
-        "start": "2026-09-16 13:00:00 (JST)",
-        "expired": "2026-09-23 12:59:59 (JST)",
-        "color": "#af4444",
-        "type": "notice"
     }
 ]

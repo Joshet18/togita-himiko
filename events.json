@@ -1,19 +1,10 @@
 [
     {
-        "id": "251307",
-        "name": "Beginner Mission Event",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251307.webp?raw=true",
-        "start": "2025-09-24 13:00:00 (JST)",
-        "expired": "2100-01-01 00:00:00 (JST)",
-        "color": "#b3ff66",
-        "type": "others"
-    },
-    {
         "id": "261901",
         "name": "Agency Event S19",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261901.webp?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-10-21 12:59:59 (JST)",
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-10-21T03:59:59Z",
         "color": "#66ff66",
         "type": "agency"
     },
@@ -21,44 +12,71 @@
         "id": "261907",
         "name": "Anniversary Mission Event S19",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261907.webp?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#44ce94",
-        "type": "others"
+        "start": "2026-09-30T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "261802",
+        "name": "3-Pick Battle Event Vol. 1",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261802.webp?raw=true",
+        "start": "2026-08-26T04:00:00Z",
+        "expired": "2026-10-07T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "261805",
+        "name": "T.U.N.I.N.G. Mission Event Vol. 6",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261805.webp?raw=true",
+        "start": "2026-09-09T04:00:00Z",
+        "expired": "2026-10-07T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "251307",
+        "name": "Beginner Mission Event",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251307.webp?raw=true",
+        "start": "2025-09-24T04:00:00Z",
+        "expired": null,
+        "color": "#b3ff66",
+        "type": "mission"
     },
     {
         "id": "261908",
         "name": "Pro Mission Event",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261908.webp?raw=true",
-        "start": "2026-09-30 13:00:00 (JST)",
-        "expired": "2100-01-01 12:59:59 (JST)",
-        "color": "#c55650",
-        "type": "others"
-    },
-    {
-        "id": "261902",
-        "name": "3-Pick Battle Event S19",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261902.webp?raw=true",
-        "start": "2026-10-21 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#38d1a7",
-        "type": "others"
+        "start": "2026-09-30T04:00:00Z",
+        "expired": null,
+        "color": "#ff944d",
+        "type": "mission"
     },
     {
         "id": "261903",
         "name": "T.U.N.I.N.G. Mission Event S19 Vol. 1",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261903.webp?raw=true",
-        "start": "2026-10-07 13:00:00 (JST)",
-        "expired": "2026-10-21 12:59:59 (JST)",
-        "color": "#6df234",
-        "type": "others"
+        "start": "2026-10-07T04:00:00Z",
+        "expired": "2026-10-21T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "261902",
+        "name": "3-Pick Battle Event S19",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261902.webp?raw=true",
+        "start": "2026-10-21T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
     },
     {
         "id": "261904",
         "name": "Drop Event S19",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261904.webp?raw=true",
-        "start": "2026-10-21 13:00:00 (JST)",
-        "expired": "2026-11-04 12:59:59 (JST)",
+        "start": "2026-10-21T04:00:00Z",
+        "expired": "2026-11-04T03:59:59Z",
         "color": "#ffff66",
         "type": "drop"
     },
@@ -66,548 +84,89 @@
         "id": "261905",
         "name": "T.U.N.I.N.G. Mission Event S19 Vol. 2",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261905.webp?raw=true",
-        "start": "2026-11-04 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#1626c9",
-        "type": "others"
+        "start": "2026-11-04T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
     },
     {
         "id": "261906",
         "name": "License Event S19",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261906.webp?raw=true",
-        "start": "2026-11-11 13:00:00 (JST)",
-        "expired": "2026-11-25 12:59:59 (JST)",
-        "color": "#90f6f8",
+        "start": "2026-11-11T04:00:00Z",
+        "expired": "2026-11-25T03:59:59Z",
+        "color": "#0cd075",
         "type": "others"
     },
     {
-        "id": "230101",
-        "name": "Mission Event vol. 1",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230101.webp?raw=true",
-        "start": "2023-09-28 13:00:00 (JST)",
-        "expired": "2023-10-17 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
+        "id": "261806",
+        "name": "License Event Vol. 4",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261806.webp?raw=true",
+        "start": "2026-09-16T04:00:00Z",
+        "expired": "2026-09-30T03:59:59Z",
+        "color": "#7c1a05",
+        "type": "others"
     },
     {
-        "id": "230102",
-        "name": "Drop Event vol. 1",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230102.webp?raw=true",
-        "start": "2023-10-25 13:00:00 (JST)",
-        "expired": "2023-11-10 12:59:59 (JST)",
+        "id": "261804",
+        "name": "Drop Event Vol. 18",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261804.webp?raw=true",
+        "start": "2026-08-19T04:00:00Z",
+        "expired": "2026-09-02T03:59:59Z",
         "color": "#ffff66",
         "type": "drop"
     },
     {
-        "id": "230103",
-        "name": "Battle Event vol. 1",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230103.webp?raw=true",
-        "start": "2023-11-10 13:00:00 (JST)",
-        "expired": "2023-11-24 12:59:59 (JST)",
+        "id": "261801",
+        "name": "Battle Event Vol. 10",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261801.webp?raw=true",
+        "start": "2026-07-29T04:00:00Z",
+        "expired": "2026-08-26T03:59:59Z",
         "color": "#80dfff",
         "type": "battle"
     },
     {
-        "id": "230201",
-        "name": "Drop Event vol. 2",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230201.webp?raw=true",
-        "start": "2023-11-24 13:00:00 (JST)",
-        "expired": "2023-12-11 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "230202",
-        "name": "Mission Event vol. 2",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230202.webp?raw=true",
-        "start": "2023-12-11 13:00:00 (JST)",
-        "expired": "2024-01-01 12:59:59 (JST)",
+        "id": "261803",
+        "name": "T.U.N.I.N.G. Mission Event Vol. 5",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261803.webp?raw=true",
+        "start": "2026-08-05T04:00:00Z",
+        "expired": "2026-08-19T03:59:59Z",
         "color": "#ff944d",
         "type": "mission"
     },
     {
-        "id": "230203",
-        "name": "Battle Event vol. 2",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230203.webp?raw=true",
-        "start": "2024-01-09 13:00:00 (JST)",
-        "expired": "2024-01-25 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "battle"
+        "id": "261707",
+        "name": "License Event Vol. 3",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261707.webp?raw=true",
+        "start": "2026-07-15T04:00:00Z",
+        "expired": "2026-07-29T03:59:59Z",
+        "color": "#addcac",
+        "type": "others"
     },
     {
-        "id": "240301",
-        "name": "Drop Event Vol. 3",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240301.webp?raw=true",
-        "start": "2024-01-25 13:00:00 (JST)",
-        "expired": "2024-02-07 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "240302",
-        "name": "Mission Event Vol. 3",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240302.webp?raw=true",
-        "start": "2024-02-07 13:00:00 (JST)",
-        "expired": "2024-02-28 12:59:59 (JST)",
+        "id": "261706",
+        "name": "T.U.N.I.N.G. Mission Event Vol. 4",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261706.webp?raw=true",
+        "start": "2026-07-08T04:00:00Z",
+        "expired": "2026-07-29T03:59:59Z",
         "color": "#ff944d",
         "type": "mission"
     },
     {
-        "id": "240303",
-        "name": "Agency Event Vol.1",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240303.webp?raw=true",
-        "start": "2024-03-06 13:00:00 (JST)",
-        "expired": "2024-03-26 12:59:59 (JST)",
-        "color": "#66ff66",
-        "type": "agency"
-    },
-    {
-        "id": "240401",
-        "name": "Drop Event Vol. 4",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240401.webp?raw=true",
-        "start": "2024-03-27 13:00:00 (JST)",
-        "expired": "2024-04-10 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "240402",
-        "name": "Mission Event Vol. 4",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240402.webp?raw=true",
-        "start": "2024-04-10 13:00:00 (JST)",
-        "expired": "2024-05-01 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "240403",
-        "name": "Battle Event Vol. 3",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240403.webp?raw=true",
-        "start": "2024-05-08 13:00:00 (JST)",
-        "expired": "2024-05-22 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "battle"
-    },
-    {
-        "id": "240501",
-        "name": "Drop Event vol. 5",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240501.webp?raw=true",
-        "start": "2024-05-22 13:00:00 (JST)",
-        "expired": "2024-06-05 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "240502",
-        "name": "Mission Event Vol. 5",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240502.webp?raw=true",
-        "start": "2024-06-05 13:00:00 (JST)",
-        "expired": "2024-06-26 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "240503",
-        "name": "Agency Event Vol. 2",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240503.webp?raw=true",
-        "start": "2024-07-03 13:00:00 (JST)",
-        "expired": "2024-07-24 12:59:59 (JST)",
-        "color": "#66ff66",
-        "type": "agency"
-    },
-    {
-        "id": "240601",
-        "name": "Drop Event Vol. 6",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240601.webp?raw=true",
-        "start": "2024-07-24 13:00:00 (JST)",
-        "expired": "2024-08-07 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "240602",
-        "name": "Mission Event Vol. 6",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240602.webp?raw=true",
-        "start": "2024-08-07 13:00:00 (JST)",
-        "expired": "2024-08-28 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "240603",
-        "name": "Battle Event Vol. 4",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240603.webp?raw=true",
-        "start": "2024-04-25 00:00:00 (JST)",
-        "expired": "2024-09-25 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "battle"
-    },
-    {
-        "id": "240701",
-        "name": "Drop Event Vol. 7",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240701.webp?raw=true",
-        "start": "2024-09-25 13:00:00 (JST)",
-        "expired": "2024-10-09 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "240702",
-        "name": "Mission Event Vol. 7",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240702.webp?raw=true",
-        "start": "2024-10-09 13:00:00 (JST)",
-        "expired": "2024-10-30 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "240703",
-        "name": "Agency Event Vol. 3",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240703.webp?raw=true",
-        "start": "2024-11-06 13:00:00 (JST)",
-        "expired": "2024-11-20 12:59:59 (JST)",
-        "color": "#66ff66",
-        "type": "agency"
-    },
-    {
-        "id": "240801",
-        "name": "Mission Event Vol. 8",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240801.webp?raw=true",
-        "start": "2024-11-20 13:00:00 (JST)",
-        "expired": "2024-12-18 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "240802",
-        "name": "Drop Event Vol. 8",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240802.webp?raw=true",
-        "start": "2024-12-18 13:00:00 (JST)",
-        "expired": "2025-01-01 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "240803",
-        "name": "Battle Event Vol. 5",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240803.webp?raw=true",
-        "start": "2025-01-01 13:00:00 (JST)",
-        "expired": "2025-01-22 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "battle"
-    },
-    {
-        "id": "250901",
-        "name": "Drop Event Vol. 9",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/250901.webp?raw=true",
-        "start": "2025-01-22 13:00:00 (JST)",
-        "expired": "2025-02-05 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "250902",
-        "name": "Mission Event Vol. 9",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/250902.webp?raw=true",
-        "start": "2025-02-05 13:00:00 (JST)",
-        "expired": "2025-02-26 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "250903",
-        "name": "Agency Event Vol. 4",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/250903.webp?raw=true",
-        "start": "2025-02-26 13:00:00 (JST)",
-        "expired": "2025-03-26 12:59:59 (JST)",
-        "color": "#66ff66",
-        "type": "agency"
-    },
-    {
-        "id": "251001",
-        "name": "Drop Event Vol. 10",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251001.webp?raw=true",
-        "start": "2025-03-26 13:00:00 (JST)",
-        "expired": "2025-04-09 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "251002",
-        "name": "Mission Event Vol. 10",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251002.webp?raw=true",
-        "start": "2025-04-09 13:00:00 (JST)",
-        "expired": "2025-04-30 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "251003",
-        "name": "Battle Event Vol. 6",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251003.webp?raw=true",
-        "start": "2025-04-30 13:00:00 (JST)",
-        "expired": "2025-05-21 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "battle"
-    },
-    {
-        "id": "251101",
-        "name": "Mission Event Vol. 11",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251101.webp?raw=true",
-        "start": "2025-05-21 13:00:00 (JST)",
-        "expired": "2025-06-11 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "251102",
-        "name": "Drop Event Vol. 11",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251102.webp?raw=true",
-        "start": "2025-06-11 13:00:00 (JST)",
-        "expired": "2025-06-25 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "251103",
-        "name": "Agency Event Vol. 5",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251103.webp?raw=true",
-        "start": "2025-06-25 13:00:00 (JST)",
-        "expired": "2025-07-23 12:59:59 (JST)",
-        "color": "#66ff66",
-        "type": "agency"
-    },
-    {
-        "id": "251201",
-        "name": "Mission Event Vol. 12",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251201.webp?raw=true",
-        "start": "2025-07-23 13:00:00 (JST)",
-        "expired": "2025-08-13 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "251202",
-        "name": "Drop Event Vol. 12",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251202.webp?raw=true",
-        "start": "2025-08-13 13:00:00 (JST)",
-        "expired": "2025-08-27 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "251203",
-        "name": "Battle Event Vol. 7",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251203.webp?raw=true",
-        "start": "2025-08-27 13:00:00 (JST)",
-        "expired": "2025-09-24 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "battle"
-    },
-    {
-        "id": "251204",
-        "name": "Area Control Battle Event",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251204.webp?raw=true",
-        "start": "2025-09-03 13:00:00 (JST)",
-        "expired": "2025-09-24 12:59:59 (JST)",
+        "id": "261705",
+        "name": "Area Control Battle Event Vol. 6",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261705.webp?raw=true",
+        "start": "2026-06-24T04:00:00Z",
+        "expired": "2026-07-29T03:59:59Z",
         "color": "#80dfff",
         "type": "area-control-battle"
-    },
-    {
-        "id": "251301",
-        "name": "Mission Event Vol. 13",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251301.webp?raw=true",
-        "start": "2025-09-24 13:00:00 (JST)",
-        "expired": "2025-10-15 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "251302",
-        "name": "Drop Event Vol. 13",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251302.webp?raw=true",
-        "start": "2025-10-15 13:00:00 (JST)",
-        "expired": "2025-10-29 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "251303",
-        "name": "Area Control Battle Event Vol. 2",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251303.webp?raw=true",
-        "start": "2025-10-15 13:00:00 (JST)",
-        "expired": "2025-10-29 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "area-control-battle"
-    },
-    {
-        "id": "251304",
-        "name": "Agency Event Vol. 6",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251304.webp?raw=true",
-        "start": "2025-10-29 13:00:00 (JST)",
-        "expired": "2025-11-19 12:59:59 (JST)",
-        "color": "#66ff66",
-        "type": "agency"
-    },
-    {
-        "id": "251305",
-        "name": "Area Control Battle Event Vol. 3",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251305.webp?raw=true",
-        "start": "2025-11-05 13:00:00 (JST)",
-        "expired": "2025-11-19 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "area-control-battle"
-    },
-    {
-        "id": "251306",
-        "name": "My Hero Ultra Impact Collab Mission Event",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251306.webp?raw=true",
-        "start": "2025-09-25 17:00:00 (JST)",
-        "expired": "2025-11-19 12:59:59 (JST)",
-        "color": "#ccffe6",
-        "type": "others"
-    },
-    {
-        "id": "251401",
-        "name": "Mission Event Vol. 14",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251401.webp?raw=true",
-        "start": "2025-11-19 13:00:00 (JST)",
-        "expired": "2025-12-10 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "251402",
-        "name": "Drop Event Vol. 14",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251402.webp?raw=true",
-        "start": "2025-12-10 13:00:00 (JST)",
-        "expired": "2025-12-24 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "251403",
-        "name": "Battle Event Vol. 8",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251403.webp?raw=true",
-        "start": "2025-12-24 13:00:00 (JST)",
-        "expired": "2026-01-21 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "battle"
-    },
-    {
-        "id": "261501",
-        "name": "Mission Event Vol. 15",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261501.webp?raw=true",
-        "start": "2026-01-21 13:00:00 (JST)",
-        "expired": "2026-02-11 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "261502",
-        "name": "Drop Event Vol. 15",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261502.webp?raw=true",
-        "start": "2026-02-11 13:00:00 (JST)",
-        "expired": "2026-02-25 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "261503",
-        "name": "Agency Event Vol. 7",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261503.webp?raw=true",
-        "start": "2026-02-25 13:00:00 (JST)",
-        "expired": "2026-03-25 12:59:59 (JST)",
-        "color": "#66ff66",
-        "type": "agency"
-    },
-    {
-        "id": "261504",
-        "name": "Area Control Battle Event Vol. 4",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261504.webp?raw=true",
-        "start": "2026-03-04 13:00:00 (JST)",
-        "expired": "2026-03-25 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "area-control-battle"
-    },
-    {
-        "id": "261505",
-        "name": "License Event Vol. 1",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261505.webp?raw=true",
-        "start": "2026-03-18 13:00:00 (JST)",
-        "expired": "2026-03-25 12:59:59 (JST)",
-        "color": "#0a413c",
-        "type": "others"
-    },
-    {
-        "id": "261601",
-        "name": "Mission Event Vol. 16",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261601.webp?raw=true",
-        "start": "2026-03-25 13:00:00 (JST)",
-        "expired": "2026-04-15 12:59:59 (JST)",
-        "color": "#ff944d",
-        "type": "mission"
-    },
-    {
-        "id": "261602",
-        "name": "Drop Event Vol. 16",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261602.webp?raw=true",
-        "start": "2026-04-15 13:00:00 (JST)",
-        "expired": "2026-04-29 12:59:59 (JST)",
-        "color": "#ffff66",
-        "type": "drop"
-    },
-    {
-        "id": "261603",
-        "name": "Battle Event Vol. 9",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261603.webp?raw=true",
-        "start": "2026-04-29 13:00:00 (JST)",
-        "expired": "2026-05-27 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "battle"
-    },
-    {
-        "id": "261604",
-        "name": "T.U.N.I.N.G. Mission Event Vol. 1",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261604.webp?raw=true",
-        "start": "2026-04-01 13:00:00 (JST)",
-        "expired": "2026-04-15 12:59:59 (JST)",
-        "color": "#7aadd3",
-        "type": "others"
-    },
-    {
-        "id": "261605",
-        "name": "Area Control Battle Event Vol. 5",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261605.webp?raw=true",
-        "start": "2026-04-22 13:00:00 (JST)",
-        "expired": "2026-05-27 12:59:59 (JST)",
-        "color": "#80dfff",
-        "type": "area-control-battle"
-    },
-    {
-        "id": "261606",
-        "name": "T.U.N.I.N.G. Mission Event Vol. 2",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261606.webp?raw=true",
-        "start": "2026-05-06 13:00:00 (JST)",
-        "expired": "2026-05-20 12:59:59 (JST)",
-        "color": "#8ffe4f",
-        "type": "others"
-    },
-    {
-        "id": "261607",
-        "name": "License Event Vol. 2",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261607.webp?raw=true",
-        "start": "2026-05-20 13:00:00 (JST)",
-        "expired": "2026-05-27 12:59:59 (JST)",
-        "color": "#04cbc2",
-        "type": "others"
     },
     {
         "id": "261701",
         "name": "Mission Event Vol. 17",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261701.webp?raw=true",
-        "start": "2026-07-08 13:00:00 (JST)",
-        "expired": "2026-07-29 12:59:59 (JST)",
+        "start": "2026-07-08T04:00:00Z",
+        "expired": "2026-07-29T03:59:59Z",
         "color": "#ff944d",
         "type": "mission"
     },
@@ -615,8 +174,8 @@
         "id": "261702",
         "name": "Drop Event Vol. 17",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261702.webp?raw=true",
-        "start": "2026-06-24 13:00:00 (JST)",
-        "expired": "2026-07-08 12:59:59 (JST)",
+        "start": "2026-06-24T04:00:00Z",
+        "expired": "2026-07-08T03:59:59Z",
         "color": "#ffff66",
         "type": "drop"
     },
@@ -624,8 +183,8 @@
         "id": "261703",
         "name": "Agency Event Vol. 8",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261703.webp?raw=true",
-        "start": "2026-05-27 13:00:00 (JST)",
-        "expired": "2026-06-24 12:59:59 (JST)",
+        "start": "2026-05-27T04:00:00Z",
+        "expired": "2026-06-24T03:59:59Z",
         "color": "#66ff66",
         "type": "agency"
     },
@@ -633,90 +192,531 @@
         "id": "261704",
         "name": "T.U.N.I.N.G. Mission Event Vol. 3",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261704.webp?raw=true",
-        "start": "2026-06-03 13:00:00 (JST)",
-        "expired": "2026-06-17 12:59:59 (JST)",
-        "color": "#b14d7b",
+        "start": "2026-06-03T04:00:00Z",
+        "expired": "2026-06-17T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "261607",
+        "name": "License Event Vol. 2",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261607.webp?raw=true",
+        "start": "2026-05-20T04:00:00Z",
+        "expired": "2026-05-27T03:59:59Z",
+        "color": "#0ffe2a",
         "type": "others"
     },
     {
-        "id": "261705",
-        "name": "Area Control Battle Event Vol. 6",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261705.webp?raw=true",
-        "start": "2026-06-24 13:00:00 (JST)",
-        "expired": "2026-07-29 12:59:59 (JST)",
+        "id": "261605",
+        "name": "Area Control Battle Event Vol. 5",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261605.webp?raw=true",
+        "start": "2026-04-22T04:00:00Z",
+        "expired": "2026-05-27T03:59:59Z",
         "color": "#80dfff",
         "type": "area-control-battle"
     },
     {
-        "id": "261706",
-        "name": "T.U.N.I.N.G. Mission Event Vol. 4",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261706.webp?raw=true",
-        "start": "2026-07-08 13:00:00 (JST)",
-        "expired": "2026-07-29 12:59:59 (JST)",
-        "color": "#dfbe74",
-        "type": "others"
-    },
-    {
-        "id": "261707",
-        "name": "License Event Vol. 3",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261707.webp?raw=true",
-        "start": "2026-07-15 13:00:00 (JST)",
-        "expired": "2026-07-29 12:59:59 (JST)",
-        "color": "#600af6",
-        "type": "others"
-    },
-    {
-        "id": "261801",
-        "name": "Battle Event Vol. 10",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261801.webp?raw=true",
-        "start": "2026-07-29 13:00:00 (JST)",
-        "expired": "2026-08-26 12:59:59 (JST)",
+        "id": "261603",
+        "name": "Battle Event Vol. 9",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261603.webp?raw=true",
+        "start": "2026-04-29T04:00:00Z",
+        "expired": "2026-05-27T03:59:59Z",
         "color": "#80dfff",
         "type": "battle"
     },
     {
-        "id": "261802",
-        "name": "3-Pick Battle Event Vol. 1",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261802.webp?raw=true",
-        "start": "2026-08-26 13:00:00 (JST)",
-        "expired": "2026-09-30 12:59:59 (JST)",
-        "color": "#7489b5",
-        "type": "others"
+        "id": "261606",
+        "name": "T.U.N.I.N.G. Mission Event Vol. 2",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261606.webp?raw=true",
+        "start": "2026-05-06T04:00:00Z",
+        "expired": "2026-05-20T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
     },
     {
-        "id": "261803",
-        "name": "T.U.N.I.N.G. Mission Event Vol. 5",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261803.webp?raw=true",
-        "start": "2026-08-05 13:00:00 (JST)",
-        "expired": "2026-08-19 12:59:59 (JST)",
-        "color": "#c282a3",
-        "type": "others"
-    },
-    {
-        "id": "261804",
-        "name": "Drop Event Vol. 18",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261804.webp?raw=true",
-        "start": "2026-08-19 13:00:00 (JST)",
-        "expired": "2026-09-02 12:59:59 (JST)",
+        "id": "261602",
+        "name": "Drop Event Vol. 16",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261602.webp?raw=true",
+        "start": "2026-04-15T04:00:00Z",
+        "expired": "2026-04-29T03:59:59Z",
         "color": "#ffff66",
         "type": "drop"
     },
     {
-        "id": "261805",
-        "name": "T.U.N.I.N.G. Mission Event Vol. 6",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261805.webp?raw=true",
-        "start": "2026-09-09 13:00:00 (JST)",
-        "expired": "2026-09-30 12:59:59 (JST)",
-        "color": "#eada83",
+        "id": "261604",
+        "name": "T.U.N.I.N.G. Mission Event Vol. 1",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261604.webp?raw=true",
+        "start": "2026-04-01T04:00:00Z",
+        "expired": "2026-04-15T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "261601",
+        "name": "Mission Event Vol. 16",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261601.webp?raw=true",
+        "start": "2026-03-25T04:00:00Z",
+        "expired": "2026-04-15T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "261505",
+        "name": "License Event Vol. 1",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261505.webp?raw=true",
+        "start": "2026-03-18T04:00:00Z",
+        "expired": "2026-03-25T03:59:59Z",
+        "color": "#32bb2a",
         "type": "others"
     },
     {
-        "id": "261806",
-        "name": "License Event Vol. 4",
-        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261806.webp?raw=true",
-        "start": "2026-09-16 13:00:00 (JST)",
-        "expired": "2026-09-30 12:59:59 (JST)",
-        "color": "#b40935",
-        "type": "others"
+        "id": "261504",
+        "name": "Area Control Battle Event Vol. 4",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261504.webp?raw=true",
+        "start": "2026-03-04T04:00:00Z",
+        "expired": "2026-03-25T03:59:59Z",
+        "color": "#80dfff",
+        "type": "area-control-battle"
+    },
+    {
+        "id": "261503",
+        "name": "Agency Event Vol. 7",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261503.webp?raw=true",
+        "start": "2026-02-25T04:00:00Z",
+        "expired": "2026-03-25T03:59:59Z",
+        "color": "#66ff66",
+        "type": "agency"
+    },
+    {
+        "id": "261502",
+        "name": "Drop Event Vol. 15",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261502.webp?raw=true",
+        "start": "2026-02-11T04:00:00Z",
+        "expired": "2026-02-25T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "261501",
+        "name": "Mission Event Vol. 15",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/261501.webp?raw=true",
+        "start": "2026-01-21T04:00:00Z",
+        "expired": "2026-02-11T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "251403",
+        "name": "Battle Event Vol. 8",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251403.webp?raw=true",
+        "start": "2025-12-24T04:00:00Z",
+        "expired": "2026-01-21T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "251402",
+        "name": "Drop Event Vol. 14",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251402.webp?raw=true",
+        "start": "2025-12-10T04:00:00Z",
+        "expired": "2025-12-24T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "251401",
+        "name": "Mission Event Vol. 14",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251401.webp?raw=true",
+        "start": "2025-11-19T04:00:00Z",
+        "expired": "2025-12-10T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "251306",
+        "name": "My Hero Ultra Impact Collab Mission Event",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251306.webp?raw=true",
+        "start": "2025-09-25T08:00:00Z",
+        "expired": "2025-11-19T03:59:59Z",
+        "color": "#ccffe6",
+        "type": "mission"
+    },
+    {
+        "id": "251305",
+        "name": "Area Control Battle Event Vol. 3",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251305.webp?raw=true",
+        "start": "2025-11-05T04:00:00Z",
+        "expired": "2025-11-19T03:59:59Z",
+        "color": "#80dfff",
+        "type": "area-control-battle"
+    },
+    {
+        "id": "251304",
+        "name": "Agency Event Vol. 6",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251304.webp?raw=true",
+        "start": "2025-10-29T04:00:00Z",
+        "expired": "2025-11-19T03:59:59Z",
+        "color": "#66ff66",
+        "type": "agency"
+    },
+    {
+        "id": "251303",
+        "name": "Area Control Battle Event Vol. 2",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251303.webp?raw=true",
+        "start": "2025-10-15T04:00:00Z",
+        "expired": "2025-10-29T03:59:59Z",
+        "color": "#80dfff",
+        "type": "area-control-battle"
+    },
+    {
+        "id": "251302",
+        "name": "Drop Event Vol. 13",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251302.webp?raw=true",
+        "start": "2025-10-15T04:00:00Z",
+        "expired": "2025-10-29T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "251301",
+        "name": "Mission Event Vol. 13",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251301.webp?raw=true",
+        "start": "2025-09-24T04:00:00Z",
+        "expired": "2025-10-15T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "251204",
+        "name": "Area Control Battle Event",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251204.webp?raw=true",
+        "start": "2025-09-03T04:00:00Z",
+        "expired": "2025-09-24T03:59:59Z",
+        "color": "#80dfff",
+        "type": "area-control-battle"
+    },
+    {
+        "id": "251203",
+        "name": "Battle Event Vol. 7",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251203.webp?raw=true",
+        "start": "2025-08-27T04:00:00Z",
+        "expired": "2025-09-24T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "251202",
+        "name": "Drop Event Vol. 12",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251202.webp?raw=true",
+        "start": "2025-08-13T04:00:00Z",
+        "expired": "2025-08-27T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "251201",
+        "name": "Mission Event Vol. 12",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251201.webp?raw=true",
+        "start": "2025-07-23T04:00:00Z",
+        "expired": "2025-08-13T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "251103",
+        "name": "Agency Event Vol. 5",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251103.webp?raw=true",
+        "start": "2025-06-25T04:00:00Z",
+        "expired": "2025-07-23T03:59:59Z",
+        "color": "#66ff66",
+        "type": "agency"
+    },
+    {
+        "id": "251102",
+        "name": "Drop Event Vol. 11",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251102.webp?raw=true",
+        "start": "2025-06-11T04:00:00Z",
+        "expired": "2025-06-25T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "251101",
+        "name": "Mission Event Vol. 11",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251101.webp?raw=true",
+        "start": "2025-05-21T04:00:00Z",
+        "expired": "2025-06-11T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "251003",
+        "name": "Battle Event Vol. 6",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251003.webp?raw=true",
+        "start": "2025-04-30T04:00:00Z",
+        "expired": "2025-05-21T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "251002",
+        "name": "Mission Event Vol. 10",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251002.webp?raw=true",
+        "start": "2025-04-09T04:00:00Z",
+        "expired": "2025-04-30T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "251001",
+        "name": "Drop Event Vol. 10",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/251001.webp?raw=true",
+        "start": "2025-03-26T04:00:00Z",
+        "expired": "2025-04-09T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "250903",
+        "name": "Agency Event Vol. 4",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/250903.webp?raw=true",
+        "start": "2025-02-26T04:00:00Z",
+        "expired": "2025-03-26T03:59:59Z",
+        "color": "#66ff66",
+        "type": "agency"
+    },
+    {
+        "id": "250902",
+        "name": "Mission Event Vol. 9",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/250902.webp?raw=true",
+        "start": "2025-02-05T04:00:00Z",
+        "expired": "2025-02-26T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "250901",
+        "name": "Drop Event Vol. 9",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/250901.webp?raw=true",
+        "start": "2025-01-22T04:00:00Z",
+        "expired": "2025-02-05T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "240803",
+        "name": "Battle Event Vol. 5",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240803.webp?raw=true",
+        "start": "2025-01-01T04:00:00Z",
+        "expired": "2025-01-22T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "240802",
+        "name": "Drop Event Vol. 8",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240802.webp?raw=true",
+        "start": "2024-12-18T04:00:00Z",
+        "expired": "2025-01-01T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "240801",
+        "name": "Mission Event Vol. 8",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240801.webp?raw=true",
+        "start": "2024-11-20T04:00:00Z",
+        "expired": "2024-12-18T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "240703",
+        "name": "Agency Event Vol. 3",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240703.webp?raw=true",
+        "start": "2024-11-06T04:00:00Z",
+        "expired": "2024-11-20T03:59:59Z",
+        "color": "#66ff66",
+        "type": "agency"
+    },
+    {
+        "id": "240702",
+        "name": "Mission Event Vol. 7",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240702.webp?raw=true",
+        "start": "2024-10-09T04:00:00Z",
+        "expired": "2024-10-30T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "240701",
+        "name": "Drop Event Vol. 7",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240701.webp?raw=true",
+        "start": "2024-09-25T04:00:00Z",
+        "expired": "2024-10-09T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "240603",
+        "name": "Battle Event Vol. 4",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240603.webp?raw=true",
+        "start": "2024-04-24T15:00:00Z",
+        "expired": "2024-09-25T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "240602",
+        "name": "Mission Event Vol. 6",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240602.webp?raw=true",
+        "start": "2024-08-07T04:00:00Z",
+        "expired": "2024-08-28T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "240601",
+        "name": "Drop Event Vol. 6",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240601.webp?raw=true",
+        "start": "2024-07-24T04:00:00Z",
+        "expired": "2024-08-07T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "240503",
+        "name": "Agency Event Vol. 2",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240503.webp?raw=true",
+        "start": "2024-07-03T04:00:00Z",
+        "expired": "2024-07-24T03:59:59Z",
+        "color": "#66ff66",
+        "type": "agency"
+    },
+    {
+        "id": "240502",
+        "name": "Mission Event Vol. 5",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240502.webp?raw=true",
+        "start": "2024-06-05T04:00:00Z",
+        "expired": "2024-06-26T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "240501",
+        "name": "Drop Event vol. 5",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240501.webp?raw=true",
+        "start": "2024-05-22T04:00:00Z",
+        "expired": "2024-06-05T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "240403",
+        "name": "Battle Event Vol. 3",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240403.webp?raw=true",
+        "start": "2024-05-08T04:00:00Z",
+        "expired": "2024-05-22T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "240402",
+        "name": "Mission Event Vol. 4",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240402.webp?raw=true",
+        "start": "2024-04-10T04:00:00Z",
+        "expired": "2024-05-01T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "240401",
+        "name": "Drop Event Vol. 4",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240401.webp?raw=true",
+        "start": "2024-03-27T04:00:00Z",
+        "expired": "2024-04-10T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "240303",
+        "name": "Agency Event Vol.1",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240303.webp?raw=true",
+        "start": "2024-03-06T04:00:00Z",
+        "expired": "2024-03-26T03:59:59Z",
+        "color": "#66ff66",
+        "type": "agency"
+    },
+    {
+        "id": "240302",
+        "name": "Mission Event Vol. 3",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240302.webp?raw=true",
+        "start": "2024-02-07T04:00:00Z",
+        "expired": "2024-02-28T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "240301",
+        "name": "Drop Event Vol. 3",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/240301.webp?raw=true",
+        "start": "2024-01-25T04:00:00Z",
+        "expired": "2024-02-07T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "230203",
+        "name": "Battle Event vol. 2",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230203.webp?raw=true",
+        "start": "2024-01-09T04:00:00Z",
+        "expired": "2024-01-25T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "230202",
+        "name": "Mission Event vol. 2",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230202.webp?raw=true",
+        "start": "2023-12-11T04:00:00Z",
+        "expired": "2024-01-01T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
+    },
+    {
+        "id": "230201",
+        "name": "Drop Event vol. 2",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230201.webp?raw=true",
+        "start": "2023-11-24T04:00:00Z",
+        "expired": "2023-12-11T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "230103",
+        "name": "Battle Event vol. 1",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230103.webp?raw=true",
+        "start": "2023-11-10T04:00:00Z",
+        "expired": "2023-11-24T03:59:59Z",
+        "color": "#80dfff",
+        "type": "battle"
+    },
+    {
+        "id": "230102",
+        "name": "Drop Event vol. 1",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230102.webp?raw=true",
+        "start": "2023-10-25T04:00:00Z",
+        "expired": "2023-11-10T03:59:59Z",
+        "color": "#ffff66",
+        "type": "drop"
+    },
+    {
+        "id": "230101",
+        "name": "Mission Event vol. 1",
+        "image": "https://github.com/Joshet18/togita-himiko/blob/main/events/230101.webp?raw=true",
+        "start": "2023-09-28T04:00:00Z",
+        "expired": "2023-10-17T03:59:59Z",
+        "color": "#ff944d",
+        "type": "mission"
     }
 ]
