@@ -139,7 +139,7 @@
         "id": "3008",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch008.png?raw=true",
         "start": "2026-10-09T04:00:00Z",
-        "expired": null,
+        "expired": "2026-10-16T03:59:59Z",
         "color": "#2eb0f7",
         "type": "birthday"
     },
@@ -203,7 +203,7 @@
         "id": "3011",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch011.png?raw=true",
         "start": "2026-10-23T04:00:00Z",
-        "expired": null,
+        "expired": "2026-10-30T03:59:59Z",
         "color": "#9c8243",
         "type": "birthday"
     },
@@ -243,7 +243,7 @@
         "id": "3013",
         "image": "https://github.com/Joshet18/togita-himiko/blob/main/birthday/Ch013.png?raw=true",
         "start": "2026-11-01T04:00:00Z",
-        "expired": null,
+        "expired": "2026-11-08T03:59:59Z",
         "color": "#ddcc03",
         "type": "birthday"
     },
