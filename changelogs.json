@@ -1,5 +1,15 @@
 [
     {
+        "version": "v2.4.1",
+        "date": "27/10/2026",
+        "summary": "Calculadora de tunings y informacion de tunings",
+        "changes": [
+            "[Beta] se agrego el commando /tuning calculator para carcular cuanto buff genera una build en todos los skills",
+            "se agrego el commando /tuning info para ver la informacion sobre los tunings normales y especiales disponible",
+            "se agrego el boton de carculadora en los menu de builds de la comunidad y tunings para ver las estadisticas/buildear tu tuning"
+        ]
+    },
+    {
         "version": "v2.3.1",
         "date": "24/09/2026",
         "summary": "Arreglos de bugs",
